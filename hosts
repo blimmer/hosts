@@ -9,13 +9,13 @@
 #    someonewhocares.org
 #    StevenBlack
 #
-# Merging these sources produced 22887 unique entries
+# Merging these sources produced 23098 unique entries
 # ===============================================================
 
 # Begin malwaredomainlist.com
 #               MalwareDomainList.com Hosts List           #
 #   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
-#         Last updated: Tue, 30 Jul 13 13:35:13 +0000      #
+#         Last updated: Mon, 12 Aug 13 09:07:22 +0000      #
 
 
 127.0.0.1  localhost
@@ -30,6 +30,7 @@
 127.0.0.1  2.wholesalepbm.com
 127.0.0.1  2.zerocostfha.com
 127.0.0.1  200mail.com
+127.0.0.1  212.124.115.216-static.reverse.softlayer.com
 127.0.0.1  28ytls60.ni.net.tr
 127.0.0.1  2wnpf.tld.cc
 127.0.0.1  3.bluepointmortgage.com
@@ -156,6 +157,7 @@
 127.0.0.1  astexisnew.net
 127.0.0.1  athena.vistapages.com
 127.0.0.1  aumimo.sites.uol.com.br
+127.0.0.1  aurummulier.pl
 127.0.0.1  autodopravaskoda.cz
 127.0.0.1  autokd.cz
 127.0.0.1  automsn.hotmail.ru
@@ -204,6 +206,7 @@
 127.0.0.1  bigmama.fr
 127.0.0.1  bilico.sites.uol.com.br
 127.0.0.1  bingb.5webs.net
+127.0.0.1  biokovoholidays.com
 127.0.0.1  bj04.com
 127.0.0.1  blacknite.eu
 127.0.0.1  bleee.eu
@@ -358,6 +361,7 @@
 127.0.0.1  dreamlair.net
 127.0.0.1  dreams.co.il
 127.0.0.1  drinkapola.com
+127.0.0.1  drstephenlwolman.com
 127.0.0.1  dsdialog.org
 127.0.0.1  dslsoft.com
 127.0.0.1  dulofady.hostevo.com
@@ -374,6 +378,7 @@
 127.0.0.1  elainecmcm.sites.uol.com.br
 127.0.0.1  eldiariodeguadalajara.com
 127.0.0.1  elew72isst.rr.nu
+127.0.0.1  eliehabib.com
 127.0.0.1  eliteguys.org
 127.0.0.1  eliteman.ru
 127.0.0.1  elocumjobs.com
@@ -384,6 +389,7 @@
 127.0.0.1  emmmhhh.ru
 127.0.0.1  emotioncardspy.zapto.org
 127.0.0.1  enieargentina.com.ar
+127.0.0.1  enlistingseparated.com
 127.0.0.1  epiratko.ru
 127.0.0.1  epsomwrites.org
 127.0.0.1  era3d.com
@@ -463,6 +469,7 @@
 127.0.0.1  freshermonday.net
 127.0.0.1  ftotose.vrozetke.com
 127.0.0.1  ftp.elitamilano.org
+127.0.0.1  fuckstarts.net
 127.0.0.1  fujifork.co.jp
 127.0.0.1  fulldlzone.com
 127.0.0.1  fzukungda.ru
@@ -543,6 +550,7 @@
 127.0.0.1  iad4151.co.kr
 127.0.0.1  iamagameaddict.com
 127.0.0.1  icanquit.co.uk
+127.0.0.1  ict-telecomonline.com
 127.0.0.1  ictsolutions.net.au
 127.0.0.1  ieftin-rahat.com
 127.0.0.1  ifikangloo.ru
@@ -552,6 +560,7 @@
 127.0.0.1  ihazalittleknob.us
 127.0.0.1  iitbm.org
 127.0.0.1  ilianorkin.ru
+127.0.0.1  im.plexhost.ru
 127.0.0.1  image-circul.tk
 127.0.0.1  imfkntony.110mb.com
 127.0.0.1  img-video-xxx.com
@@ -579,6 +588,7 @@
 127.0.0.1  install.update90.com
 127.0.0.1  internalhazard.net
 127.0.0.1  internet-bb.tk
+127.0.0.1  invisibleman.info
 127.0.0.1  iolcarvalho.sites.uol.com.br
 127.0.0.1  ipl.hk
 127.0.0.1  ironman703singapore.com
@@ -586,6 +596,8 @@
 127.0.0.1  isdrjerrd.myfw.us
 127.0.0.1  isene.woelmuis.nl
 127.0.0.1  issamoda.com
+127.0.0.1  itshandmade.in
+127.0.0.1  j3.schrempf.hu
 127.0.0.1  jackson-rip.007webs.com
 127.0.0.1  jadeitependants.mainstreet.us
 127.0.0.1  jamaica.lv
@@ -595,6 +607,7 @@
 127.0.0.1  jeliasvaz.sites.uol.com.br
 127.0.0.1  jhiri.com
 127.0.0.1  jkgarments.com
+127.0.0.1  joaoaugusto2.com.br
 127.0.0.1  job-companybuild.tk
 127.0.0.1  job-compuse.tk
 127.0.0.1  johnduron.com
@@ -603,6 +616,7 @@
 127.0.0.1  juhajuhaa.ru
 127.0.0.1  juicypussyclips.com
 127.0.0.1  juniocsilva.sites.uol.com.br
+127.0.0.1  jwkitchendesign.co.uk
 127.0.0.1  kagiulietti.sites.uol.com.br
 127.0.0.1  kaisersoundlight.com
 127.0.0.1  kalantzis.net
@@ -624,11 +638,15 @@
 127.0.0.1  khosh.khorack.webphoto.ir
 127.0.0.1  kid-u.com.ar
 127.0.0.1  killzonersax.com
+127.0.0.1  kipasdenim.com
 127.0.0.1  kiviturizm.com
 127.0.0.1  kjsyxx.cn
+127.0.0.1  klass-b2010.msk.ru
 127.0.0.1  klaunfickeninarsh.com
+127.0.0.1  kodfraj.ru
 127.0.0.1  kominas.servegame.org
 127.0.0.1  komp-uter.org
+127.0.0.1  kontinenttsb.ru
 127.0.0.1  korrrrrrnnnnqlmdzhnz.edns.biz
 127.0.0.1  koudi.cz
 127.0.0.1  krebstest.interx2.net
@@ -640,22 +658,29 @@
 127.0.0.1  kvmathurabaad.com
 127.0.0.1  kvpflbvhg.myfw.us
 127.0.0.1  lab-cntest.tk
+127.0.0.1  labelleromaine-cattery.com
+127.0.0.1  labottegamediterranea.com
 127.0.0.1  ladycomfort.com.ar
 127.0.0.1  lafabbricadelleidee.net
 127.0.0.1  lan2wave.com
 127.0.0.1  laservice.sites.uol.com.br
 127.0.0.1  laurianoalmeida.sites.uol.com.br
+127.0.0.1  lawtonadams.com
 127.0.0.1  lcbcad.co.uk
 127.0.0.1  lcstudies.ru
 127.0.0.1  legalizationofmarijuana.com
 127.0.0.1  leonardolnx.webs.com
+127.0.0.1  lexfort.ru
+127.0.0.1  linalex.com
 127.0.0.1  linkforme.tk
+127.0.0.1  lissi.univ-paris12.fr
 127.0.0.1  littlecommon.net
 127.0.0.1  littleknobnsack.us
 127.0.0.1  live-dir.tk
 127.0.0.1  livrariaonline.net
 127.0.0.1  lkjs.cn
 127.0.0.1  locooffroad.com
+127.0.0.1  lokavidu.com
 127.0.0.1  londonescortslist.net
 127.0.0.1  lookdownloads.com
 127.0.0.1  ltafoundation.com
@@ -676,17 +701,21 @@
 127.0.0.1  ludastore.com
 127.0.0.1  lukas69.webs.com
 127.0.0.1  lulzstack.com
+127.0.0.1  lunatruth.com
 127.0.0.1  lupinkova.com
 127.0.0.1  lustadult.com
 127.0.0.1  luwyou.com
 127.0.0.1  lvhr.net
 127.0.0.1  lyndaporfiri.dreamstation.com
+127.0.0.1  m2turismo.com.br
 127.0.0.1  madaboutleisure.wsini.com
 127.0.0.1  madereiraxopoto.sites.uol.com.br
+127.0.0.1  magazaradyo.com
 127.0.0.1  mahabad-samaschools.ir
 127.0.0.1  mailboto.com
 127.0.0.1  malest.com
 127.0.0.1  manoellucas1975.sites.uol.com.br
+127.0.0.1  manoske.com
 127.0.0.1  maplehey.com
 127.0.0.1  marco-cerqueira.sites.uol.com.br
 127.0.0.1  mardigrasokc.com
@@ -706,8 +735,11 @@
 127.0.0.1  marx-brothers.mhwang.com
 127.0.0.1  maskan5.ir
 127.0.0.1  master1.biz
+127.0.0.1  mayki.studentlar.ru
 127.0.0.1  mbrdot.tk
 127.0.0.1  mcmpessa.sites.uol.com.br
+127.0.0.1  mdentistry.com.au
+127.0.0.1  mechtapoeta.sumy.ua
 127.0.0.1  medas-mall.com
 127.0.0.1  media9s.com
 127.0.0.1  medicalmarijuanablog.com
@@ -721,12 +753,16 @@
 127.0.0.1  mike-jackson.007webs.com
 127.0.0.1  mirkakoubkova.cz
 127.0.0.1  mlpoint.pt
+127.0.0.1  mlpowersystems.co.uk
+127.0.0.1  mobilorder.com
 127.0.0.1  montezuma.spb.ru
+127.0.0.1  motors.tiger-vac.com
 127.0.0.1  mountainmagiccomputers.com
 127.0.0.1  movementscooter.com
 127.0.0.1  mozconstruction.com
 127.0.0.1  mstraw.com
 127.0.0.1  mt-canete.sites.uol.com.br
+127.0.0.1  multicamcrops.com
 127.0.0.1  mvt.c4.fr
 127.0.0.1  my-web1.tk
 127.0.0.1  mycleanpc.tk
@@ -737,6 +773,8 @@
 127.0.0.1  mysportsadvisor.com
 127.0.0.1  nabobil.com
 127.0.0.1  nadegda-95.ru
+127.0.0.1  nakada.ru
+127.0.0.1  nametech.ru
 127.0.0.1  naperclinicalresearch.com
 127.0.0.1  narrow.azenergyforum.com
 127.0.0.1  narrowroadpublications.com
@@ -761,18 +799,25 @@
 127.0.0.1  ns1.updatesdns.org
 127.0.0.1  ns2ns1.tk
 127.0.0.1  nudebeachgalleries.net
+127.0.0.1  nuovosito.donaconamore.it
 127.0.0.1  nuptialimages.com
+127.0.0.1  nutnet.ir
 127.0.0.1  obada-konstruktiwa.org
 127.0.0.1  obkom.net.ua
 127.0.0.1  officeon.ch.ma
+127.0.0.1  ogrant.com.ua
 127.0.0.1  oitsolutions.ca
+127.0.0.1  okdeti.ru
 127.0.0.1  oknarai.ru
+127.0.0.1  old.epu.bg
+127.0.0.1  old.rpdon.ru
 127.0.0.1  oldar.eu
 127.0.0.1  oldconsolevideo.com
 127.0.0.1  olotraf.com
 127.0.0.1  onbevenede.com
 127.0.0.1  onlinetubes24.com
 127.0.0.1  ontariousedautoparts.ca
+127.0.0.1  oportunidadesreyfi.com
 127.0.0.1  orbowlada.strefa.pl
 127.0.0.1  orkut.krovatka.su
 127.0.0.1  ort.com.mx
@@ -796,29 +841,37 @@
 127.0.0.1  penwithian.co.uk
 127.0.0.1  perimetersoftware.com
 127.0.0.1  petrivka.com.ua
+127.0.0.1  petro-alliance.ru
+127.0.0.1  phs.horizon.kodingen.com
 127.0.0.1  pic.starsarabian.com
 127.0.0.1  pietka.eu
 127.0.0.1  pinkribbonsingapore.com
 127.0.0.1  pixwall.net
+127.0.0.1  platiniumcars.com
 127.0.0.1  platsovetrf.ru
 127.0.0.1  pleasewaitwhileloading.com
 127.0.0.1  plengeh.wen.ru
+127.0.0.1  podveska-hde.ru
 127.0.0.1  podzemi.myotis.info
 127.0.0.1  pokachi.net
 127.0.0.1  police11.provenprotection.net
+127.0.0.1  pontuall.com.br
 127.0.0.1  porn-gate.com
 127.0.0.1  pornstarss.tk
 127.0.0.1  port.bg
 127.0.0.1  portablevaporizer.com
 127.0.0.1  pos-kupang.com
 127.0.0.1  potvaporizer.com
+127.0.0.1  praxisww.com
 127.0.0.1  prazer2008.sites.uol.com.br
 127.0.0.1  preview.licenseacquisition.org
 127.0.0.1  pride-u-bike.com
+127.0.0.1  primaxi.com.ec
 127.0.0.1  private.hotelcesenaticobooking.info
 127.0.0.1  profile-addnew.tk
 127.0.0.1  programslist.com
 127.0.0.1  proje-market.com
+127.0.0.1  prommarket.info
 127.0.0.1  prosearchs.com
 127.0.0.1  proxfied.net
 127.0.0.1  publiccasinoil.com
@@ -838,6 +891,7 @@
 127.0.0.1  r.591wahaha.cn
 127.0.0.1  r5eletrica.sites.uol.com.br
 127.0.0.1  rabeachproperties.devideas.net
+127.0.0.1  radiantlifephotography.com
 127.0.0.1  rafiltros.sites.uol.com.br
 127.0.0.1  rafttech.com.au
 127.0.0.1  randy-santos-tuc.sites.uol.com.br
@@ -861,17 +915,21 @@
 127.0.0.1  revealhybrids.biz
 127.0.0.1  revistaelite.com
 127.0.0.1  revistasdelinterior.com.ar
+127.0.0.1  rgorodok.ru
 127.0.0.1  robertovmachado.sites.uol.com.br
 127.0.0.1  rogerio.lima1975.sites.uol.com.br
 127.0.0.1  roks.ua
 127.0.0.1  rolemodelstreetteam.invasioncrew.com
 127.0.0.1  romsigmed.ro
+127.0.0.1  romvarimarton.hu
 127.0.0.1  roorbong.com
 127.0.0.1  root.51113.com
 127.0.0.1  roselline.sites.uol.com.br
 127.0.0.1  rotatearound32.com
 127.0.0.1  rotfron.tayloralumni.org
+127.0.0.1  rsiuk.co.uk
 127.0.0.1  rtrani.sites.uol.com.br
+127.0.0.1  rubet.pl
 127.0.0.1  rudsonfr.sites.uol.com.br
 127.0.0.1  ruiyangcn.com
 127.0.0.1  runnersday.com.sg
@@ -881,9 +939,11 @@
 127.0.0.1  s2web.sites.uol.com.br
 127.0.0.1  sabcentrosul.sites.uol.com.br
 127.0.0.1  sadkajt357.com
+127.0.0.1  saemark.is
 127.0.0.1  safenews.5webs.net
 127.0.0.1  safety.amw.com
 127.0.0.1  sainitravels.in
+127.0.0.1  salle-delhoutland.com
 127.0.0.1  saloongins.net
 127.0.0.1  sanadahiroyuki.com
 127.0.0.1  sandrahyczy.sites.uol.com.br
@@ -893,6 +953,7 @@
 127.0.0.1  sapayne.com
 127.0.0.1  saturnleague.com
 127.0.0.1  sbnc.hak.su
+127.0.0.1  scaleslogistics.co.nz
 127.0.0.1  scan-domain.org
 127.0.0.1  scaner-do.tk
 127.0.0.1  scaner-ex.tk
@@ -917,6 +978,7 @@
 127.0.0.1  senzatel.com
 127.0.0.1  seoholding.com
 127.0.0.1  seonetwizard.com
+127.0.0.1  sergiocunha.com
 127.0.0.1  serials-keys.com
 127.0.0.1  serialswork.net
 127.0.0.1  serraikizimi.gr
@@ -924,9 +986,11 @@
 127.0.0.1  server.hyper-info.com
 127.0.0.1  server1.extra-web.cz
 127.0.0.1  server2.ss2.name
+127.0.0.1  servicesit.ru
 127.0.0.1  seventeen.co.za
 127.0.0.1  sexyster.tk
 127.0.0.1  sexzoznamka.eu
+127.0.0.1  siempreweb.es
 127.0.0.1  sillinesslegend.info
 127.0.0.1  silva-gomes1975.sites.uol.com.br
 127.0.0.1  simone.skill.sites.uol.com.br
@@ -947,6 +1011,7 @@
 127.0.0.1  solonmdr.xpg.com.br
 127.0.0.1  somethingsomethingblahblahblah.com
 127.0.0.1  somnoy.com
+127.0.0.1  sompit.com
 127.0.0.1  sonsinpiscinas.sites.uol.com.br
 127.0.0.1  sota-net.ru
 127.0.0.1  soundcomputers.net
@@ -957,29 +1022,34 @@
 127.0.0.1  spatsz.com
 127.0.0.1  spekband.com
 127.0.0.1  spieth.com
+127.0.0.1  sport-com.it
 127.0.0.1  sportsulsan.co.kr
 127.0.0.1  spykit.110mb.com
 127.0.0.1  srslogisticts.com
 127.0.0.1  ssgurukulmavadirajkot.org
 127.0.0.1  sskalski.sites.uol.com.br
 127.0.0.1  stailapoza.ro
+127.0.0.1  stantop.pl
 127.0.0.1  start010.007webs.com
 127.0.0.1  staticpoints.info
 127.0.0.1  statistic73.net
 127.0.0.1  statisticpoint.info
 127.0.0.1  stellarperfomance.com
+127.0.0.1  stimul-m.com.ua
 127.0.0.1  stjohnsdryden.org
 127.0.0.1  storgas.co.rs
 127.0.0.1  stormpages.com
 127.0.0.1  suburbanrun.com
 127.0.0.1  successcontinued.com
 127.0.0.1  sudcom.org
+127.0.0.1  sudovina.ru
 127.0.0.1  suiauuqe.anitamcfarlandhomes.com
 127.0.0.1  suicud.net
 127.0.0.1  sundownmarathon.com
 127.0.0.1  sunlux.net
 127.0.0.1  sunny99.cholerik.cz
 127.0.0.1  supertv.co.il
+127.0.0.1  sushikatani.ru
 127.0.0.1  sutra2s.info
 127.0.0.1  svetyivanrilski.com
 127.0.0.1  svision-online.de
@@ -994,13 +1064,17 @@
 127.0.0.1  tecnocuer.com
 127.0.0.1  teenxmovs.com
 127.0.0.1  teenyxxxtube.com
+127.0.0.1  tem-po.ru
 127.0.0.1  tendersource.com
 127.0.0.1  teonflex1.tk
+127.0.0.1  territoriya-slov.ru
 127.0.0.1  test2.petenawara.com
+127.0.0.1  test5.opti-net.ru
 127.0.0.1  textsex.tk
 127.0.0.1  thcextractor.com
 127.0.0.1  thcvaporizer.com
 127.0.0.1  the-healthy-place.com
+127.0.0.1  theatre-mdt.ru
 127.0.0.1  themoodmusic.com
 127.0.0.1  thepowerbuilder.com
 127.0.0.1  thorpeinstitute.com
@@ -1010,7 +1084,6 @@
 127.0.0.1  toddscarwash.com
 127.0.0.1  tomalinoalambres.com.ar
 127.0.0.1  tomiya.sites.uol.com.br
-127.0.0.1  tompaynemasonry.com
 127.0.0.1  topbooks.007webs.com
 127.0.0.1  topbooks2.007webs.com
 127.0.0.1  topbooks3.007webs.com
@@ -1026,6 +1099,8 @@
 127.0.0.1  transrealtt.sites.uol.com.br
 127.0.0.1  tranti.ru
 127.0.0.1  tratormaqptu1.sites.uol.com.br
+127.0.0.1  trening.dp.ua
+127.0.0.1  triaunity.ru
 127.0.0.1  trichurcricketonline.com
 127.0.0.1  tubemoviez.com
 127.0.0.1  tudonovoxr01.sites.uol.com.br
@@ -1065,11 +1140,14 @@
 127.0.0.1  vijetha.co.in
 127.0.0.1  vimporntube.com
 127.0.0.1  vipdn123.blackapplehost.com
+127.0.0.1  virszigetszallasok.hu
 127.0.0.1  virustotal.com.br
+127.0.0.1  vitamasaz.pl
 127.0.0.1  vivaweb.org
 127.0.0.1  vkont.bos.ru
 127.0.0.1  vocational-training.us
 127.0.0.1  vodkkaredbuuull.chickenkiller.com
+127.0.0.1  voktel.com
 127.0.0.1  voyeurpornweb.com
 127.0.0.1  vural-electronic.com
 127.0.0.1  vvps.ws
@@ -1079,11 +1157,13 @@
 127.0.0.1  wahyufian.zoomshare.com
 127.0.0.1  wallpapers91.com
 127.0.0.1  warco.pl
+127.0.0.1  waterborn.pl
 127.0.0.1  wbappm.com
 127.0.0.1  wc0x83ghk.homepage.t-online.de
 127.0.0.1  web-domain.tk
 127.0.0.1  web-fill.tk
 127.0.0.1  web-olymp.ru
+127.0.0.1  web.ulc.ir
 127.0.0.1  web.yuejing163.com
 127.0.0.1  webcam-teens.in
 127.0.0.1  webcashmaker.com
@@ -1095,6 +1175,7 @@
 127.0.0.1  websalesusa.com
 127.0.0.1  wetjane.x10.mx
 127.0.0.1  wfoto.front.ru
+127.0.0.1  whataviewwindowcleaning.com
 127.0.0.1  widewayinc.com
 127.0.0.1  widolove.com
 127.0.0.1  win2150.vs.easily.co.uk
@@ -1117,6 +1198,7 @@
 127.0.0.1  www.accaddeoggi.it
 127.0.0.1  www.afterabortion.com
 127.0.0.1  www.alcamarsaci.cl
+127.0.0.1  www.alportomilano.it
 127.0.0.1  www.alvarogarcia.org
 127.0.0.1  www.amd20093.xpg.com.br
 127.0.0.1  www.amd20095.xpg.com.br
@@ -1127,15 +1209,19 @@
 127.0.0.1  www.andressolimano.com
 127.0.0.1  www.angolotesti.it
 127.0.0.1  www.antifatiguekitchenmats.com
+127.0.0.1  www.arkgroupus.com
+127.0.0.1  www.assize.org
 127.0.0.1  www.asu.msmu.ru
 127.0.0.1  www.avrakougioumtzi.gr
 127.0.0.1  www.bailgun.com
 127.0.0.1  www.bannery.cz
 127.0.0.1  www.baunproject.org
 127.0.0.1  www.betheboss.it
+127.0.0.1  www.blestalbud.eu
 127.0.0.1  www.brandine.com
 127.0.0.1  www.briko-maplus.ru
 127.0.0.1  www.bro100.ru
+127.0.0.1  www.broderiecanevas.com
 127.0.0.1  www.byk23cc.xpg.com.br
 127.0.0.1  www.caixa-rox-2010.kit.net
 127.0.0.1  www.camargoturismo.com.br
@@ -1144,10 +1230,12 @@
 127.0.0.1  www.chateautelavi.com
 127.0.0.1  www.chiangmaihighlands.com
 127.0.0.1  www.cislbelluno.it
+127.0.0.1  www.coloritpak.by
 127.0.0.1  www.coopcento.it
 127.0.0.1  www.cridea.es
 127.0.0.1  www.daliaprestige.org
 127.0.0.1  www.danlevin.net
+127.0.0.1  www.darayuth.co.th
 127.0.0.1  www.darkmatterdesign.ca
 127.0.0.1  www.daspar.net
 127.0.0.1  www.datapel.net
@@ -1158,20 +1246,30 @@
 127.0.0.1  www.defstu.com
 127.0.0.1  www.desaparecidos.kit.net
 127.0.0.1  www.devocionalpc.com.ar
+127.0.0.1  www.dimsushi.com.ua
 127.0.0.1  www.djrafaz.xpg.com.br
 127.0.0.1  www.dkfft77.xpg.com.br
+127.0.0.1  www.docmedez.com
 127.0.0.1  www.doctor-alex.com
+127.0.0.1  www.dog-vip.ru
 127.0.0.1  www.dowdenphotography.com
 127.0.0.1  www.downloaddirect.com
 127.0.0.1  www.earnfreak.de
 127.0.0.1  www.ecbooks.ca
+127.0.0.1  www.eco360.it
+127.0.0.1  www.ecopuntogroup.it
+127.0.0.1  www.elsje.co.za
+127.0.0.1  www.emotiontag.net
 127.0.0.1  www.empadao.xpg.com.br
 127.0.0.1  www.enviolouco.xpg.com.br
+127.0.0.1  www.espace-francoise-farrugia.com
 127.0.0.1  www.estudiocasto.com.ar
+127.0.0.1  www.eubuild.com
 127.0.0.1  www.ewyiylvh.h2127755.stratoserver.net
 127.0.0.1  www.fafica.com
 127.0.0.1  www.falaki2010.xpg.com.br
 127.0.0.1  www.faloge.com
+127.0.0.1  www.fasadobygg.com
 127.0.0.1  www.felix-bobinger.de
 127.0.0.1  www.flepstudio.org
 127.0.0.1  www.florindaorazi.com
@@ -1182,6 +1280,7 @@
 127.0.0.1  www.gamecall.ru
 127.0.0.1  www.gamesnovo.xpg.com.br
 127.0.0.1  www.gbcorp.xpg.com.br
+127.0.0.1  www.givoletto5stelle.it
 127.0.0.1  www.gnnet.co.kr
 127.0.0.1  www.googlechrome2013.com
 127.0.0.1  www.graceandtruthchurch.org
@@ -1189,37 +1288,58 @@
 127.0.0.1  www.groolyns.com
 127.0.0.1  www.guidopietro.com.ar
 127.0.0.1  www.hacko.org
+127.0.0.1  www.hassuurunleri.net
+127.0.0.1  www.hausnet.ru
+127.0.0.1  www.hedgerlearning.com
 127.0.0.1  www.hillaryfaithministry.com
 127.0.0.1  www.hjm.nu
+127.0.0.1  www.hk-kingsky.com
+127.0.0.1  www.hnhstaalbouw.nl
+127.0.0.1  www.hojanovice.cz
 127.0.0.1  www.hopedworaczyk.com
 127.0.0.1  www.hospedar.xpg.com.br
 127.0.0.1  www.httpeds.xpg.com.br
 127.0.0.1  www.httpeds2.xpg.com.br
 127.0.0.1  www.ilmeone.org
 127.0.0.1  www.indianchampissage.com
+127.0.0.1  www.inforsoft.com.br
 127.0.0.1  www.infra.by
 127.0.0.1  www.insideoutswimming.com
 127.0.0.1  www.iphonedevcamp.nl
+127.0.0.1  www.isikpandizot.com
+127.0.0.1  www.italianconsulting.sg
 127.0.0.1  www.j-vision.co.kr
+127.0.0.1  www.jalvarez.us
+127.0.0.1  www.jardinerie-faichaudnouvelle.com
+127.0.0.1  www.joomlalivechat.com
 127.0.0.1  www.kcta.or.kr
 127.0.0.1  www.keepsaketributes.com
 127.0.0.1  www.keroroworld.com
 127.0.0.1  www.kgbarquivos.xpg.com.br
+127.0.0.1  www.khuanplangu.ac.th
 127.0.0.1  www.kiviturizm.com
 127.0.0.1  www.kjbbc.net
+127.0.0.1  www.kknstore.com
+127.0.0.1  www.kvartsovet.ru
 127.0.0.1  www.kwekalu.net
 127.0.0.1  www.kwistal.nl
 127.0.0.1  www.lafabbricadelleidee.net
+127.0.0.1  www.lenta-printer.net
 127.0.0.1  www.lexluthor155.xpg.com.br
 127.0.0.1  www.lipro2.eu
+127.0.0.1  www.litra.com.mk
 127.0.0.1  www.livesex.xpg.com.br
 127.0.0.1  www.livrariaviasapiens.com.br
+127.0.0.1  www.lmgclient.com
+127.0.0.1  www.lorudnik.edu.pl
 127.0.0.1  www.lotusconcept.com
+127.0.0.1  www.lotyzapoznawcze.pl
 127.0.0.1  www.lovedacha.com
 127.0.0.1  www.lowerinsurancebill.net
 127.0.0.1  www.lowes-pianos-and-organs.com
 127.0.0.1  www.lsslss.xpg.com.br
 127.0.0.1  www.lulu232.xpg.com.br
+127.0.0.1  www.lunatruth.com
 127.0.0.1  www.lyzgs.com
 127.0.0.1  www.makohela.tk
 127.0.0.1  www.marlaktuell.de
@@ -1229,37 +1349,51 @@
 127.0.0.1  www.molesa.xpg.com.br
 127.0.0.1  www.mpsystem.it
 127.0.0.1  www.muzeeum.nl
+127.0.0.1  www.na7iran.org
 127.0.0.1  www.novotempo1.xpg.com.br
+127.0.0.1  www.nowa.marmed.pl
 127.0.0.1  www.obyz.de
 127.0.0.1  www.offerent.com
 127.0.0.1  www.ohiomm.com
 127.0.0.1  www.oiluk.net
 127.0.0.1  www.onebigmaine.com
+127.0.0.1  www.over50datingservices.com
 127.0.0.1  www.panazan.ro
 127.0.0.1  www.parfumer.by
 127.0.0.1  www.pasrokerij.nl
 127.0.0.1  www.passificadormirc.xpg.com.br
 127.0.0.1  www.paty88.xpg.com.br
 127.0.0.1  www.perupuntocom.com
+127.0.0.1  www.petrecere-de-basm.ro
 127.0.0.1  www.photoshock.com.pt
+127.0.0.1  www.pirozhnichenko.ru
 127.0.0.1  www.pjirc.com
 127.0.0.1  www.poffet.net
+127.0.0.1  www.pontuall.com.br
 127.0.0.1  www.powerful.pl
+127.0.0.1  www.praxisww.com
 127.0.0.1  www.prfelectrical.com.au
+127.0.0.1  www.primaxi.com.ec
 127.0.0.1  www.professionalblackbook.com
 127.0.0.1  www.propan.ru
 127.0.0.1  www.protizer.net
+127.0.0.1  www.psf-finist.ru
 127.0.0.1  www.purplehorses.net
 127.0.0.1  www.quickcraft.com.br
 127.0.0.1  www.realinnovation.com
+127.0.0.1  www.realtimemedia.ru
 127.0.0.1  www.rebeccacella.com
 127.0.0.1  www.rempko.sk
 127.0.0.1  www.riktoetenel.com
 127.0.0.1  www.rlproject.xpg.com.br
+127.0.0.1  www.romaleonardo.it
 127.0.0.1  www.rooversadvocatuur.nl
 127.0.0.1  www.roxpriv8.xpg.com.br
 127.0.0.1  www.rtzdefacer.xpg.com.br
 127.0.0.1  www.rtzdefacer2.xpg.com.br
+127.0.0.1  www.saemark.is
+127.0.0.1  www.sama.kz
+127.0.0.1  www.sanchoiv.com
 127.0.0.1  www.sanseracingteam.com
 127.0.0.1  www.scorpionbkn.xpg.com.br
 127.0.0.1  www.searchenginesmarketingblog.com
@@ -1267,8 +1401,11 @@
 127.0.0.1  www.serciudadano.com.ar
 127.0.0.1  www.sitepalace.com
 127.0.0.1  www.slayerlife.com
+127.0.0.1  www.smilingsoulcoaching.com
+127.0.0.1  www.solnechnyzaichik.ru
 127.0.0.1  www.sonnoli.com
 127.0.0.1  www.sowyen.co.kr
+127.0.0.1  www.spicermotors.net
 127.0.0.1  www.spris.com
 127.0.0.1  www.stdfiletonetansert.com.cn
 127.0.0.1  www.stirparts.ru
@@ -1277,6 +1414,7 @@
 127.0.0.1  www.suporte012009.xpg.com.br
 127.0.0.1  www.t-sb.net
 127.0.0.1  www.tdms.saglik.gov.tr
+127.0.0.1  www.tehnika-hyundai.ru
 127.0.0.1  www.temporadanova1.xpg.com.br
 127.0.0.1  www.theartsgarage.com
 127.0.0.1  www.thekingpin.net
@@ -1287,6 +1425,7 @@
 127.0.0.1  www.tpt.edu.in
 127.0.0.1  www.tudoaqui2.xpg.com.br
 127.0.0.1  www.ucheba.ru
+127.0.0.1  www.unimedvr.com.br
 127.0.0.1  www.unisgolf.ch
 127.0.0.1  www.unixpoint02.xpg.com.br
 127.0.0.1  www.uriyuri.com
@@ -1295,14 +1434,21 @@
 127.0.0.1  www.vvvic.com
 127.0.0.1  www.vw-freaks.net
 127.0.0.1  www.weblist.xpg.com.br
+127.0.0.1  www.whataviewwindowcleaning.com
 127.0.0.1  www.whitesports.co.kr
 127.0.0.1  www.widestep.com
 127.0.0.1  www.wigglewoo.com
 127.0.0.1  www.wildsap.com
 127.0.0.1  www.wrestlingexposed.com
+127.0.0.1  www.wtcorp.net
+127.0.0.1  www.wypoczynku.www.wypoczynet.pl
+127.0.0.1  www.wyroki.eu
 127.0.0.1  www.xiruz.kit.net
+127.0.0.1  www.xn----7sbhclawz4amhce8d.xn--p1ai
+127.0.0.1  www.xn----btbheac0cddhg5d.xn--p1ai
 127.0.0.1  www.xxparceroxx.xpg.com.br
 127.0.0.1  www.ypu.edu.tw
+127.0.0.1  www.zfttk.ru
 127.0.0.1  www.zyxyfy.com
 127.0.0.1  www12.0zz0.com
 127.0.0.1  www2.unionfilesexchnges.su
@@ -1311,11 +1457,13 @@
 127.0.0.1  xaumous.club-106.com.ar
 127.0.0.1  xindalawyer.com
 127.0.0.1  xisrandom.net
+127.0.0.1  xn----htbhgq6ahee6j.xn--p1ai
 127.0.0.1  xoomer.alice.it
 127.0.0.1  xoqaquqo.the-elites.com
 127.0.0.1  xorgwebs.webs.com
 127.0.0.1  xpornstarsckc.ddns.name
 127.0.0.1  xtremcolors.com
+127.0.0.1  yanasushi.eu
 127.0.0.1  yazminx.com
 127.0.0.1  yj1b4.ru
 127.0.0.1  yougube.com
@@ -1324,6 +1472,7 @@
 127.0.0.1  ytoimneyqawernmkla.deswelt.net
 127.0.0.1  z32538.nb.host127-0-0-1.com
 127.0.0.1  za.omovigminet.ru
+127.0.0.1  zametki-gurmana.ru
 127.0.0.1  zc287xl.servepics.com
 127.0.0.1  zgsysz.com
 127.0.0.1  zinetag.net
@@ -16846,7 +16995,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jul 22nd, 2013 at 12:28
+# Last updated: Aug 12th, 2013 at 17:30
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -17146,6 +17295,9 @@ fe80::1%lo0     localhost
 #127.0.0.1 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
 #</maybe-spy>
 
+#127.0.0.1 ll.a.hulu.com	# Uncomment to block Hulu. 
+#127.0.0.1 t2.hulu.com		# Uncomment to block Hulu. 
+#127.0.0.1 track.hulu.com	# Uncomment to block Hulu. 
 127.0.0.1 006.freecounters.co.uk
 127.0.0.1 06272002-dbase.hitcountz.net # Web bugs in spam
 127.0.0.1 0stats.com
@@ -17675,7 +17827,6 @@ fe80::1%lo0     localhost
 127.0.0.1 straighttangerine.cz.cc
 127.0.0.1 sugoicounter.com
 127.0.0.1 superstats.com
-127.0.0.1 t2.hulu.com
 127.0.0.1 tagging.outrider.com
 127.0.0.1 targetnet.com
 127.0.0.1 tates.freestats.com
@@ -18965,7 +19116,9 @@ fe80::1%lo0     localhost
 #</maybe-ads>
 
 # ads
+#127.0.0.1 ad.hulu.com		# Uncomment to block Hulu.
 #127.0.0.1 adf.ly
+#127.0.0.1 ads.hulu.com		# Uncomment to block Hulu.
 127.0.0.1 0101011.com
 127.0.0.1 0d79ed.r.axf8.net
 127.0.0.1 0pn.ru
@@ -19060,7 +19213,6 @@ fe80::1%lo0     localhost
 127.0.0.1 ad.gra.pl
 127.0.0.1 ad.greenmarquee.com
 127.0.0.1 ad.horvitznewspapers.net
-127.0.0.1 ad.hulu.com
 127.0.0.1 ad.iconadserver.com
 127.0.0.1 ad.investopedia.com
 127.0.0.1 ad.isohunt.com
@@ -22909,6 +23061,7 @@ fe80::1%lo0     localhost
 127.0.0.1 www.treeloot.com
 127.0.0.1 www.trendnews.com
 127.0.0.1 www.trendsonline.biz
+127.0.0.1 www.trendsonline.mobi
 127.0.0.1 www.tutop.com
 127.0.0.1 www.tuttosessogratis.org
 127.0.0.1 www.uleadstrk.com
@@ -24847,6 +25000,74 @@ fe80::1%lo0     localhost
 127.0.0.1 zyrtec.3.p2l.info
 127.0.0.1 zyrtec.4.p2l.info
 #</wiki-spam-sites>
+
+#<Phorm-sites>
+
+# Phorm contextual advertising sites
+127.0.0.1 a.openinternetexchange.com
+127.0.0.1 a.phormlabs.com
+127.0.0.1 br.phorm.com
+127.0.0.1 bt.phorm.com
+127.0.0.1 d.oix.com
+127.0.0.1 d.phormlabs.com
+127.0.0.1 ig.fp.oix.net
+127.0.0.1 invite.gezinti.com
+127.0.0.1 kentsucks.youcanoptout.com
+127.0.0.1 kr.phorm.com
+127.0.0.1 mail.youcanoptout.com
+127.0.0.1 mail.youcanoptout.net
+127.0.0.1 mail.youcanoptout.org
+127.0.0.1 monitor.phorm.com
+127.0.0.1 mx01.openinternetexchange.com
+127.0.0.1 mx01.openinternetexchange.net
+127.0.0.1 mx01.webwise.com
+127.0.0.1 mx03.phorm.com
+127.0.0.1 navegador.oi.com.br
+127.0.0.1 navegador.telefonica.com.br
+127.0.0.1 ns1.openinternetexchange.com
+127.0.0.1 ns1.phorm.com
+127.0.0.1 ns2.openinternetexchange.com
+127.0.0.1 ns2.phorm.com
+127.0.0.1 ns2.youcanoptout.com
+127.0.0.1 ns3.openinternetexchange.com
+127.0.0.1 oi.webnavegador.com.br
+127.0.0.1 oix-stage.net
+127.0.0.1 oix.phorm.com
+127.0.0.1 oixcrv-lab.net
+127.0.0.1 oixcrv-stage.net
+127.0.0.1 oixcrv.net
+127.0.0.1 oixpre-stage.net
+127.0.0.1 oixpre.net
+127.0.0.1 oixssp-lab.net
+127.0.0.1 oixssp.net
+127.0.0.1 openinternetexchange.com
+127.0.0.1 openinternetexchange.net
+127.0.0.1 phorm.kr
+127.0.0.1 phormlabs.com
+127.0.0.1 prm-ext.phorm.com
+127.0.0.1 romdiscover.com
+127.0.0.1 rtc.romdiscover.com
+127.0.0.1 stats.oix.com
+127.0.0.1 stopphoulplay.com
+127.0.0.1 stopphoulplay.net
+127.0.0.1 telefonica.webnavegador.com.br
+127.0.0.1 terra.fp.oix.net
+127.0.0.1 ui.oix.net
+127.0.0.1 w.oix.net
+127.0.0.1 webnavegador.com.br
+127.0.0.1 www.gezinti.com
+127.0.0.1 www.gozatar.com
+127.0.0.1 www.openinternetexchange.com
+127.0.0.1 www.phormlabs.com
+127.0.0.1 www.stopphoulplay.com
+127.0.0.1 www.youcanoptout.com
+127.0.0.1 www.youcanoptout.net
+127.0.0.1 www.youcanoptout.org
+127.0.0.1 xxyyzz.youcanoptout.com
+127.0.0.1 youcanoptout.com
+127.0.0.1 youcanoptout.net
+127.0.0.1 youcanoptout.org
+#</Phorm-sites>
 
 # Acknowledgements
 # I'd like to thank the following people for submitting sites, and
