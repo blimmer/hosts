@@ -75,3 +75,6 @@ and run:
 Open a Terminal and run:
 
 `/etc/rc.d/init.d/nscd restart`
+
+## Donate
+Want to [buy me a beer](https://venmo.com/?txn=pay&recipients=ben%40benlimmer.com&note=for%20Github%20Hosts%20project)? Thanks!
