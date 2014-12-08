@@ -190,6 +190,9 @@ def removeDups(mergeFile):
 
     rules_seen = set()
     for line in mergeFile.readlines():
+        line = line.strip()
+        if len(line) is 0:
+            continue
         if line[0].startswith('#') or line[0] == '\n':
             finalFile.write(line)  # maintain the comments for readability
             continue
@@ -279,7 +282,7 @@ def moveHostsFileIntoPlace(finalFile):
 # End File Logic
 
 # Helper Functions
-## {{{ http://code.activestate.com/recipes/577058/ (r2)
+# {{{ http://code.activestate.com/recipes/577058/ (r2)
 
 def query_yes_no(question, default='yes'):
     """Ask a yes/no question via raw_input() and return their answer.
@@ -319,7 +322,7 @@ def query_yes_no(question, default='yes'):
                          )
 
 
-## end of http://code.activestate.com/recipes/577058/ }}}
+# end of http://code.activestate.com/recipes/577058/ }}}
 
 def isValidDomainFormat(domain):
     if domain == '':

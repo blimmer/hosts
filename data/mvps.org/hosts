@@ -6,7 +6,7 @@
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# --------------- Updated: July-08-2014 ------------------ #
+# -------------- Updated: November-12-2014 --------------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: this file is free to use for personal use    #
@@ -78,6 +78,7 @@
 0.0.0.0 servedby.adcombination.com
 0.0.0.0 adcomplete.com
 0.0.0.0 www.adcomplete.com
+0.0.0.0 ct1.addthis.com
 0.0.0.0 served.by.addynamics.eu
 0.0.0.0 static.uk.addynamo.com
 0.0.0.0 server.adeasy.ru
@@ -93,6 +94,7 @@
 0.0.0.0 adfocus.ru
 0.0.0.0 adx.adform.net
 0.0.0.0 s1.adform.net
+0.0.0.0 server.adform.net
 0.0.0.0 track.adform.net
 0.0.0.0 server.adformdsp.net
 0.0.0.0 ads.adfox.ru
@@ -106,8 +108,7 @@
 0.0.0.0 code.ad-gbn.com
 0.0.0.0 www.ad-groups.com #[Ban Man Pro Banner Code]
 0.0.0.0 adhall.com
-0.0.0.0 ads.roularta.adhese.com
-0.0.0.0 pool.roularta.adhese.com
+0.0.0.0 pool.adhese.be
 0.0.0.0 adhitzads.com
 0.0.0.0 ads.static.adhood.com
 0.0.0.0 app.pubserver.adhood.com
@@ -133,7 +134,6 @@
 0.0.0.0 tr.de.adlink.net
 0.0.0.0 adloyal.pl
 0.0.0.0 n.admagnet.net
-0.0.0.0 ad-maker.net
 0.0.0.0 ads3.adman.gr #[Tracking.Cookie]
 0.0.0.0 gazzetta.adman.gr
 0.0.0.0 r2d2.adman.gr
@@ -154,8 +154,6 @@
 0.0.0.0 www.ad.admitad.com
 0.0.0.0 ad.admixer.net
 0.0.0.0 cdn.admixer.net
-0.0.0.0 rms.admeta.com #[Tracking.Cookie][server down.all]
-0.0.0.0 sec.admeta.com
 0.0.0.0 ads.admodus.com #[Tracking.Cookie]
 0.0.0.0 run.admost.com
 0.0.0.0 assets3.admulti.com
@@ -168,6 +166,7 @@
 0.0.0.0 img.adnet.com.tr
 0.0.0.0 www.ad-net.co.uk
 0.0.0.0 adnext.fr
+0.0.0.0 ad.adnow.com
 0.0.0.0 tt11.adobe.com #[adobe.tcliveus.com]
 0.0.0.0 ace.adoftheyear.com
 0.0.0.0 ad01.adonspot.com
@@ -179,10 +178,9 @@
 0.0.0.0 e.adpower.bg
 0.0.0.0 ab.adpro.com.ua
 0.0.0.0 system.adquick.nl
-0.0.0.0 www.adquest.nl
-0.0.0.0 ad.adrent.net #[server down?]
 0.0.0.0 pop.adrent.net
 0.0.0.0 adroll.com
+0.0.0.0 rtt.adrolays.de
 0.0.0.0 vu.adschoom.com
 0.0.0.0 p78878.adskape.ru
 0.0.0.0 jsad1.adsflip.com
@@ -201,11 +199,10 @@
 0.0.0.0 www.adrotate.net
 0.0.0.0 serv.ad-rotator.com #[Tracking.Cookie]
 0.0.0.0 delivery.ads-creativesyndicator.com
-0.0.0.0 adsbg.info
+0.0.0.0 adsbg.info #[server down?]
 0.0.0.0 adsafiliados.com.br
 0.0.0.0 ad.adsafiliados.com.br
 0.0.0.0 v2.adsbookie.com
-0.0.0.0 antevenio.flux.ads-click.com
 0.0.0.0 rh.adscale.de
 0.0.0.0 assets.adtaily.com
 0.0.0.0 viewster-service.adtelligence.de
@@ -225,6 +222,7 @@
 0.0.0.0 adserver-voice-online.co.uk
 0.0.0.0 adsfac.net #[Facilitate Tracking Code]
 0.0.0.0 adsgangsta.com
+0.0.0.0 n8.adshostnet.com
 0.0.0.0 images.adshuffle.com
 0.0.0.0 this.content.served.by.adshuffle.com
 0.0.0.0 adsfac.eu
@@ -232,7 +230,10 @@
 0.0.0.0 www.adshot.de
 0.0.0.0 allchix.adsmax.com
 0.0.0.0 www2.adsmax.com
+0.0.0.0 f-nod1.adsniper.ru
+0.0.0.0 sync2.adsniper.ru
 0.0.0.0 www.adspace.be
+0.0.0.0 adsplius.lt
 0.0.0.0 ads.adsponse.de
 0.0.0.0 openx.adtext.ro
 0.0.0.0 ads.adtiger.de
@@ -264,6 +265,7 @@
 0.0.0.0 www.advertlets.com
 0.0.0.0 www.adverticus.de
 0.0.0.0 ads.advertise.net
+0.0.0.0 www.advertsponsor.com
 0.0.0.0 advertisingpurchase.com
 0.0.0.0 ad.adverticum.net
 0.0.0.0 img.adverticum.net
@@ -283,8 +285,6 @@
 0.0.0.0 www.ad-z.de
 0.0.0.0 ads.afa.net
 0.0.0.0 affiliate.affdirect.com
-0.0.0.0 affelix.com
-0.0.0.0 ads.affelix.com
 0.0.0.0 sttc.affiliate.hu
 0.0.0.0 tr.affiliate.hu
 0.0.0.0 img.network.affiliando.com
@@ -306,10 +306,10 @@
 0.0.0.0 ads.aftonbladet.se
 0.0.0.0 stats.agent.co.il
 0.0.0.0 stats.agentinteractive.com
+0.0.0.0 w.ahalogy.com
 0.0.0.0 ac.ajur.info #[WebBug]
 0.0.0.0 openx.ajur.info
 0.0.0.0 adlik2.akavita.com
-0.0.0.0 log.aliiike.com
 0.0.0.0 ads.allaccess.com.ph
 0.0.0.0 adcontent2.allaccess.com.ph
 0.0.0.0 www.almightytraffic.com
@@ -338,6 +338,7 @@
 0.0.0.0 adserver.amna.gr
 0.0.0.0 10394-127.ampxchange.com #[Spamdexing]
 0.0.0.0 10394-4254.ampxchange.com
+0.0.0.0 10394-2468.ampxchange.com
 0.0.0.0 vfdeprod.amobee.com
 0.0.0.0 banners.amsterdamcash.com
 0.0.0.0 widgets.amung.us
@@ -352,6 +353,7 @@
 0.0.0.0 antventure.com
 0.0.0.0 webtracker.apicasystem.com
 0.0.0.0 junior.apk.net
+0.0.0.0 ads.apollo.lv
 0.0.0.0 openx.apollo.lv
 0.0.0.0 nu.arnostat.nl
 0.0.0.0 ads.asia1.com.sg
@@ -361,7 +363,6 @@
 0.0.0.0 stats.asp24.pl
 0.0.0.0 ads.aspalliance.com
 0.0.0.0 www.astalavista.us
-0.0.0.0 ads.associatedcontent.com
 0.0.0.0 atemda.com
 0.0.0.0 rules.atgsvcs.com
 0.0.0.0 logw312.ati-host.net
@@ -374,6 +375,7 @@
 0.0.0.0 ads.autoscout24.com
 0.0.0.0 ads.autotrader.com
 0.0.0.0 adserving.autotrader.com
+0.0.0.0 profiling.avandor.com
 0.0.0.0 avantlink.com
 0.0.0.0 www.avantlink.com
 0.0.0.0 fhg.avrevenue.com
@@ -396,6 +398,7 @@
 0.0.0.0 www.bannermanagement.nl
 0.0.0.0 www.bannerpromotion.it
 0.0.0.0 www.banner-rotation.com
+0.0.0.0 feed-rt.baronsoffers.com
 0.0.0.0 ad.batanga.com
 0.0.0.0 ad.bauerverlag.de
 0.0.0.0 ads.baz.ch
@@ -411,7 +414,6 @@
 0.0.0.0 ad2.bbmedia.cz
 0.0.0.0 adidnes2.bbmedia.cz
 0.0.0.0 t.bbtrack.net
-0.0.0.0 stat.bdirect.ru
 0.0.0.0 ad.beepworld.de
 0.0.0.0 ads.be2hand.com
 0.0.0.0 app.beanstalkdata.com
@@ -427,7 +429,6 @@
 0.0.0.0 www.belstat.nl
 0.0.0.0 oas.benchmark.fr #[RealMedia]
 0.0.0.0 webtrends.besite.be
-0.0.0.0 www.bestadvert.net
 0.0.0.0 www.besttoolbars.net #[ADW_TBARWIN32.A]
 0.0.0.0 www.best-top.ro
 0.0.0.0 imstore.bet365affiliates.com
@@ -460,6 +461,8 @@
 0.0.0.0 ads.bladeforums.com
 0.0.0.0 ads2.blastro.com
 0.0.0.0 ads3.blastro.com
+0.0.0.0 blekko.com
+0.0.0.0 img.blesk.cz
 0.0.0.0 trak-analytics.blic.rs
 0.0.0.0 ads.blizzard.com
 0.0.0.0 ads.blog.com
@@ -485,7 +488,6 @@
 0.0.0.0 ads.boardtracker.com
 0.0.0.0 ranks.boardtracker.com
 0.0.0.0 ad.bodybuilding.com
-0.0.0.0 tracking.bodis.com
 0.0.0.0 ads.boerse-express.com
 0.0.0.0 ad.bol.bg
 0.0.0.0 adv.bol.bg
@@ -496,6 +498,7 @@
 0.0.0.0 adserver.borsonline.hu
 0.0.0.0 www.box.bg
 0.0.0.0 tracker.brainsins.com
+0.0.0.0 dolce-sportro.count.brat-online.ro
 0.0.0.0 stats.break.com
 0.0.0.0 bans.bride.ru
 0.0.0.0 ads.bridgetrack.com
@@ -547,11 +550,12 @@
 0.0.0.0 tracking.cdiscount.com #[WebBug]
 0.0.0.0 ads.cdfreaks.com
 0.0.0.0 a3.cdnpark.com #[Parking Service]
+0.0.0.0 cn.ecritel.bench.cedexis.com
+0.0.0.0 radar.cedexis.com
 0.0.0.0 3.cennter.com
 0.0.0.0 ox-d.chacha.com
 0.0.0.0 cts-secure.channelintelligence.com
 0.0.0.0 chapmanmediagroup.com
-0.0.0.0 www.champrank.de
 0.0.0.0 count.channeladvisor.com
 0.0.0.0 code.checkstat.nl
 0.0.0.0 www.checkstat.nl
@@ -570,6 +574,8 @@
 0.0.0.0 adsense.clicking.com.tw
 0.0.0.0 banners.clickon.co.il
 0.0.0.0 track.clickon.co.il
+0.0.0.0 delivery.clickonometrics.pl
+0.0.0.0 static.clickonometrics.pl
 0.0.0.0 static.clickpapa.com
 0.0.0.0 www.clickpapa.com
 0.0.0.0 tracktrue.clicktrue.biz
@@ -579,11 +585,14 @@
 0.0.0.0 banners.clips4sale.com
 0.0.0.0 banner.clubdicecasino.com
 0.0.0.0 adserver.clubs1.bg
+0.0.0.0 ads.clubz.bg
 0.0.0.0 cluper.net
 0.0.0.0 adserver.clix.pt
 0.0.0.0 stats.cloxy.com #[Piwik.Analytics]
 0.0.0.0 s.clx.ru
 0.0.0.0 ad.cmfu.com
+0.0.0.0 cpmcartel.com
+0.0.0.0 openx.cnews.ru
 0.0.0.0 c.cnstats.ru
 0.0.0.0 www.cnstats.com
 0.0.0.0 www.co2stats.com
@@ -592,15 +601,16 @@
 0.0.0.0 traffic.prod.cobaltgroup.com
 0.0.0.0 collectiveads.net
 0.0.0.0 vcu.collserve.com
-0.0.0.0 banners.commissionking.com
+0.0.0.0 banners.commissionking.com #[server down?]
 0.0.0.0 www.compactads.com
 0.0.0.0 ads.consumeraffairs.com
 0.0.0.0 ads.contactmusic.com #[AdvertPro]
+0.0.0.0 api.contentclick.co.uk
 0.0.0.0 www.contextualadv.com
 0.0.0.0 ads.contextweb.com
 0.0.0.0 ds.contextweb.com
 0.0.0.0 www.contaxe.com
-0.0.0.0 www.contextpanel.com #[searchant.com]
+0.0.0.0 www.contextpanel.com
 0.0.0.0 www.conversionruler.com
 0.0.0.0 ad.cooks.com
 0.0.0.0 ad2.cooks.com
@@ -609,7 +619,6 @@
 0.0.0.0 www.count24.de
 0.0.0.0 www.countit.ch
 0.0.0.0 www.counter-gratis.com #[Tracking.Cookie]
-0.0.0.0 www.counterdata.com
 0.0.0.0 counter-shop.net
 0.0.0.0 www.counter4you.net
 0.0.0.0 www.counting4free.com
@@ -640,6 +649,9 @@
 0.0.0.0 ads.dada.it
 0.0.0.0 count.daem0n.com
 0.0.0.0 annonser.dagbladet.no
+0.0.0.0 t.dailymail.co.uk
+0.0.0.0 rta.dailymail.co.uk
+0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 ads.darikweb.com
 0.0.0.0 sync.darikweb.com
 0.0.0.0 www1.darikweb.com
@@ -683,6 +695,7 @@
 0.0.0.0 ads.dir.bg
 0.0.0.0 banners.dir.bg
 0.0.0.0 r5.dir.bg
+0.0.0.0 st.directadvert.ru
 0.0.0.0 www.directadvert.ru
 0.0.0.0 roitrack.directdisplayad.com
 0.0.0.0 aserve.directorym.com
@@ -713,7 +726,6 @@
 0.0.0.0 tracking.dtiserv2.com
 0.0.0.0 track.dvdbox.com
 0.0.0.0 www.dwin1.com
-0.0.0.0 adv.dynamic-design.eu
 0.0.0.0 ads.dynamic-media.org
 # [E]
 0.0.0.0 hits.e.cl
@@ -723,9 +735,6 @@
 0.0.0.0 web.easyresearch.se
 0.0.0.0 web2.easyresearch.se
 0.0.0.0 web3.easyresearch.se
-0.0.0.0 easytrader.bg
-0.0.0.0 ads.easytrader.bg #[server down.all]
-0.0.0.0 static.easytrader.bg
 0.0.0.0 www.ebannertraffic.com
 0.0.0.0 as.ebz.io
 0.0.0.0 ox.e-card.bg
@@ -781,15 +790,15 @@
 0.0.0.0 sa.entireweb.com
 0.0.0.0 entk.net
 0.0.0.0 e-marketing.entelchile.net #[RealMedia]
-0.0.0.0 ads.eog.com
 0.0.0.0 ads.e-planning.net
 0.0.0.0 adserving03.epi.es
 0.0.0.0 code.etracker.com
 0.0.0.0 www.etracker.de
 0.0.0.0 top.er.cz
 0.0.0.0 ads.ere.net
+0.0.0.0 ads.ereklama.mk
+0.0.0.0 ads.ersamedia.ch
 0.0.0.0 www.eu2xml.com
-0.0.0.0 et.eulerian.net
 0.0.0.0 tracking.euroads.dk
 0.0.0.0 ox.eurogamer.net
 0.0.0.0 it.erosadv.com
@@ -831,6 +840,7 @@
 0.0.0.0 st.fanatics.com
 0.0.0.0 a.farlex.com
 0.0.0.0 fashion-tube.be #[Win32/InstallMonetizer.AN]
+0.0.0.0 adsrv.fashion.bg
 0.0.0.0 www.fastadvert.com
 0.0.0.0 fastonlineusers.com
 0.0.0.0 counter.fateback.com
@@ -864,7 +874,6 @@
 0.0.0.0 www.fncash.com
 0.0.0.0 ads.focus-news.net
 0.0.0.0 rnews.focus-news.net
-0.0.0.0 ads.foodbuzz.com
 0.0.0.0 controller.foreseeresults.com
 0.0.0.0 forvideo.at
 0.0.0.0 ads.foxnews.com
@@ -876,7 +885,6 @@
 0.0.0.0 freegeoip.net
 0.0.0.0 adverts.freeloader.com
 0.0.0.0 a9.sc.freepornvs.com
-0.0.0.0 www.free-ranking.de
 0.0.0.0 www.free-toplisten.at
 0.0.0.0 banner-server.freerun.com
 0.0.0.0 www.freestat.pl
@@ -896,10 +904,8 @@
 # [G]
 0.0.0.0 errdoc.gabia.net
 0.0.0.0 adserver.gadu-gadu.pl
-0.0.0.0 gahits.com
 0.0.0.0 adsm.gameforge.de
 0.0.0.0 tracking.gameforge.de
-0.0.0.0 ads.gamelink.com
 0.0.0.0 ingameads.gameloft.com
 0.0.0.0 ads.garga.biz
 0.0.0.0 ads.gateway.bg
@@ -910,7 +916,6 @@
 0.0.0.0 adv.gazeta.pl
 0.0.0.0 analytics.gazeta.pl
 0.0.0.0 top.gde.ru
-0.0.0.0 gnt01.generation-nt.com
 0.0.0.0 www.geoplugin.net
 0.0.0.0 ads.geornmd.net
 0.0.0.0 georotate.com
@@ -919,6 +924,7 @@
 0.0.0.0 www.getsmart.com
 0.0.0.0 getstatistics.se
 0.0.0.0 www.getstatistics.se
+0.0.0.0 adct.gg.pl
 0.0.0.0 banner.giantvegas.com
 0.0.0.0 truehits.gits.net.th
 0.0.0.0 truehits1.gits.net.th
@@ -934,16 +940,17 @@
 0.0.0.0 dk.gmads.net
 0.0.0.0 es.gmads.net
 0.0.0.0 pl.gmads.net
-0.0.0.0 goclicks.co.uk
 0.0.0.0 adserver2.goals365.com
 0.0.0.0 ads.godlikeproductions.com
 0.0.0.0 counter.goingup.com
 0.0.0.0 www.goldadvert.cz
+0.0.0.0 js-at.goldbach.com
+0.0.0.0 www.goldenline.pl
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 partner.gonamic.de
 0.0.0.0 engine.goodadvert.ru
 0.0.0.0 files.goodadvert.ru
-0.0.0.0 googlus.com #[Spamdexing]
+0.0.0.0 googlus.com
 0.0.0.0 ads.gorillavid.in
 0.0.0.0 adtools.gossipkings.com
 0.0.0.0 webcounter.goweb.de
@@ -954,6 +961,8 @@
 0.0.0.0 tk.graphinsider.com
 0.0.0.0 adv.gratuito.st
 0.0.0.0 rma-api.gravity.com
+0.0.0.0 de.grmtech.net
+0.0.0.0 www.grmtech.net
 0.0.0.0 tracker.gtarcade.com
 0.0.0.0 fx.gtop.ro
 0.0.0.0 static.gtop.ro
@@ -964,6 +973,7 @@
 0.0.0.0 cdn.gumgum.com
 0.0.0.0 guruads.de
 0.0.0.0 beacon.gutefrage.net
+0.0.0.0 adhese.gva.be
 # [H]
 0.0.0.0 tags.h12-media.com
 0.0.0.0 cc12797.counter.hackers.lv
@@ -992,7 +1002,6 @@
 0.0.0.0 spravki-online.hit.bg
 0.0.0.0 c.hit.ua
 0.0.0.0 www.hit.tc
-0.0.0.0 www.hitcountermaster.com
 0.0.0.0 landing.hitfarm.com #[Parking Service]
 0.0.0.0 hit-now.com
 0.0.0.0 storage.hitrang.com
@@ -1037,12 +1046,14 @@
 0.0.0.0 ads.ibex-media.com
 0.0.0.0 ev.ib-ibi.com
 0.0.0.0 r.ibg.bg
+0.0.0.0 bbcdn-bbnaut.ibillboard.com
+0.0.0.0 bbcdn-tag.ibillboard.com
 0.0.0.0 www.ibis.cz
 0.0.0.0 hits.icdirect.com
 0.0.0.0 www.icentric.net
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 ado.icorp.ro
-0.0.0.0 ictkt.com
+0.0.0.0 ads.icorp.ro
 0.0.0.0 ads.idgnow.com.br
 0.0.0.0 banners.idg.com.br
 0.0.0.0 log.idg.no #[WebTrends]
@@ -1090,7 +1101,10 @@
 0.0.0.0 www.innovateads.com
 0.0.0.0 media.intelia.it
 0.0.0.0 www.intelli-tracker.com
+0.0.0.0 geo.interia.pl
+0.0.0.0 iwa.hit.interia.pl
 0.0.0.0 www.intera-x.com
+0.0.0.0 cdn.interactivemedia.net
 0.0.0.0 adserwer.intercon.pl
 0.0.0.0 newadserver.interfree.it #[Adcycle]
 0.0.0.0 intermediads.com
@@ -1101,12 +1115,15 @@
 0.0.0.0 ad01.investor.bg
 0.0.0.0 s1.inviziads.com
 0.0.0.0 ad2.ip.ro
+0.0.0.0 api.ipinfodb.com
+0.0.0.0 ip-api.com
 0.0.0.0 ads.ipowerweb.com
 0.0.0.0 adserver.iprom.net
 0.0.0.0 central.iprom.net
 0.0.0.0 ipromsi.iprom.net
 0.0.0.0 tie.iprom.net
 0.0.0.0 www.ipstat.com
+0.0.0.0 delivery.ipvertising.com
 0.0.0.0 www.iranwebads.com
 0.0.0.0 ad2.ireklama.cz
 0.0.0.0 clicktracker.iscan.nl
@@ -1156,7 +1173,6 @@
 0.0.0.0 webeffective.keynote.com
 0.0.0.0 a.kickassunblock.net
 0.0.0.0 banner.kiev.ua
-0.0.0.0 counter.tourua.kiev.ua
 0.0.0.0 adserve.kikizo.com
 0.0.0.0 l.kavanga.ru
 0.0.0.0 adsby.klikki.com
@@ -1164,6 +1180,7 @@
 0.0.0.0 counter.kmindex.ru
 0.0.0.0 counting.kmindex.ru
 0.0.0.0 www.kmindex.ru
+0.0.0.0 openx.kokoma.pl
 0.0.0.0 images.kolmic.com
 0.0.0.0 ads3.kompasads.com
 0.0.0.0 ads4.kompasads.com
@@ -1245,19 +1262,18 @@
 0.0.0.0 is.luxup.ru
 # [M]
 0.0.0.0 m2k.ru
-0.0.0.0 clicks.m4n.nl
 0.0.0.0 images.m4n.nl
-0.0.0.0 views.m4n.nl
 0.0.0.0 ad.m5prod.net
 0.0.0.0 ad.m-adx.com
 0.0.0.0 www3.macys.com #[WebBug.eluminate]
 0.0.0.0 stat.madbanner.ru
+0.0.0.0 eu2.madsone.com
 0.0.0.0 media.m-adx.com
 0.0.0.0 ads.mail.bg
 0.0.0.0 www.mainadv.com
 0.0.0.0 ads.maleflixxx.tv
 0.0.0.0 stats.manticoretechnology.com
-0.0.0.0 wdm.map24.com #[WebBug]
+0.0.0.0 wdm.map24.com #[WebBug][server down?]
 0.0.0.0 anapixel.marca.com
 0.0.0.0 pixelcounter.marca.com
 0.0.0.0 ads.marica.bg
@@ -1271,6 +1287,7 @@
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 sync.mathtag.com
+0.0.0.0 tags.mathtag.com
 0.0.0.0 sitestat.mayoclinic.com
 0.0.0.0 mbe.ru #[adrevolver]
 0.0.0.0 mbn.com.ua
@@ -1290,7 +1307,6 @@
 0.0.0.0 ad2.pl.mediainter.net
 0.0.0.0 ad.mediaprostor.cz
 0.0.0.0 adserver.mediapublishers.com
-0.0.0.0 tizer.mediarotator.ru #[server down?]
 0.0.0.0 webtrekk.mediaset.net
 0.0.0.0 advert.mediaswiss.rs
 0.0.0.0 search.mediatarget.com
@@ -1310,6 +1326,7 @@
 0.0.0.0 send.microad.jp
 0.0.0.0 ssend.microad.jp
 0.0.0.0 track.send.microad.jp #[WebBug]
+0.0.0.0 d-track.send.microad.jp
 0.0.0.0 ads.minireklam.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 mixmarket.biz
@@ -1324,12 +1341,13 @@
 0.0.0.0 a.moitepari.bg
 0.0.0.0 ads.monetize-me.com
 0.0.0.0 cookie.monster.com
-0.0.0.0 www.mongoosemetrics.com #[affects Subaru.com]
+0.0.0.0 www.mongoosemetrics.com
 0.0.0.0 ib.mookie1.com
 0.0.0.0 piwik.mortgageloan.com #[Piwik.Analytics]
 0.0.0.0 webstats.motigo.com
 0.0.0.0 m1.webstats.motigo.com
 0.0.0.0 adserver.gb3.motorpresse.de
+0.0.0.0 adserver.gb5.motorpresse.de
 0.0.0.0 ads.movpod.in
 0.0.0.0 ads.mp3-online.com.ua
 0.0.0.0 ads.mpm.com.mk
@@ -1415,6 +1433,7 @@
 0.0.0.0 www.newclick.com
 0.0.0.0 beacon-5.newrelic.com
 0.0.0.0 ads.newtention.net
+0.0.0.0 pix.news.at
 0.0.0.0 ads.newsint.co.uk
 0.0.0.0 www.newwebmaster.net
 0.0.0.0 b.nex.bg
@@ -1434,10 +1453,14 @@
 0.0.0.0 counter.nope.dk
 0.0.0.0 ads.nordichardware.com
 0.0.0.0 ads.nordichardware.se
+0.0.0.0 www.noxcpm.com
 0.0.0.0 adv.novinar.bg
 0.0.0.0 ads.novsport.com
 0.0.0.0 ad1.nownews.com
 0.0.0.0 www.nowstat.com
+0.0.0.0 imgcdn.nrelate.com
+0.0.0.0 pp.nrelate.com
+0.0.0.0 vt-1.nrelate.com
 0.0.0.0 ntlligent.info #[Spamdexing]
 0.0.0.0 ad.nttnavi.co.jp
 0.0.0.0 banner.nttnavi.co.jp
@@ -1463,7 +1486,7 @@
 0.0.0.0 stats.omg.com.au
 0.0.0.0 stats2.omg.com.au
 0.0.0.0 adserver.omroepflevoland.nl
-0.0.0.0 ads.onezerohosting.com
+0.0.0.0 ads.onezerohosting.com #[server down?]
 0.0.0.0 logo.onlinewebstat.com
 0.0.0.0 ads1.omdadget.com
 0.0.0.0 track.omguk.com
@@ -1507,7 +1530,6 @@
 0.0.0.0 adserver.us.outblaze.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 traffic.outbrain.com
-0.0.0.0 ovgads.ovguide.com
 0.0.0.0 pub.oxado.com
 0.0.0.0 www.oxiads.fr
 0.0.0.0 www.oxinads.com
@@ -1540,7 +1562,7 @@
 0.0.0.0 ads.pcworld.com.br
 0.0.0.0 pixel.pcworld.com #[WebBug]
 0.0.0.0 metrics.peacocks.co.uk
-0.0.0.0 ads.peer39.com
+0.0.0.0 ads.peer39.com #[server down?]
 0.0.0.0 viewer.peer39.com
 0.0.0.0 tracking.peopletomysite.com
 0.0.0.0 banners.perfectgonzo.com
@@ -1554,7 +1576,7 @@
 0.0.0.0 www.phentabs.com #[ScamFraudAlert.Pharmacy]
 0.0.0.0 ads.phillipsdata.us
 0.0.0.0 ads.phillyadclub.com
-0.0.0.0 adclient.phoenixtv.com
+0.0.0.0 adservices.picadmedia.com
 0.0.0.0 ads.pimdesign.org
 0.0.0.0 rum-collector.pingdom.net
 0.0.0.0 rum-static.pingdom.net
@@ -1567,6 +1589,7 @@
 0.0.0.0 pei-ads.playboy.com #[RealMedia]
 0.0.0.0 ad.payclick.it
 0.0.0.0 www.playertraffic.com
+0.0.0.0 adserver.playtv.fr
 0.0.0.0 pu.plugrush.com
 0.0.0.0 widget.plugrush.com
 0.0.0.0 webstats.plus.net
@@ -1622,8 +1645,8 @@
 0.0.0.0 showads.pubmatic.com
 0.0.0.0 track.pubmatic.com
 0.0.0.0 hits.puls.lv
+0.0.0.0 u1.puls.lv
 0.0.0.0 track.pulse360.com
-0.0.0.0 pungs.ru #[server down?]
 0.0.0.0 ad.sma.punto.net
 0.0.0.0 sma.punto.net
 0.0.0.0 ad.punto-informatico.it
@@ -1644,7 +1667,6 @@
 0.0.0.0 adsrich.qq.com
 0.0.0.0 adsview.qq.com
 0.0.0.0 adsview2.qq.com
-0.0.0.0 mobwin.app.qq.com
 # [R]
 0.0.0.0 ads.racunalniske-novice.com
 0.0.0.0 ads.radar.bg
@@ -1677,6 +1699,7 @@
 0.0.0.0 js.ua.redtram.com
 0.0.0.0 n4p.ua.redtram.com
 0.0.0.0 www.refer.ru
+0.0.0.0 regdfh.info
 0.0.0.0 ads.register.com
 0.0.0.0 ad.reklamport.com
 0.0.0.0 adserver.reklamstore.com
@@ -1684,6 +1707,7 @@
 0.0.0.0 banner.relcom.ru
 0.0.0.0 networks.remal.com.sa
 0.0.0.0 cdn.reporo.net
+0.0.0.0 republer.com
 0.0.0.0 banners.resultonline.com
 0.0.0.0 retarcl.net
 0.0.0.0 www.reversecontext.com
@@ -1715,12 +1739,14 @@
 0.0.0.0 pixel.rubiconproject.com #[WebBug]
 0.0.0.0 advert.runescape.com
 0.0.0.0 banners.rushcommerce.com
-0.0.0.0 www.rxpharma24hs.com #[ScamFraudAlert.Pharmacy]
+0.0.0.0 rvpadvertisingnetwork.com
 # [S]
 0.0.0.0 www.s2d6.com
+0.0.0.0 s4le.net
 0.0.0.0 ads.sagabg.net
 0.0.0.0 sdc2.sakura.ad.jp
 0.0.0.0 lct.salesforce.com
+0.0.0.0 app2.salesmanago.pl
 0.0.0.0 judo.salon.com
 0.0.0.0 oas.salon.com
 0.0.0.0 sacdcad01.salon.com #[RealMedia]
@@ -1749,6 +1775,7 @@
 0.0.0.0 securetabs.com #[klikadvertising]
 0.0.0.0 www.securetabs.com
 0.0.0.0 advertising.seenews.com
+0.0.0.0 analytics.segmentmaster.net
 0.0.0.0 live.sekindo.com
 0.0.0.0 www.selfsurveys.com
 0.0.0.0 www2.sellhealth.com
@@ -1766,10 +1793,11 @@
 0.0.0.0 ad.seznam.cz
 0.0.0.0 sdc.shawinc.com
 0.0.0.0 www.shooshtimeinc.com
+0.0.0.0 aff.shopmania.bg
 0.0.0.0 adserve.shopzilla.com
 0.0.0.0 dc.sify.com #[WebTrends]
 0.0.0.0 getdetails02.sim-technik.de
-0.0.0.0 tracking.sim-technik.de
+0.0.0.0 tracking.sim-technik.de #[server down?]
 0.0.0.0 adimages.sina.com.hk
 0.0.0.0 jsads.sina.com.hk
 0.0.0.0 sinuatemedia.com
@@ -1785,6 +1813,8 @@
 0.0.0.0 ads.sina.com
 0.0.0.0 ads.skelbiu.lt
 0.0.0.0 ads.sladur.com
+0.0.0.0 ads.slava.bg
+0.0.0.0 ad.smaclick.com
 0.0.0.0 code.new.smartcontext.pl
 0.0.0.0 bbcdn.code.new.smartcontext.pl
 0.0.0.0 ads.smartdevicemedia.com
@@ -1814,8 +1844,9 @@
 0.0.0.0 www.splem.net
 0.0.0.0 analytics.spongecell.com
 0.0.0.0 www.sponsorads.de
+0.0.0.0 bms.sportal.ru
 0.0.0.0 ads.sports.fr
-0.0.0.0 ad.spot200.com
+0.0.0.0 ad.spot200.com #[server down?]
 0.0.0.0 spotsniper.ru
 0.0.0.0 search.spotxchange.com
 0.0.0.0 sitestat3.sport1.de
@@ -1825,10 +1856,10 @@
 0.0.0.0 ads.springclick.com
 0.0.0.0 counter.spylog.com
 0.0.0.0 www.spywareit.com
-0.0.0.0 www.spywarekiller.net #[Rogue/Suspect]
 0.0.0.0 s1.srtk.net
 0.0.0.0 s2.srtk.net
 0.0.0.0 ads.stackoverflow.com
+0.0.0.0 anchor.stailamedia.com
 0.0.0.0 bannerads.standard.net
 0.0.0.0 adn.static-files.com
 0.0.0.0 ads.stardoll.com
@@ -1849,7 +1880,9 @@
 0.0.0.0 gsorder.berlin.strato.de
 0.0.0.0 www.stressx.org #[Piwik.Analytics]
 0.0.0.0 opx.struma.bg
+0.0.0.0 ads.strumarelax.com
 0.0.0.0 adv.stznews.bg
+0.0.0.0 webservices.sub2tech.com
 0.0.0.0 ads.sun.com
 0.0.0.0 ads.sup.com
 0.0.0.0 cnt.sup.com
@@ -1880,6 +1913,7 @@
 0.0.0.0 b140.takru.com
 0.0.0.0 b180.takru.com
 0.0.0.0 banners.takru.com
+0.0.0.0 tapestry.tapad.com
 0.0.0.0 tarasoft.bg
 0.0.0.0 ads.targetix.net
 0.0.0.0 dev.targetpoint.com
@@ -1899,7 +1933,6 @@
 0.0.0.0 ad.text.tbn.ru
 0.0.0.0 members.popup.tbn.ru
 0.0.0.0 traffic.tcmagnet.com
-0.0.0.0 tearads.com #[server down?]
 0.0.0.0 teaserjs.info
 0.0.0.0 adv.technews.bg
 0.0.0.0 ads.tele.net
@@ -1912,8 +1945,6 @@
 0.0.0.0 textad.net
 0.0.0.0 www.textads.biz
 0.0.0.0 show.textads.lt
-0.0.0.0 show.textads.lv
-0.0.0.0 show2.textads.lv
 0.0.0.0 www.textlink.cz
 0.0.0.0 ads.tdcanadatrust.com
 0.0.0.0 openad.tf1.fr #[RealMedia]
@@ -1982,14 +2013,13 @@
 0.0.0.0 www.tr100.net
 0.0.0.0 ad.track.us.org
 0.0.0.0 www.trackbacksecure.com
+0.0.0.0 t.trackedlink.net
 0.0.0.0 ads.tradeads.eu
 0.0.0.0 storage.trafic.ro
 0.0.0.0 www.trafficresults.com
 0.0.0.0 adserv.transindex.ro
 0.0.0.0 ads.travellogger.com
 0.0.0.0 dm.travelocity.com
-0.0.0.0 trcrrdrct.com
-0.0.0.0 bidr.trellian.com
 0.0.0.0 trkbiz.com
 0.0.0.0 ad.triplemind.com
 0.0.0.0 ad.topstat.com
@@ -2007,8 +2037,6 @@
 0.0.0.0 delivery.trafficbroker.com
 0.0.0.0 cnt.trafficvalet.com
 0.0.0.0 www.trafficzap.com
-0.0.0.0 trackyourstats.com
-0.0.0.0 www.trackyourstats.com
 0.0.0.0 www.trafix.ro
 0.0.0.0 media.travelzoo.com
 0.0.0.0 media2.travelzoo.com
@@ -2017,7 +2045,6 @@
 0.0.0.0 objects.tremormedia.com #[adserver.adtechus.com]
 0.0.0.0 www.trendcounter.com
 0.0.0.0 ads.triada.bg
-0.0.0.0 trk365.com
 0.0.0.0 s1.trrsf.com
 0.0.0.0 s2.trrsf.com
 0.0.0.0 hits.truehits.in.th
@@ -2027,8 +2054,6 @@
 0.0.0.0 tracker.truehits.net
 0.0.0.0 trusearch.net
 0.0.0.0 origin-tracking.trulia.com
-0.0.0.0 cast.trustclick.ne.jp
-0.0.0.0 motu.trustclick.ne.jp
 0.0.0.0 analytics.trutv.com
 0.0.0.0 trywith.us #[Spamdexing]
 0.0.0.0 adclient1.tucows.com
@@ -2041,7 +2066,7 @@
 0.0.0.0 trax.tvguide.com
 0.0.0.0 ads.tvtv.bg
 0.0.0.0 ads.tweetmeme.com
-0.0.0.0 analytics.twitter.com
+0.0.0.0 analytics.twitter.com #[affects Twitter Dashboard]
 0.0.0.0 twittercounter.com
 0.0.0.0 srv2.twittercounter.com
 0.0.0.0 et.twyn.com
@@ -2053,6 +2078,7 @@
 0.0.0.0 a.ucoz.net
 0.0.0.0 s212.ucoz.net
 0.0.0.0 credity.ucoz.ru
+0.0.0.0 ucounter.ucoz.net
 0.0.0.0 udmserve.net
 0.0.0.0 image.ugo.com
 0.0.0.0 mediamgr.ugo.com
@@ -2104,17 +2130,16 @@
 0.0.0.0 ads.vclick.vn
 0.0.0.0 vclicks.net
 0.0.0.0 reklama.ve.lt
-0.0.0.0 ad.vel.pl #[server down?]
 0.0.0.0 ads.velcom.com
 0.0.0.0 counters.vendio.com
 0.0.0.0 cdsusa.veinteractive.com
 0.0.0.0 config1.veinteractive.com
 0.0.0.0 drs2.veinteractive.com
+0.0.0.0 c.velaro.com
+0.0.0.0 v.velaro.com
 0.0.0.0 ab.vendemore.com
 0.0.0.0 profiling.veoxa.com
 0.0.0.0 vu.veoxa.com
-0.0.0.0 publicidad.vocento.com #[server down?]
-0.0.0.0 tm.verticalacuity.com
 0.0.0.0 spinbox.versiontracker.com
 0.0.0.0 www.vertadnet.com
 0.0.0.0 ads.vg.no
@@ -2167,6 +2192,7 @@
 0.0.0.0 banners.webcams.com
 0.0.0.0 www.web-chart.de
 0.0.0.0 webcounter.be
+0.0.0.0 diapi.webgains.com
 0.0.0.0 webgozar.com
 0.0.0.0 www.webgozar.ir
 0.0.0.0 ads.webground.bg
@@ -2239,6 +2265,8 @@
 0.0.0.0 analytics.worldnow.com #[WebBug]
 0.0.0.0 wtsdc.worldnow.com #[WebTrends]
 0.0.0.0 ads.worthplaying.com
+0.0.0.0 pixel.wp.com
+0.0.0.0 stats.wp.com
 0.0.0.0 adsearch.wp.pl
 0.0.0.0 adv.wp.pl
 0.0.0.0 badv.wp.pl
@@ -2253,10 +2281,12 @@
 0.0.0.0 ad.wz.cz
 # [X]
 0.0.0.0 ads.x-adservice.com
-0.0.0.0 ads.xboxic.com
+0.0.0.0 ads.xboxic.com #[server down?]
 0.0.0.0 engine.xclaimwords.net
 0.0.0.0 hr-engine.xclaimwords.net
 0.0.0.0 ad.xe.gr
+0.0.0.0 148.xg4ken.com
+0.0.0.0 531.xg4ken.com
 0.0.0.0 www.xl-rank.com
 0.0.0.0 ox-d.xosdigital.com
 0.0.0.0 ads.xpg.com.br
@@ -2294,13 +2324,15 @@
 0.0.0.0 ads.zamunda.net
 0.0.0.0 ads2.zamunda.net
 0.0.0.0 ad.zanox.com
-0.0.0.0 zbox.zanox.com
+0.0.0.0 static.zanox.com
+0.0.0.0 zbox.zanox.com #[server down?]
 0.0.0.0 zanox-affiliate.de
 0.0.0.0 www.zanox-affiliate.de
 0.0.0.0 zbest.in
 0.0.0.0 banners.zbs.ru
 0.0.0.0 ea.zebestof.com
 0.0.0.0 ads.zeusclicks.com
+0.0.0.0 apibeta.zeti.com
 0.0.0.0 counter.zone.ee
 0.0.0.0 bannerads.zwire.com
 # [Misc]
@@ -2315,9 +2347,10 @@
 0.0.0.0 123go.com
 0.0.0.0 ns1.123go.net
 0.0.0.0 123stat.com
+0.0.0.0 123-tracker.com
 0.0.0.0 adclient.163.com
 0.0.0.0 adgeo.163.com
-0.0.0.0 ads.128b.com
+0.0.0.0 ads.128b.com #[server down?]
 0.0.0.0 pr.20min.es
 0.0.0.0 img.2leva.bg
 0.0.0.0 event.2leva.bg
@@ -2334,9 +2367,7 @@
 0.0.0.0 imgad1.3conline.com
 0.0.0.0 imgad2.3conline.com
 0.0.0.0 imgad3.3conline.com
-0.0.0.0 www.3drelax.com #[Win32/InstallIQ]
 0.0.0.0 ads.3sfmedia.com
-0.0.0.0 www.3d-icons.com
 0.0.0.0 www.3deepspace.com
 0.0.0.0 guannan.3322.net
 0.0.0.0 delivery.3rdads.com
@@ -2352,16 +2383,17 @@
 0.0.0.0 stat.4u.pl
 0.0.0.0 softads.50webs.com
 0.0.0.0 js.users.51.la
-0.0.0.0 smart.6trk.com #[server down?]
 0.0.0.0 adserver.71i.de
 0.0.0.0 www.777tool.com
+0.0.0.0 85dcf732d593.se
 0.0.0.0 888-it.com #[AdWare.Win32.Casino.q]
 0.0.0.0 www.888-it.com
-0.0.0.0 ads.10click.com
 # [O2.pl Ltd][AS31080][193.17.41.0 - 193.17.41.255]
 0.0.0.0 ads.o2.pl
 0.0.0.0 adserver.o2.pl
 0.0.0.0 adfiles.o2.pl.sds.o2.pl
+# [1&1 Internet][AS8560][195.20.243.0 - 195.20.255.255]
+0.0.0.0 madclient.uimserv.net
 # [1&1 Internet][AS8560][212.227.36.0 - 212.227.60.255]
 0.0.0.0 tools.ad-net.co.uk
 # [1&1 Internet][AS8560][217.160.128.0 - 217.160.143.255]
@@ -2403,7 +2435,6 @@
 # [1-800-hosting][AS33210][69.41.160.0 - 69.41.191.255]
 0.0.0.0 www.ineedhits.com
 0.0.0.0 track.lativio.com
-0.0.0.0 track2.me
 # [51Yes.com]
 0.0.0.0 count3.51yes.com
 0.0.0.0 count4.51yes.com
@@ -2485,14 +2516,13 @@
 # [Abacus America / Codero][AS10316][216.55.128.0 - 216.55.191.255]
 0.0.0.0 phpadsnew.abac.com
 0.0.0.0 www.obanner.net
-# [Abacus America / Codero][69.64.64.0 - 69.64.95.255]
-0.0.0.0 ads.buddypic.com
 # [Abovenet][AS6461][128.177.0.0 - 128.177.255.255]
 0.0.0.0 farm.thinktarget.com
 0.0.0.0 g.thinktarget.com
 0.0.0.0 search.thinktarget.com
 # [Abovenet][AS6461][204.45.0.0 - 204.45.255.255]
 0.0.0.0 hitslap.com
+0.0.0.0 data.lizads.com
 # [Abovenet][AS6461][208.185.115.0 - 208.185.115.255]
 0.0.0.0 fast.cbsi.demdex.net
 # [Abovenet / Tip Release][AS6461][208.185.5.0 - 208.185.5.255]
@@ -2521,6 +2551,11 @@
 0.0.0.0 kona29.kontera.com
 0.0.0.0 te.kontera.com
 0.0.0.0 www.kontera.com
+# [Abovenet][AS6461][94.31.2.32 - 94.31.2.63]
+0.0.0.0 lp.downloadquick.net
+0.0.0.0 download.downloadquick.net
+0.0.0.0 download.torchbrowser.com
+0.0.0.0 lp.torchbrowser.com
 # [About Inc][AS22780][207.241.144.0 - 207.241.159.255]
 0.0.0.0 clicks.about.com
 0.0.0.0 f.about.com
@@ -2747,11 +2782,11 @@
 # [ADNC][AS6130][67.207.208.0 - 67.207.223.255]
 0.0.0.0 metrics.impactengine.com
 # [AdOcean]
+0.0.0.0 15minlt.adocean.pl
 0.0.0.0 ad.adocean.pl
 0.0.0.0 advicepl.adocean.pl
 0.0.0.0 afilv.adocean.pl
 0.0.0.0 apollolv.adocean.pl
-0.0.0.0 atlascz.adocean.pl
 0.0.0.0 b92rs.adocean.pl
 0.0.0.0 bg.adocean.pl
 0.0.0.0 bggde.adocean.pl
@@ -2769,9 +2804,9 @@
 0.0.0.0 eegde.adocean.pl
 0.0.0.0 gg.adocean.pl
 0.0.0.0 gspro.adocean.pl
+0.0.0.0 hr.adocean.pl
 0.0.0.0 hrgde.adocean.pl
 0.0.0.0 hugde.adocean.pl
-0.0.0.0 impcz.adocean.pl
 0.0.0.0 indexhu.adocean.pl
 0.0.0.0 intactro.adocean.pl
 0.0.0.0 investorbg.adocean.pl
@@ -2788,20 +2823,19 @@
 0.0.0.0 realitatero.adocean.pl
 0.0.0.0 ringierro.adocean.pl
 0.0.0.0 ringierrs.adocean.pl
+0.0.0.0 ro.adocean.pl
 0.0.0.0 ro1ro.adocean.pl
 0.0.0.0 rogde.adocean.pl
 0.0.0.0 rs.adocean.pl
 0.0.0.0 rsgde.adocean.pl
 0.0.0.0 s1.advicepl.adocean.pl
 0.0.0.0 s1.sk.adocean.pl
-0.0.0.0 s1.centrumcz.adocean.pl
 0.0.0.0 s1.cz.adocean.pl
 0.0.0.0 s1.czgde.adocean.pl
 0.0.0.0 s1.delfilt.adocean.pl
 0.0.0.0 s1.edipresse.adocean.pl
 0.0.0.0 s1.gg.adocean.pl
 0.0.0.0 s1.gojobsru.adocean.pl
-0.0.0.0 s1.impcz.adocean.pl
 0.0.0.0 s1.my.adocean.pl
 0.0.0.0 s1.myao.adocean.pl
 0.0.0.0 s1.pracuj.adocean.pl
@@ -2824,7 +2858,10 @@
 0.0.0.0 adserver.webads.it
 0.0.0.0 adserver.webads.nl
 0.0.0.0 adserver.webads.co.uk
+# [Advancedhosters][AS39572][192.243.48.0 - 192.243.63.255]
+0.0.0.0 dstatic.aceadsys.net
 # [Advancedhosters-net][AS39572][213.174.136.0 - 213.174.139.255]
+0.0.0.0 st.ad.adnow.com
 0.0.0.0 www.adulttrafficads.com
 0.0.0.0 agevs.com
 0.0.0.0 spots.ah-me.com
@@ -2843,13 +2880,13 @@
 0.0.0.0 www.myshovel.com
 0.0.0.0 searchlistingpro.net
 0.0.0.0 searchpuma.com
+0.0.0.0 st.ad.smaclick.com
 0.0.0.0 smdmfnow.com
 0.0.0.0 teens24h.com
 0.0.0.0 thefastfinders.com
 0.0.0.0 upads.info
 # [Advancedhosters][AS39572][46.229.160.128 - 46.229.160.191]
 0.0.0.0 delivery.hornyspots.com
-0.0.0.0 searchnowqa.com
 0.0.0.0 f-js1.spotsniper.ru
 # [Advancedhosters / LeaseWeb][AS39572][88.208.0.0 - 88.208.11.255]
 0.0.0.0 st.pc.adonweb.ru
@@ -2873,7 +2910,7 @@
 0.0.0.0 circuit.advertserve.com
 0.0.0.0 d2.advertserve.com
 0.0.0.0 divavillage.advertserve.com
-0.0.0.0 findbliss.advertserve.com
+0.0.0.0 findbliss.advertserve.com #[server down?]
 0.0.0.0 hometheaterreview.advertserve.com
 0.0.0.0 imagevenue.advertserve.com
 0.0.0.0 oppknocks.advertserve.com
@@ -2887,10 +2924,11 @@
 0.0.0.0 austria1.adverserve.net #[Tracking.Cookie]
 0.0.0.0 adverserve.austriacomplus.at
 0.0.0.0 squid.diepresse.com
-0.0.0.0 werbung.diepresse.com #[austria1.adverserve.net]
+0.0.0.0 werbung.diepresse.com
 0.0.0.0 123.ichkoche.at
 0.0.0.0 static.kleinezeitung.at
 0.0.0.0 aus.laola1.tv
+0.0.0.0 static.styria-digital.com
 # [Advida Media][AS25180][83.244.139.32 - 83.244.139.63]
 0.0.0.0 adstats.adviva.net
 0.0.0.0 smp.adviva.net
@@ -2937,21 +2975,31 @@
 0.0.0.0 yahooads.valuead.com
 # [Akamai][AS20940][125.56.128.0 - 125.56.255.255]
 0.0.0.0 cdn-static.liverail.com
+# [Akamai][AS20940][172.224.0.0 - 172.239.255.255]
+0.0.0.0 tracking.admarketplace.net
+# [Akamai][AS20940][173.222.0.0 - 173.223.255.255]
+0.0.0.0 ads.pictela.net
 # [Akamai / NTT][AS2914][AS26769][184.24.0.0 - 184.31.255.255]
 0.0.0.0 www.77tracking.com
 0.0.0.0 ak1s.abmr.net
+0.0.0.0 targeting.adwebster.com
 0.0.0.0 i.allfreeapps.net #[Win32/Verti.B]
 0.0.0.0 cdn.betrad.com
 0.0.0.0 c.betrad.com
 0.0.0.0 ads.static.blip.tv
+0.0.0.0 fast.ecs.demdex.net
+0.0.0.0 fast.td.demdex.net
 0.0.0.0 ma156-r.analytics.edgekey.net
 0.0.0.0 79423.analytics.edgekey.net
 0.0.0.0 my-cdn.effectivemeasure.net
 0.0.0.0 a01.korrelate.net
+0.0.0.0 a02.korrelate.net
+0.0.0.0 vastx.moatads.com
 0.0.0.0 sana.newsinc.com #[WebBug]
 0.0.0.0 c1.rfihub.net
 0.0.0.0 ranker.springboardplatform.com
 0.0.0.0 ads.yldmgrimg.net
+0.0.0.0 z1.zedo.com
 # [Akamai][AS20940][184.50.0.0 - 184.51.255.255]
 0.0.0.0 redir.adap.tv
 0.0.0.0 delivery-s3.adswizz.com
@@ -2973,16 +3021,21 @@
 0.0.0.0 video.unrulymedia.com
 0.0.0.0 cdn.static.zdbb.net
 # [Akamai][AS20940][204.245.128.0 - 204.245.191.255]
-# [Akamai][AS2914][AS4436][AS7473][23.0.0.0 - 23.67.255.255]
+# [Akamai][AS7922][AS4436][AS7473][23.0.0.0 - 23.67.255.255]
+0.0.0.0 creative.ad120m.com
+0.0.0.0 adsrvmedia.adk2.co
+0.0.0.0 cdn.adk2.co
 0.0.0.0 ad-media.xe.gr
 0.0.0.0 content.adnetinteractive.com
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 www.adobetag.com #[SiteCatalyst Link Tracking]
 0.0.0.0 a.adready.com
 0.0.0.0 www.adreadytractions.com
+0.0.0.0 cdn.adsrvmedia.net
 0.0.0.0 content.adtegrity.net
 0.0.0.0 bannerfarm.ace.advertising.com #[Tracking.Cookie]
 0.0.0.0 uac.advertising.com
+0.0.0.0 secure.uac.advertising.com
 0.0.0.0 cdn2sitescout-a.akamaihd.net
 0.0.0.0 content.axill.com
 0.0.0.0 static.adziff.com
@@ -3000,6 +3053,7 @@
 0.0.0.0 cc.chango.com
 0.0.0.0 cdn1.clkads.com
 0.0.0.0 cdn1.clkmon.com
+0.0.0.0 cdn1.clkrev.com
 0.0.0.0 tiads.sportsillustrated.cnn.com
 0.0.0.0 libs.de.coremetrics.com
 0.0.0.0 mktgcdn.de.coremetrics.com
@@ -3014,14 +3068,15 @@
 0.0.0.0 fast.gm.demdex.net
 0.0.0.0 fast.marthastewart.demdex.net
 0.0.0.0 fast.nfl.demdex.net
-0.0.0.0 fast.nq.demdex.net
 0.0.0.0 fast.postmedia.demdex.net
 0.0.0.0 fast.sears.demdex.net
 0.0.0.0 fast.swa.demdex.net
 0.0.0.0 fast.telstra.demdex.net
 0.0.0.0 fast.torontostar.demdex.net
 0.0.0.0 fast.twc.demdex.net
+0.0.0.0 analytics.disneyinternational.com
 0.0.0.0 edge.aperture.displaymarketplace.com
+0.0.0.0 cdn1sitescout.edgesuite.net
 0.0.0.0 ma74-r.analytics.edgesuite.net
 0.0.0.0 ma76-c.analytics.edgesuite.net
 0.0.0.0 ma204-r.analytics.edgesuite.net
@@ -3040,16 +3095,20 @@
 0.0.0.0 content.media-servers.net
 0.0.0.0 s.moatads.com
 0.0.0.0 z.moatads.com
+0.0.0.0 e.monetate.net
 0.0.0.0 ads2.msads.net
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn.myadsrv04.com
 0.0.0.0 rainbow-nl.mythings.com
+0.0.0.0 t.myvisualiq.net
 0.0.0.0 adcache.nymag.com
+0.0.0.0 cdn.polmontventures.com
 0.0.0.0 a.postrelease.com
 0.0.0.0 abo.prismamediadigital.com
 0.0.0.0 aboutads.quantcast.com
 0.0.0.0 p0.raasnet.com
 0.0.0.0 imagec15.247realmedia.com
+0.0.0.0 media.richrelevance.com
 0.0.0.0 b.rmgserving.com
 0.0.0.0 c.rmgserving.com
 0.0.0.0 d.rmgserving.com
@@ -3060,7 +3119,7 @@
 0.0.0.0 cms.springboardplatform.com
 0.0.0.0 content.thewheelof.com
 0.0.0.0 lib.spinmedia.com
-0.0.0.0 tiads.time.com
+# 0.0.0.0 tiads.time.com #[affects Time.com]
 0.0.0.0 lp.videos-free-downloaders.com #[Win32/Bundlore.G]
 0.0.0.0 content.womensforum.com
 0.0.0.0 content.yieldmanager.com
@@ -3068,15 +3127,17 @@
 0.0.0.0 static.yieldmo.com
 0.0.0.0 ss3.zedo.com
 0.0.0.0 tt3.zedo.com
+0.0.0.0 xp1.zedo.com
 0.0.0.0 xp2.zedo.com
 # [Akamai][AS20940][69.192.0.0 - 69.192.255.255]
 0.0.0.0 s3.addthis.com
-0.0.0.0 s7.addthis.com #[affects whitehouse.gov]
+0.0.0.0 s7.addthis.com #[affects whitehouse.gov/garmin.com]
 0.0.0.0 s9.addthis.com
 0.0.0.0 ssltracking.esearchvision.com
 0.0.0.0 ads.undertone.com
 0.0.0.0 ads.vegas.com
 # [Akamai][AS31377][72.246.0.0 - 72.247.255.255]
+0.0.0.0 aka.accortech.com
 0.0.0.0 cdn.ad4game.com
 0.0.0.0 c03.adsummos.net
 0.0.0.0 e35fbf.t.axf8.net
@@ -3085,7 +3146,7 @@
 0.0.0.0 c.compete.com
 0.0.0.0 dsa.csdata1.com
 0.0.0.0 cdn.demdex.net
-0.0.0.0 fast.crosspixel.demdex.net
+0.0.0.0 fast.crosspixel.demdex.net #[server down?]
 0.0.0.0 omnikool.discovery.com #[RealMedia]
 0.0.0.0 aperture.displaymarketplace.com #[WebBug]
 0.0.0.0 cdn.doubleverify.com
@@ -3163,6 +3224,10 @@
 0.0.0.0 akamai.smartadserver.com
 0.0.0.0 graphics.streamray.com
 0.0.0.0 cdn.turn.com
+# [Akamai][AS20940][96.6.0.0 - 96.7.255.255]
+0.0.0.0 download.cdn.downloadquick.net #[Win32/iLivid.A]
+0.0.0.0 dl.static1983cdn.com #[MSIL/Solimba.AH]
+0.0.0.0 download.cdn.torchbrowser.com #[Win32/TorchMedia]
 # [Akrino][AS44571][91.202.60.0 - 91.202.63.255]
 # [Alchemy / Vitalix][AS7296][205.144.160.0 - 205.144.175.255]
 0.0.0.0 ads.comicbookresources.com
@@ -3182,18 +3247,12 @@
 0.0.0.0 hz.mmstat.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 pcookie.taobao.com
-# [Allhostshop.com / PayCounter.com][AS33569][64.255.164.0 - 64.255.164.255]
-0.0.0.0 paycounter.com #[Tracking.Cookie]
-0.0.0.0 count.paycounter.com
-0.0.0.0 images1.paycounter.com
-0.0.0.0 in.paycounter.com
-0.0.0.0 stats.paycounter.com
-0.0.0.0 www.paycounter.com
 # [Amazon.com][AS14618][107.20.0.0 - 107.23.255.255]
 0.0.0.0 ad.360yield.com
 0.0.0.0 a.adtpix.com
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 iw.antthis.com
+0.0.0.0 s.arclk.net
 0.0.0.0 l.betrad.com
 0.0.0.0 pixel.captora.com
 0.0.0.0 statstracker.celebrity-gossip.net
@@ -3202,6 +3261,7 @@
 0.0.0.0 tracking.conversionads.com
 0.0.0.0 script.crsspxl.com
 0.0.0.0 tag.crsspxl.com
+0.0.0.0 adserver.dailyden.com
 0.0.0.0 cam.demdex.net
 0.0.0.0 dpm.demdex.net
 0.0.0.0 everydayhealth.demdex.net
@@ -3221,6 +3281,8 @@
 0.0.0.0 www.euroconcept.ro
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 engine.fl-ads.com
+0.0.0.0 api.hexagram.com
+0.0.0.0 ads.incmd10.com
 0.0.0.0 bootstrap.livefyre.com
 0.0.0.0 ct70.dsr.livefyre.com
 0.0.0.0 ct79.dsr.livefyre.com
@@ -3242,7 +3304,7 @@
 0.0.0.0 api.lanistaads.com
 0.0.0.0 lc.livefyre.com
 0.0.0.0 lc17.prod.livefyre.com
-0.0.0.0 http-logs.loggly.com
+0.0.0.0 http-logs.loggly.com #[server down?]
 0.0.0.0 logs.loggly.com #[WebBug]
 0.0.0.0 cmi.netseer.com
 0.0.0.0 h.nexac.com
@@ -3258,6 +3320,7 @@
 0.0.0.0 wiki.pinion.gg
 0.0.0.0 www.pinion.gg
 0.0.0.0 ads1.qadabra.com
+0.0.0.0 ads.qadserve.com
 0.0.0.0 js4.ringrevenue.com
 0.0.0.0 json4.ringrevenue.com
 0.0.0.0 rc.rlcdn.com
@@ -3265,15 +3328,19 @@
 0.0.0.0 w.coin.scribol.com
 0.0.0.0 d.shareaholic.com
 0.0.0.0 s.shopify.com
+0.0.0.0 pix.silverpush.co
 0.0.0.0 ads.skinected.com
 0.0.0.0 l.springmetrics.com
 0.0.0.0 b.t.tailtarget.com
 0.0.0.0 ws.tapjoyads.com
+0.0.0.0 www.topqualityhd.com
 0.0.0.0 beacon.tracelytics.com
 0.0.0.0 ads.tracking202.com
 0.0.0.0 ats.tumri.net
+0.0.0.0 w.usabilla.com
 0.0.0.0 geoservice.webengage.com
 0.0.0.0 tracking.websitealive.com
+0.0.0.0 pixel.yabidos.com
 0.0.0.0 download.ytdownloader.com
 0.0.0.0 www.ytdownloader.com
 # [Amazon.com][AS14618][174.129.0.0 - 174.129.255.255]
@@ -3284,7 +3351,7 @@
 0.0.0.0 ads.adk2.com
 0.0.0.0 web-amz.adotube.com
 0.0.0.0 c.adroll.com
-0.0.0.0 d.adsbyisocket.com
+0.0.0.0 d.adsbyisocket.com #[server down?]
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 askads.ask.com
 0.0.0.0 server1.beaconpush.com
@@ -3299,12 +3366,15 @@
 0.0.0.0 sp1.convertro.com
 0.0.0.0 nfl.sp1.convertro.com
 0.0.0.0 admonkey.dapper.net
-0.0.0.0 ads.digitalpressconsortium.com
+0.0.0.0 ads.digitalpressconsortium.com #[server down?]
 0.0.0.0 b.ensighten.com
-0.0.0.0 nexus.ensighten.com
+0.0.0.0 nexus.ensighten.com #[affects Subaru.com]
+0.0.0.0 cs.exitmonitor.com
 0.0.0.0 ads.good.is
 0.0.0.0 gothamistllc.com
 0.0.0.0 g2.gumgum.com
+0.0.0.0 stack9.collect.igodigital.com
+0.0.0.0 wenner.collect.igodigital.com
 0.0.0.0 pixel.invitemedia.com
 0.0.0.0 clicks.izea.com
 0.0.0.0 a.lingospot.com #[WebBug]
@@ -3322,13 +3392,6 @@
 0.0.0.0 www.reelcentric.com
 0.0.0.0 rivasearchpage.com
 0.0.0.0 tap.rubiconproject.com
-0.0.0.0 0.datacollector.coin.scribol.com
-0.0.0.0 1.datacollector.coin.scribol.com
-0.0.0.0 2.datacollector.coin.scribol.com
-0.0.0.0 3.datacollector.coin.scribol.com
-0.0.0.0 4.datacollector.coin.scribol.com
-0.0.0.0 5.datacollector.coin.scribol.com
-0.0.0.0 6.datacollector.coin.scribol.com
 0.0.0.0 ad.sharethis.com
 0.0.0.0 l.sharethis.com
 0.0.0.0 r.sharethis.com #[WebBug]
@@ -3341,9 +3404,9 @@
 0.0.0.0 redirect.tracking202.com
 0.0.0.0 static.tracking202.com
 0.0.0.0 p1.tcr21.tynt.com
+0.0.0.0 redirect.viglink.com
 0.0.0.0 www.w3counter.com
 0.0.0.0 ots.optimize.webtrends.com
-0.0.0.0 www.wpdstat.com
 0.0.0.0 track.yieldsoftware.com
 0.0.0.0 stats.zmags.com
 # [Amazon.com][AS38895][175.41.128.0 - 175.41.159.255]
@@ -3360,6 +3423,7 @@
 0.0.0.0 exchange.adswizz.com
 0.0.0.0 synchrobox.adswizz.com
 0.0.0.0 dni.agcdn.com
+0.0.0.0 static-shareaholic.s3.amazonaws.com
 0.0.0.0 pixelservice.apphb.com
 0.0.0.0 tracker.leadenhancer.com
 0.0.0.0 t13.intelliad.de
@@ -3372,6 +3436,7 @@
 0.0.0.0 track.shop2market.com
 0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 tracker.vinsight.de
+0.0.0.0 srv.uk.znaptag.com
 # [Amazon.com][AS16509][177.71.190.213]
 0.0.0.0 dm.demdex.net
 # [Amazon.com][AS16509][178.236.0.0 - 178.236.7.255]
@@ -3381,6 +3446,7 @@
 0.0.0.0 rainbow-us.mythings.com
 0.0.0.0 rainbow-geo-p.mythings.com
 0.0.0.0 tracking.oggifinogi.com
+0.0.0.0 abandonment.saas.seewhy.com
 # [Amazon.com][AS14618][184.72.0.0 - 184.73.255.255]
 0.0.0.0 ad.adanglers.com
 0.0.0.0 ads.adhub.co.nz
@@ -3392,18 +3458,19 @@
 0.0.0.0 twc.demdex.net
 0.0.0.0 marthastewart.demdex.net
 0.0.0.0 hits.epochstats.com
-0.0.0.0 id.expressnightout.com
+0.0.0.0 id.expressnightout.com #[server down?]
 0.0.0.0 js.geoads.com
 0.0.0.0 a.goember.com
 0.0.0.0 adsx.greystripe.com
-0.0.0.0 matomy.hiro.tv #[server down?]
 0.0.0.0 www.intellisuggest.com
 0.0.0.0 ads.investingchannel.com
 0.0.0.0 o1.inviziads.com
 0.0.0.0 tracker.issuu.com
+0.0.0.0 create.leadid.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 pixel.newscred.com
 0.0.0.0 r.openx.net
+0.0.0.0 u.optorb.com
 0.0.0.0 clicks.pureleads.com
 0.0.0.0 technologyreview.qwobl.net
 0.0.0.0 hitbox.realclearpolitics.com
@@ -3424,12 +3491,15 @@
 # [Amazon.com][AS14618][204.236.128.0 - 204.236.255.255]
 0.0.0.0 cdn.beaconpush.com
 0.0.0.0 track.keywordstrategy.org
+0.0.0.0 cdn.segment.io
 # [Amazon.com][AS38895][204.246.160.0 - 204.246.191.255]
 0.0.0.0 cdn.yb0t.com
 # [Amazon.com][AS16509][205.251.192.0 - 205.251.255.255]
 0.0.0.0 matchbin-assets.s3.amazonaws.com
 0.0.0.0 springclick-ads.s3.amazonaws.com
 0.0.0.0 jptracking.elasticbeanstalk.com
+0.0.0.0 nau.hexagram.com
+0.0.0.0 asset.pagefair.net
 0.0.0.0 widget-cdn.rpxnow.com
 0.0.0.0 static.springmetrics.com
 # [Amazon.com][AS16509][207.171.160.0 - 207.171.191.255]
@@ -3470,26 +3540,30 @@
 0.0.0.0 a.tvlim.com
 0.0.0.0 cdn.udmserve.net
 0.0.0.0 a1.vdna-assets.com
-0.0.0.0 scripts.verticalacuity.com
 # [Amazon.com][AS14618][23.20.0.0 - 23.23.255.255]
 0.0.0.0 ads.ad-center.com
 0.0.0.0 static.adk2.com
 0.0.0.0 data.adsrvr.org
+0.0.0.0 avidtrak.com
 0.0.0.0 x.bidswitch.net
 0.0.0.0 recon.bleacherreport.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 id.click2houston.com
 0.0.0.0 idvisitor.clickorlando.com
+0.0.0.0 eue.collect-opnet.com
 0.0.0.0 intuit.sp1.convertro.com
 0.0.0.0 stats.crowdgatheradnetwork.com
 0.0.0.0 addshoppers.t.domdex.com
 0.0.0.0 affinity-xml.t.domdex.com
+0.0.0.0 magnetic.domdex.com
 0.0.0.0 magnetic.t.domdex.com
 0.0.0.0 static.etracker.com
+0.0.0.0 chktrk.ifario.us
 0.0.0.0 idvisitor.ksat.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 idvisitor.news4jax.com
 0.0.0.0 t.pswec.com
+0.0.0.0 ads.publish2.com
 0.0.0.0 img.pulsemgr.com
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 tracker.redditmedia.com
@@ -3499,6 +3573,7 @@
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 cm.shareaholic.com
 0.0.0.0 idvisitor.slate.com
+0.0.0.0 snowplow-collector.sugarops.com
 0.0.0.0 affiliate.techstats.net #[Piwik.Analytics]
 0.0.0.0 analytics.tout.com
 0.0.0.0 event.trove.com
@@ -3509,10 +3584,9 @@
 0.0.0.0 idvisitor.washingtonpost.com
 0.0.0.0 ads1.zenoviaexchange.com
 # [Amazon.com][AS39111][46.137.0.0 - 46.137.127.255]
-0.0.0.0 a.adcloud.net #[server down?]
 0.0.0.0 code2.adtlgc.com
-0.0.0.0 dndash.adtlgc.com
-0.0.0.0 expdash.adtlgc.com
+0.0.0.0 dndash.adtlgc.com #[server down?]
+0.0.0.0 expdash.adtlgc.com #[server down?]
 0.0.0.0 c1926.ic-live.com
 0.0.0.0 l.linkpulse.com
 0.0.0.0 s248.meetrics.net
@@ -3524,15 +3598,19 @@
 0.0.0.0 measure.richmetrics.com
 0.0.0.0 sync.richmetrics.com
 0.0.0.0 geo.sanoma.fi
-0.0.0.0 ads.sanomaentertainment.net #[server down?]
+0.0.0.0 abp.smartadcheck.de
+0.0.0.0 js.smartredirect.de
 0.0.0.0 qa.stats.webs.com
+0.0.0.0 prod-js.aws.y-track.com
 # [Amazon.com][AS39111][46.51.128.0 - 46.51.191.255]
+0.0.0.0 go.affec.tv
 0.0.0.0 stats.dailyrecord.co.uk
 0.0.0.0 rainbow.mythings.com
 0.0.0.0 www.smartredirect.de
 # [Amazon.com][AS16509][50.112.0.0 - 50.112.255.255]
 0.0.0.0 www.dblpmp.com
 0.0.0.0 cts.lipixeltrack.com
+0.0.0.0 ttb.lpmxp2134.com
 0.0.0.0 ttb.lpcloudsvr302.com
 0.0.0.0 www.collect.mentad.com
 0.0.0.0 idsync.rlcdn.com
@@ -3542,6 +3620,7 @@
 0.0.0.0 www.adotube.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 match.adsrvr.org
+0.0.0.0 api.adsymptotic.com
 0.0.0.0 ads.adual.net
 0.0.0.0 met.adwhirl.com
 0.0.0.0 mob.adwhirl.com #[Mobile Advertising]
@@ -3561,7 +3640,6 @@
 0.0.0.0 condenast.demdex.net
 0.0.0.0 fairfax.demdex.net
 0.0.0.0 mtvn.demdex.net
-0.0.0.0 nq.demdex.net
 0.0.0.0 a.dpmsrv.com #[WebBug]
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 beacon.examiner.com
@@ -3598,7 +3676,9 @@
 0.0.0.0 www.othersonline.com
 0.0.0.0 stats.pagefair.com
 0.0.0.0 ads.pe.com
+0.0.0.0 poshfile.com
 0.0.0.0 adserve.postrelease.com
+0.0.0.0 collect.rewardstyle.com
 0.0.0.0 zeroclick.sendori.com
 0.0.0.0 reporting.singlefeed.com
 0.0.0.0 idvisitor.socialreader.com
@@ -3607,8 +3687,8 @@
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 cdn.targetfuel.com
 0.0.0.0 e.targetfuel.com
+0.0.0.0 sslt.tellapart.com
 0.0.0.0 idvisitor.theroot.com
-0.0.0.0 trkjmp.com
 0.0.0.0 i.trkjmp.com
 0.0.0.0 ads.trove.com
 0.0.0.0 idvisitor.trove.com
@@ -3619,17 +3699,33 @@
 0.0.0.0 analytics.wishabi.ca
 0.0.0.0 www.wtp101.com
 0.0.0.0 zdbb.net
+# [Amazon.com][AS14618][54.160.0.0 - 54.175.255.255]
+0.0.0.0 t.acxiom-online.com
+0.0.0.0 widgets.kiosked.com
+# [Amazon.com][AS16509][54.176.0.0 - 54.191.255.255]
+0.0.0.0 ads.grabgoodusa.com
+0.0.0.0 kyle.mxp2330.com #[Win32/SoftPulse.J]
+0.0.0.0 ads.servebom.com
+0.0.0.0 neo.go.sonobi.com
 # [Amazon.com][AS16509][54.192.0.0 - 54.207.255.255]
 0.0.0.0 t.ad2games.com
 0.0.0.0 gscounters.eu1.gigya.com
+0.0.0.0 resources.kiosked.com
 0.0.0.0 www.livefyre.com
+0.0.0.0 ps.ns-cdn.com
+0.0.0.0 code.adsales.snidigital.com
 0.0.0.0 w.visualdna.com
+0.0.0.0 wfpscripts.webspectator.com
+0.0.0.0 cdn.yldbt.com
 0.0.0.0 saxp.zedo.com
 # [Amazon.com][AS16509][54.208.0.0 - 54.221.255.255]
 0.0.0.0 api.access-mc.com
+0.0.0.0 adsrvmedia.adk2.net
 0.0.0.0 tracking.affiliates.de
 0.0.0.0 appllicatiionew.com #[Trojan.Win32.AntiFW.b]
 0.0.0.0 pstats.blogworks.com
+0.0.0.0 clicksimpact.cashtrk.com
+0.0.0.0 a.centrum.cz
 0.0.0.0 click.clktraker.com
 0.0.0.0 ad.cpmaxads.com
 0.0.0.0 ads.creative-serving.com
@@ -3638,15 +3734,23 @@
 0.0.0.0 lp.ezdownloadpro.info #[Trojan.Win32.AntiFW.b]
 0.0.0.0 j.flxpxl.com
 0.0.0.0 c10060.ic-live.com
+0.0.0.0 matcher.idtargeting.com
+0.0.0.0 ccs.infospace.com
 0.0.0.0 ads.integral-marketing.com
 0.0.0.0 ct81.dsr.livefyre.com
+0.0.0.0 banners.moreniche.com
 0.0.0.0 ads.myadsrv04.com
+0.0.0.0 ads.polmontventures.com
 0.0.0.0 d.tailtarget.com
 0.0.0.0 www.torntv-downloader-dl.info #[Adware.OneClickDownloader.B]
+0.0.0.0 www.trustedbestsites.com
 0.0.0.0 vacationcellular.net
 0.0.0.0 i.yldbt.com
+0.0.0.0 z2.zedo.com
 0.0.0.0 www.zilliontoolkitusa.info #[Win32/InstalleRex.M]
+0.0.0.0 segment-data.zqtk.net
 # [Amazon.com][AS16509][54.224.0.0 - 54.239.255.255]
+0.0.0.0 s.206ads.com
 0.0.0.0 ib.3lift.com
 0.0.0.0 ads.adbooth.com
 0.0.0.0 cdn.adbooth.com
@@ -3659,17 +3763,28 @@
 0.0.0.0 files-www2.adsnative.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 files.adspdbl.com
+0.0.0.0 ps-eu.amazon-adsystem.com
 0.0.0.0 ps-us.amazon-adsystem.com
+0.0.0.0 data.alexa.com
 0.0.0.0 t.beanstalkdata.com
+0.0.0.0 ad.broadstreetads.com
+0.0.0.0 cdn.broadstreetads.com
 0.0.0.0 pageurl.btrll.com
 0.0.0.0 pageurl-brx.btrll.com
 0.0.0.0 pix.btrll.com
 0.0.0.0 shim.btrll.com
 0.0.0.0 vw.btrll.com
+0.0.0.0 dynamic.cannedbanners.com
 0.0.0.0 data.captifymedia.com
 0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 idvisitor.click2houston.com
+0.0.0.0 images1.cliqueclack.com
+0.0.0.0 d1l6p2sc9645hc.cloudfront.net
+0.0.0.0 d13dhn7ldhrcf6.cloudfront.net #[Win32/InstallCore.QC]
+0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
+0.0.0.0 d8rk54i4mohrb.cloudfront.net
+0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
 0.0.0.0 rec.convertale.com
 0.0.0.0 use.convertglobal.com
 0.0.0.0 livenation.sp1.convertro.com
@@ -3680,6 +3795,7 @@
 0.0.0.0 de.demdex.net
 0.0.0.0 foxnews.demdex.net
 0.0.0.0 sears.demdex.net
+0.0.0.0 td.demdex.net
 0.0.0.0 cdn.directrev.com
 0.0.0.0 djibeacon.djns.com
 0.0.0.0 p1.dntrck.com
@@ -3690,13 +3806,13 @@
 0.0.0.0 pool.euroads.no
 0.0.0.0 tracking1.euroads.no
 0.0.0.0 cdn.evergage.com
-0.0.0.0 api.fictfa.tc
 0.0.0.0 hj.flxpxl.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 beam.hlserve.com
 0.0.0.0 cdn.iasrv.com
 0.0.0.0 c1935.ic-live.com
 0.0.0.0 c10064.ic-live.com
+0.0.0.0 1703.ic-live.com
 0.0.0.0 www.immediatelydownload.com #[Win32/Amonetize.AS]
 0.0.0.0 cdn.ip.inpwrd.com
 0.0.0.0 cdn.libraries.inpwrd.com
@@ -3705,6 +3821,7 @@
 0.0.0.0 cdn.investingchannel.com
 0.0.0.0 beacon.jumptime.com
 0.0.0.0 timeseg.modules.jumptime.com
+0.0.0.0 ad.kiosked.com
 0.0.0.0 cdn.kixer.com
 0.0.0.0 stat.komoona.com
 0.0.0.0 adserver.kontextua.com
@@ -3713,6 +3830,7 @@
 0.0.0.0 idvisitor.local10.com
 0.0.0.0 creative.m2pub.com
 0.0.0.0 s.m2pub.com
+0.0.0.0 tags.mdotlabs.com
 0.0.0.0 js.ad.mediamond.it
 0.0.0.0 edge.metroleads.com
 0.0.0.0 contentz.mkt51.net
@@ -3720,28 +3838,40 @@
 0.0.0.0 content.mkt932.com
 0.0.0.0 contentz.mkt941.com
 0.0.0.0 w.mlv-cdn.com #[MyLikes advertising]
+0.0.0.0 track.moreniche.com
 0.0.0.0 c.mtro.co #[MetroGuild Widget Tracking]
 0.0.0.0 zdbb.netshelter.net
 0.0.0.0 mix-test.uts.ngdata.com
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 cdn.onscroll.com
+0.0.0.0 stats.opbandit.com
 0.0.0.0 pagefair.com
+0.0.0.0 c.pebblemedia.be
 0.0.0.0 analytics.dev.popdust.com
 0.0.0.0 s.ppjol.net
+0.0.0.0 static.proximic.com
+0.0.0.0 static.publish2.com
 0.0.0.0 embed-stats.rbl.ms
 0.0.0.0 frontpage-stats.rbl.ms
 0.0.0.0 site-stats.rbl.ms
 0.0.0.0 cdn.sail-horizon.com
 0.0.0.0 shareaholic.com
+0.0.0.0 clickcdn.shareaholic.com
+0.0.0.0 www.silence-ads.com
 0.0.0.0 tags.smowtion.com
+0.0.0.0 pixel.sojern.com
+0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 a.teads.tv
 0.0.0.0 cdn.teads.tv
 0.0.0.0 t.teads.tv
-0.0.0.0 www.totalitydownload.com #[Win32:Amonetize-L]
+0.0.0.0 ads.tpvl.co
+0.0.0.0 ads.traffichunt.com
+0.0.0.0 cdn.traffichunt.com
 0.0.0.0 analytics.userreport.com
 0.0.0.0 cdn.userreport.com
 0.0.0.0 sdscdn.userreport.com
 0.0.0.0 tracking.rce.veeseo.com
+0.0.0.0 wsc1.webspectator.com
 0.0.0.0 zafiti01.webtrekk-us.net
 # [Amazon.com][AS16509][54.240.0.0 - 54.255.255.255]
 0.0.0.0 d.254a.com
@@ -3759,6 +3889,7 @@
 0.0.0.0 cache.btrll.com
 0.0.0.0 engine.carbonads.com
 0.0.0.0 static.carbonads.com
+0.0.0.0 ycv.clearshieldredirect.com
 0.0.0.0 nw1.clkredir.com
 0.0.0.0 js.convertale.com
 0.0.0.0 tc-s.convertro.com
@@ -3782,35 +3913,41 @@
 0.0.0.0 c10013.ic-live.com
 0.0.0.0 c1947.ic-live.com
 0.0.0.0 c1950.ic-live.com
-0.0.0.0 stack3.collect.igodigital.com
+0.0.0.0 ad.ipredictive.com
 0.0.0.0 adserv.impactengine.com
 0.0.0.0 adn.impactradius.com
 0.0.0.0 scripts.kissmetrics.com
 0.0.0.0 ads.lanistaads.com
 0.0.0.0 napi.lanistaads.com
-0.0.0.0 engine.marketfly.net
+0.0.0.0 engine.marketfly.net #[server down?]
 0.0.0.0 u.mdotlabs.com
 0.0.0.0 content.mkt51.net
 0.0.0.0 content.mkt941.com
+0.0.0.0 f.monetate.net
 0.0.0.0 tracker.mozo.com.au
 0.0.0.0 static.nectarads.com
 0.0.0.0 cl-c.netseer.com
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 adx.openadserve.com
 0.0.0.0 load.passionfruitads.com
-0.0.0.0 ads.pinsex.com
+0.0.0.0 ads.pinsex.com #[server down?]
 0.0.0.0 h.ppjol.com
 0.0.0.0 traffic.pubexchange.com
+0.0.0.0 ads.qadservice.com
 0.0.0.0 ortc-ws2.realtime.co
 0.0.0.0 ortc-ws2-useast1-s0005.realtime.co
 0.0.0.0 a.remarketstats.com
 0.0.0.0 admp-tc.sanoma.fi
 0.0.0.0 tracking.servebom.com
+0.0.0.0 partner.shareaholic.com
 0.0.0.0 traffic.shareaholic.com
 0.0.0.0 cc.simplereach.com
 0.0.0.0 edge.simplereach.com
+0.0.0.0 analytics.sitewit.com
+0.0.0.0 st.smartredirect.de
 0.0.0.0 bsf.smowtion.com
 0.0.0.0 ts.smowtion.com
+0.0.0.0 trial-collector.snplow.com
 0.0.0.0 traffic-offers.com
 0.0.0.0 konnect.videoplaza.tv
 0.0.0.0 trk.vidible.tv
@@ -3819,16 +3956,29 @@
 0.0.0.0 osc.optimize.webtrends.com
 0.0.0.0 a.wishabi.com
 0.0.0.0 track.youniversalmedia.com
+0.0.0.0 axp.zedo.com
 0.0.0.0 geo.ziffdavis.com
+# [Amazon.com][AS16509][54.64.0.0 - 54.71.255.255]
+0.0.0.0 www.lpmxp2134.com
 # [Amazon.com][AS14618][54.72.0.0 - 54.95.255.255]
+0.0.0.0 s.ad120m.com
 0.0.0.0 yieldmanager.adbooth.com
 0.0.0.0 counter.d.addelive.com
 0.0.0.0 tracking.crobo.com
+0.0.0.0 ecs.demdex.net
+0.0.0.0 collector.githubapp.com
+0.0.0.0 trk.parrable.com
+0.0.0.0 t01.proximic.com
+0.0.0.0 go.redirectingat.com
+0.0.0.0 ardrone.swoop.com
 0.0.0.0 a3.websitealive.com
+0.0.0.0 zb.zeroredirect1.com
+0.0.0.0 zc.zeroredirect1.com
 # [Amazon.com][AS16509][67.202.0.0 - 67.202.63.255]
 0.0.0.0 js.moatads.com
 # [Amazon.com][AS16509][72.21.192.0 - 72.21.223.255]
 0.0.0.0 adserver.advertisespace.com
+0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 adtago.s3.amazonaws.com
@@ -3842,12 +3992,13 @@
 0.0.0.0 www.assoc-amazon.com
 0.0.0.0 s3.buysellads.com
 0.0.0.0 new.cetrk.com
-0.0.0.0 trk.cetrk.com #[s3-1.amazonaws.com]
+0.0.0.0 trk.cetrk.com
 0.0.0.0 dl.gameplaylabs.com #[Adware:Win32/GamePlayLabs]
 0.0.0.0 ads.jetpackdigital.com
 0.0.0.0 dl.keywordstrategy.org
 0.0.0.0 media.opencandy.com
-0.0.0.0 ads.smowtion.com #[s3-1-w.amazonaws.com]
+0.0.0.0 asset.pagefair.com
+0.0.0.0 ads.smowtion.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 beacon.tunecore.com
 # [Amazon.com][AS14618][72.44.32.0 - 72.44.63.255]
@@ -3876,7 +4027,6 @@
 0.0.0.0 data.mobclix.com
 0.0.0.0 a.monetate.net
 0.0.0.0 analytics.performable.com
-0.0.0.0 ads.reason.com #[server down?]
 0.0.0.0 click.revenuepilot.com
 0.0.0.0 search.revenuepilot.com
 0.0.0.0 click.searchnation.net
@@ -3889,7 +4039,7 @@
 # [Amazon.com][AS39111][79.125.0.0 - 79.125.63.255]
 0.0.0.0 d.adroll.com
 0.0.0.0 s.adroll.com
-0.0.0.0 tracker.adtaily.pl
+0.0.0.0 stats.atoshonetwork.com
 0.0.0.0 adweb1.hornymatches.com
 0.0.0.0 adweb2.hornymatches.com
 0.0.0.0 gbanners.hornymatches.com
@@ -3898,7 +4048,7 @@
 0.0.0.0 s32.research.de.com
 0.0.0.0 d.skimresources.com
 0.0.0.0 t.skimresources.com #[WebBug]
-0.0.0.0 stats.atoshonetwork.com
+0.0.0.0 feed.topadvert.ru
 0.0.0.0 app.ubertags.com
 0.0.0.0 stats3.unrulymedia.com
 # [Amazon.com][AS39111][87.238.82.0 - 87.238.83.255]
@@ -3910,6 +4060,7 @@
 # [America Online][AS1668][149.174.0.0 - 149.174.255.255]
 0.0.0.0 secure.ace.advertising.com
 0.0.0.0 adiq.coupons.com
+0.0.0.0 ads-us.pictela.net
 # [AOL CNN / Turner Broadcasting][AS5662][157.166.0.0 - 157.166.255.255]
 0.0.0.0 ads.adultswim.com #[ads.cnn.com]
 0.0.0.0 ads.cartoonnetwork.com
@@ -3965,8 +4116,9 @@
 0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 hiq.fotolog.com
 0.0.0.0 at.ontargetjobs.com
-# [AOL / AD TECH][195.93.64.0 - 195.93.127.255]
+# [AOL / AD TECH][AS1668][195.93.64.0 - 195.93.127.255]
 0.0.0.0 adsrv.adplus.co.id
+0.0.0.0 adssl-dc2.adtech.de
 0.0.0.0 jt.india.com
 # [AOL / Quigo][AS39988][208.68.56.0 - 208.68.59.255]
 0.0.0.0 37.adsonar.com
@@ -4022,6 +4174,7 @@
 # [Apa-it][AS5403][194.232.105.0 - 194.232.105.255]
 0.0.0.0 1000ps.oewabox.at
 0.0.0.0 tracking.kurier.at
+0.0.0.0 atvplus.oewabox.at
 0.0.0.0 newsnetw.oewabox.at
 0.0.0.0 oe24.oewabox.at
 0.0.0.0 ooen.oewabox.at
@@ -4033,6 +4186,7 @@
 0.0.0.0 tirolcom.oewabox.at
 0.0.0.0 top.oewabox.at
 0.0.0.0 t-orf.oewabox.at
+0.0.0.0 willhab.oewabox.at
 # [Applied Innovations][AS14519][216.167.192.0 - 216.167.207.255]
 # [Applied Technologies Internet]
 0.0.0.0 hit-parade.com
@@ -4068,6 +4222,8 @@
 0.0.0.0 logc189.xiti.com
 0.0.0.0 logc181.xiti.com
 0.0.0.0 logc202.xiti.com
+0.0.0.0 logc205.xiti.com
+0.0.0.0 logc206.xiti.com
 0.0.0.0 logc210.xiti.com
 0.0.0.0 logc218.xiti.com
 0.0.0.0 logc238.xiti.com
@@ -4089,6 +4245,7 @@
 0.0.0.0 logi104.xiti.com
 0.0.0.0 logi118.xiti.com
 0.0.0.0 logi125.xiti.com
+0.0.0.0 logc135.xiti.com
 0.0.0.0 logi141.xiti.com
 0.0.0.0 logi150.xiti.com
 0.0.0.0 logi151.xiti.com
@@ -4100,6 +4257,7 @@
 0.0.0.0 logp2.xiti.com
 0.0.0.0 logp3.xiti.com
 0.0.0.0 logs1125.xiti.com
+0.0.0.0 logs1204.xiti.com
 0.0.0.0 logs1252.xiti.com
 0.0.0.0 logs1285.xiti.com
 0.0.0.0 logv1.xiti.com
@@ -4141,16 +4299,16 @@
 # [AppNexus][AS29990][204.13.192.0 - 204.13.199.255]
 0.0.0.0 ib.reachjunction.com
 # [AppNexus / Bandcon][AS29990][8.12.224.0 - 8.12.239.255]
-0.0.0.0 ad.adtegrity.net #[ym.adnxs.com]
+0.0.0.0 ad.adtegrity.net
 0.0.0.0 ib.adnxs.com
 0.0.0.0 photobucket.adnxs.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 ym.adnxs.com
-0.0.0.0 ad.aquamediadirect.com #[ib.adnxs.com]
+0.0.0.0 ad.aquamediadirect.com
 0.0.0.0 ads.dedicatedmedia.com
-0.0.0.0 crosspixel.demdex.net
+0.0.0.0 crosspixel.demdex.net #[server down?]
 0.0.0.0 action.media6degrees.com
-0.0.0.0 ad.thewheelof.com #[ym.adnxs.com]
+0.0.0.0 ad.thewheelof.com
 0.0.0.0 a.triggit.com
 0.0.0.0 ag.yieldoptimizer.com
 # [AppNexus / Bandcon][AS29990][8.19.16.0 - 8.19.31.255]
@@ -4181,6 +4339,7 @@
 0.0.0.0 advs.adgorithms.com
 0.0.0.0 ad2.adnetwork.net
 0.0.0.0 mob.adnxs.com
+0.0.0.0 sin1.g.adnxs.com
 0.0.0.0 a.admaxserver.com
 0.0.0.0 go.adversal.com
 0.0.0.0 rtb-ads.avazu.net
@@ -4229,7 +4388,6 @@
 0.0.0.0 www.intrastats.com
 0.0.0.0 www.juiceadv.com
 0.0.0.0 www.prdirectory.biz
-0.0.0.0 adv.sitcom.tv
 0.0.0.0 ads.vjaffiliates.com
 # [Aruba][AS31034][95.110.200.0 - 95.110.207.255]
 0.0.0.0 advdl.ammadv.it
@@ -4244,16 +4402,22 @@
 # [Aspect Networks][AS34848][195.190.31.0 - 195.190.31.255]
 0.0.0.0 media01.adservinghost.com
 # [Aspectra-net][AS9100][212.47.170.0 - 212.47.173.255]
+0.0.0.0 bielertb.wemfbox.ch
 0.0.0.0 blickonl.wemfbox.ch
 0.0.0.0 bluewin.wemfbox.ch
+0.0.0.0 bolero.wemfbox.ch
+0.0.0.0 immosct.wemfbox.ch
+0.0.0.0 moneyh.wemfbox.ch
 0.0.0.0 nzz.wemfbox.ch
 0.0.0.0 qs.wemfbox.ch
 0.0.0.0 scout24.wemfbox.ch
+0.0.0.0 si.wemfbox.ch
+0.0.0.0 sport1.wemfbox.ch
 0.0.0.0 swissinf.wemfbox.ch #[WebBug]
 # [Atomz.com][AS19041][66.117.16.0 - 66.117.31.255]
 # [Aufeminin.com][AS39894][91.103.136.0 - 91.103.140.255]
 0.0.0.0 securite.01net.com
-0.0.0.0 ads.20minutes.fr #[ww55.smartadserver.com]
+0.0.0.0 ads.20minutes.fr
 0.0.0.0 smart.hola.com
 0.0.0.0 ads.horyzon-media.com
 0.0.0.0 www.meetic-partners.com
@@ -4264,6 +4428,7 @@
 0.0.0.0 diff4.smartadserver.com
 0.0.0.0 im2.smartadserver.com
 0.0.0.0 mobile.smartadserver.com
+0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 www2.smartadserver.com
 0.0.0.0 www3.smartadserver.com
 0.0.0.0 www4.smartadserver.com
@@ -4286,6 +4451,7 @@
 0.0.0.0 ww400.smartadserver.com
 0.0.0.0 ww691.smartadserver.com
 0.0.0.0 ww797.smartadserver.com
+0.0.0.0 ww965.smartadserver.com
 0.0.0.0 ww1003.smartadserver.com
 0.0.0.0 www.smartadserver.com
 0.0.0.0 addie.verticalnetwork.de
@@ -4330,6 +4496,7 @@
 # [Bell Canada][AS6539][209.139.192.0 - 209.139.255.255]
 0.0.0.0 adsby.uzoogle.com #[Win32/Zquest.A]
 # [Bell Canada][AS6539][216.18.0.0 - 216.18.127.255]
+0.0.0.0 api.nrelate.com
 # [Bell Globemedia Interactive][AS10808][199.246.60.0 - 199.246.71.255]
 0.0.0.0 adcounter.theglobeandmail.com
 0.0.0.0 adrates.theglobeandmail.com
@@ -4403,7 +4570,7 @@
 0.0.0.0 www.topmobile10.com
 0.0.0.0 www.topsearch10.com #[Spamdexing]
 0.0.0.0 www.toptravel10.com
-0.0.0.0 xml.umaxfeed.com
+0.0.0.0 xml.umaxfeed.com #[server down?]
 0.0.0.0 www.umaxlogin.com
 # [Bezeq][AS8551][212.179.42.0 - 212.179.42.63]
 0.0.0.0 ds.keshet-i.com
@@ -4424,7 +4591,6 @@
 # [Bezeq][AS8551][82.80.204.0 - 82.80.239.255]
 0.0.0.0 ads.one.co.il
 0.0.0.0 bandoc.d-group.co.il
-0.0.0.0 supremeadserver.com
 # [Bigmir][AS39468][193.239.68.0 - 193.239.71.255]
 0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad1.bigmir.net
@@ -4455,7 +4621,6 @@
 0.0.0.0 bbtv.blinkx.com #[Trojan.Win32.Agent.wif]
 0.0.0.0 streamstats1.blinkx.com
 # [BlueConnex][213.229.71.128 - 213.229.71.191]
-0.0.0.0 www.adult-targeted-traffic.com
 # [BlueConnex / Eukhost-ltd][AS29550][91.186.31.0 - 91.186.31.255]
 0.0.0.0 ads.uknetguide.co.uk
 # [BlueConnex][92.48.64.0 - 92.48.127.255]
@@ -4570,6 +4735,7 @@
 # [Broadbandone][AS13645][75.119.128.0 - 75.119.191.255]
 0.0.0.0 tracking.godatafeed.com
 # [BroadRiver][AS13703][208.52.128.0 - 208.52.191.255]
+0.0.0.0 www.cbeckads.com
 0.0.0.0 atrd.netmng.com
 0.0.0.0 brnys.netmng.com
 0.0.0.0 com-kia.netmng.com
@@ -4588,6 +4754,8 @@
 0.0.0.0 tracking.tomsguide.com
 0.0.0.0 tracking.tomshardware.com
 0.0.0.0 www.ad.twitchguru.com
+# [Bulgarian Teleco][AS8866][46.10.0.0 - 46.10.255.255]
+0.0.0.0 ads.bl-consulting.net
 # [Bulgarian Teleco][AS8866][95.43.230.192 - 95.43.230.255]
 0.0.0.0 ads.gladen.bg
 0.0.0.0 ads10.gladen.bg
@@ -4613,7 +4781,6 @@
 # [BurstNet][AS21788][173.212.192.0 - 173.212.255.255]
 0.0.0.0 disco.flashbannernow.com
 # [BurstNet][AS21788][184.82.0.0 - 184.82.255.255]
-0.0.0.0 www.adserv8.com #[server down?]
 0.0.0.0 world.popadscdn.net
 # [BurstNet][AS21788][65.38.175.0 - 65.38.175.255]
 # [BurstNet][AS21788][66.96.239.2 - 66.96.239.254]
@@ -4680,7 +4847,6 @@
 # [Caravan / Lanways-net][AS15756][217.23.132.248 - 217.23.132.255]
 0.0.0.0 spytrack.tic.ru
 # [Caravan / Mediadome][AS15756][62.213.100.0 - 62.213.100.255]
-0.0.0.0 www.mp3downloading.com
 # [Carmen Media][66.212.235.192 - 66.212.235.255]
 # [Caronet][AS13618][174.34.224.0 - 174.34.255.255]
 0.0.0.0 cdn.zeusclicks.com
@@ -4711,7 +4877,6 @@
 0.0.0.0 bmuk.burstnet.com
 0.0.0.0 gr.burstnet.com
 0.0.0.0 piwik.redtube.com #[Piwik Analytics]
-0.0.0.0 ads.shorttail.net
 # [Carpathia Hosting][AS15226][66.197.0.0 - 66.197.127.255]
 0.0.0.0 webstats.oanda.com
 # [Carpathia Hosting][AS29748][66.197.0.0 - 66.197.127.255]
@@ -4757,6 +4922,7 @@
 0.0.0.0 www.pacificpoker.com #[AdWare.Win32.Casino.m]
 0.0.0.0 www.reefclubcasino.com
 # [Castle Access][AS22489][69.43.160.0 - 69.43.160.255]
+0.0.0.0 park.above.com
 0.0.0.0 www.needmorehits.com
 0.0.0.0 www.res-x.com
 0.0.0.0 openx.trellian.com
@@ -4770,61 +4936,52 @@
 0.0.0.0 stat.fengniao.com
 0.0.0.0 ads.webshots.com
 # [CBS Interactive / CNET Networks][AS6623][216.239.112.0 - 216.239.127.255]
-0.0.0.0 bwp.builderau.com.au
 0.0.0.0 adimg.bnet.com
 0.0.0.0 mads.bnet.com
 0.0.0.0 ocp.bnet.com
 0.0.0.0 adlog.cbsi.com
 # 0.0.0.0 dw.cbsi.com #[affects CNET downloads]
-0.0.0.0 bwp.cbsnews.com
 0.0.0.0 mads.cbs.com
 0.0.0.0 track.cbs.com #[WebBug]
 0.0.0.0 mads.cbsnews.com
 0.0.0.0 ocp.cbsnews.com
 0.0.0.0 adimg.chow.com
 0.0.0.0 mads.chow.com
-0.0.0.0 bwp.chowhound.com
 0.0.0.0 adimg.cnet.com
-0.0.0.0 bwp.cnet.com
-0.0.0.0 bwp.cnet.com.au
 0.0.0.0 mads.cnet.com
 0.0.0.0 remotead-internal.cnet.com
 0.0.0.0 remotead.cnet.com
 0.0.0.0 mads.cnettv.com
 0.0.0.0 adimg.download.com
-0.0.0.0 bwp.download.com
 0.0.0.0 mads.download.com
 0.0.0.0 bwp.findarticles.com
 0.0.0.0 adimg.gamefaqs.com
-0.0.0.0 bwp.gamefaqs.com
 0.0.0.0 mads.gamefaqs.com
-0.0.0.0 bwp.gamespot.com
 0.0.0.0 mads.gamespot.com
 0.0.0.0 adimg.theinsider.com
 0.0.0.0 mads.theinsider.com
-0.0.0.0 bwp.metacritic.com
 0.0.0.0 adimg.mp3.com
 0.0.0.0 bwp.mp3.com
 0.0.0.0 mads.mp3.com
-0.0.0.0 bwp.mysimon.com
 0.0.0.0 adimg.news.com
-0.0.0.0 bwp.news.com
 0.0.0.0 adimg.tv.com
-0.0.0.0 bwp.tv.com
 0.0.0.0 mads.tv.com
-0.0.0.0 bwp.versiontracker.com
-0.0.0.0 bwp.webware.com
 0.0.0.0 ads.zdnet.com
 0.0.0.0 adimg.zdnet.com
-0.0.0.0 bwp.zdnet.com.au
-0.0.0.0 bwp.zdnet.co.uk
-0.0.0.0 bwp.zdnet.com
 0.0.0.0 mads.zdnet.com
 # [CBS Interactive / CNET Networks][AS6623][64.30.224.0 - 64.30.239.255]
-0.0.0.0 bwp.download.cnet.com
+# [Ccbill][AS32161][64.38.212.0 - 64.38.213.255]
+0.0.0.0 bill.ccbill.com
+0.0.0.0 images.ccbill.com
+0.0.0.0 refer.ccbill.com #[Tracking.Cookie][Google.Diagnostic]
+0.0.0.0 www.ccbill.com
+# [Ccbill][AS32164][64.38.240.0 - 64.38.240.255]
+0.0.0.0 www.ccbillcs.com
 # [Cdnetworks][AS36408][14.0.32.0 - 14.0.63.255]
 0.0.0.0 w11.localadbuy.com
 0.0.0.0 widget.perfectmarket.com
+# [Cdnetworks][AS36408][103.4.200.0 - 103.4.203.255]
+0.0.0.0 d-cache.microad.jp
 # [Cdnetworks][AS36408][119.31.248.0 - 119.31.255.255]
 0.0.0.0 amsv2.daum.net
 # [Cdnetworks][AS36408][151.249.93.0 - 151.249.93.255]
@@ -4847,7 +5004,6 @@
 # [China Mobile][AS9808][221.176.0.0 - 221.183.255.255]
 # [China Telecom][AS4134][113.96.0.0 - 113.121.255.255]
 0.0.0.0 pop.dnparking.com
-0.0.0.0 d1.vipads.cn
 # [China Telecom / Chinanet][AS4812][124.74.0.0 - 124.75.255.255]
 0.0.0.0 a.ads99.cn
 # [China Telecom / Chinanet][AS4812][180.152.0.0 - 180.159.255.255]
@@ -4856,7 +5012,6 @@
 # [China Telecom / Qunying][AS4134][59.34.148.0 - 59.34.148.255]
 0.0.0.0 wwv.onetad.com
 # [China Telecom / Chinanet][219.128.0.0 - 219.137.255.255]
-0.0.0.0 forsale.dnparking.com
 0.0.0.0 stats.dnparking.com
 # [China Telecom][AS4134][220.163.0.0 - 220.165.255.255]
 0.0.0.0 famut.com
@@ -4874,10 +5029,11 @@
 0.0.0.0 banners.movieprofits.com
 0.0.0.0 as.pmates.com
 0.0.0.0 ads.sextvx.com
-0.0.0.0 ads0.videosz.com
+0.0.0.0 ads0.videosz.com #[server down?]
 0.0.0.0 banners.videosz.com
 0.0.0.0 feeds.videosz.com
 # [Choopa][AS20473][209.222.0.0 - 209.222.31.255]
+0.0.0.0 www.dacounter.com
 0.0.0.0 ab.goodsblock.dt07.net
 0.0.0.0 jsg.dt07.net
 0.0.0.0 imgg.dt07.net
@@ -4909,7 +5065,6 @@
 0.0.0.0 www.mm26.com
 # [Choopa][AS20473][66.55.128.0 - 66.55.159.255]
 0.0.0.0 www.18access.com
-0.0.0.0 fuelbuck.com
 0.0.0.0 www.hentaidatabase.com
 0.0.0.0 kingpinmedia.net
 0.0.0.0 www.kingpinmedia.net
@@ -4972,6 +5127,10 @@
 0.0.0.0 s.clickability.com
 0.0.0.0 sftp.clickability.com #[Tracking.Cookie]
 0.0.0.0 stats.clickability.com
+# [Cloudflare][AS13335][104.16.0.0 - 104.31.255.255]
+0.0.0.0 groupsetzipmyjob.org #[Win32/AdWare.MultiPlug.CN]
+0.0.0.0 proudclick.com
+0.0.0.0 cdn1.zopiny.com
 # [Cloudflare][AS13335][108.162.192.0 - 108.162.255.255]
 0.0.0.0 adfoc.us
 0.0.0.0 ads.akademika.bg
@@ -4981,7 +5140,7 @@
 0.0.0.0 adspaces.ero-advertisings.com
 0.0.0.0 syndication.exoclickz.com
 0.0.0.0 jque.net
-0.0.0.0 kicktracker.net
+0.0.0.0 ozertesa.com
 0.0.0.0 pinion.gg
 0.0.0.0 bin.pinion.gg
 0.0.0.0 cdn.pinion.gg
@@ -5000,6 +5159,7 @@
 0.0.0.0 dl.getprivate.net #[Adware.Privitize.2]
 0.0.0.0 ads.mylikes.com
 0.0.0.0 www.mystat.pl
+0.0.0.0 odzb5nkp.com
 0.0.0.0 serials.ws
 0.0.0.0 www.serials.ws
 0.0.0.0 trafficg.com
@@ -5010,16 +5170,21 @@
 0.0.0.0 pop.zompmedia.com
 # [Cloudflare][AS13335][162.158.0.0 - 162.159.255.255]
 0.0.0.0 www.adworld.com.tr
+0.0.0.0 click.bounceads.net
 0.0.0.0 errorception.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 www.fulltraffic.net
+0.0.0.0 static.kameleoon.com
 0.0.0.0 assets.kixer.com
 0.0.0.0 lognormal.net
 0.0.0.0 www.oksrv.com
 0.0.0.0 popcash.net
 # [Cloudflare][AS13335][190.93.240/20]
 0.0.0.0 0iecfobt.com
+0.0.0.0 m57ku6sm.com
 0.0.0.0 pixxur.com
+# [Cloudflare][AS13335][198.41.128.0 - 198.41.255.255]
+0.0.0.0 opensoftwareupdate.com #[Adware.Downware.3736]
 # [Cnzz]
 0.0.0.0 c.cnzz.com
 0.0.0.0 hos1.cnzz.com
@@ -5130,11 +5295,8 @@
 0.0.0.0 hfm.checkm8.com
 0.0.0.0 sagedigital.checkm8.com
 0.0.0.0 creative.clicksor.com
-0.0.0.0 ads.cpxadroit.com
 0.0.0.0 ppc-parked.domainsite.com #[Parking Service]
 0.0.0.0 vcontent.e-messenger.net
-0.0.0.0 exitexchange.com
-0.0.0.0 www.exitexchange.com #[Tracking.Cookie]
 0.0.0.0 ads.financialcontent.com
 0.0.0.0 adserver.finditquick.com
 0.0.0.0 partner.finditquick.com
@@ -5217,7 +5379,6 @@
 # [Colosseum Online][216.105.94.64 - 216.105.94.95]
 0.0.0.0 clickedyclick.com #[Tracking.Cookie]
 0.0.0.0 www.clickedyclick.com
-0.0.0.0 ads.fasti.net
 0.0.0.0 pod.infinitypersonals.com
 0.0.0.0 textad.socialsex.com
 # [Colt][AS8220][195.234.154.0 - 195.234.154.255]
@@ -5236,6 +5397,7 @@
 0.0.0.0 api.zanox.com
 # [Columbus Network Access][AS10297][173.45.111.112 - 173.45.111.127]
 0.0.0.0 ads.all-free-download.com
+0.0.0.0 us1.siteimprove.com
 # [Columbus Network Access][AS10297][207.182.128.0 - 207.182.159.255]
 0.0.0.0 adv.all-free-download.com
 # [Columbus Network Access][AS10297][209.190.0.0 - 209.190.127.255]
@@ -5265,17 +5427,9 @@
 0.0.0.0 web.survey-poll.com
 0.0.0.0 www.surveysite.com
 0.0.0.0 survey2.voicefive.com
-# [Consonus][AS14825][67.208.128.0 - 67.208.143.255]
-0.0.0.0 www.dicarlotrack.com
-0.0.0.0 tracking.gajmp.com
-0.0.0.0 www.jmpads.com
-0.0.0.0 www.leadtrackgo.com
-0.0.0.0 www.sq2trk2.com
-0.0.0.0 www.xy7track.com
-0.0.0.0 affiliates.yourapprovaltracker.com
 # [Coreexpress][AS7796][64.69.32.0 - 64.69.47.255]
-0.0.0.0 comm1.digits.com
-0.0.0.0 counter.digits.com
+0.0.0.0 comm1.digits.com #[server down?]
+0.0.0.0 counter.digits.com #[server down?]
 # [Coremetrics][AS46589][74.121.132.0 - 74.121.135.255]
 0.0.0.0 data.abebooks.com #[WebBug.eluminate]
 0.0.0.0 www25.bathandbodyworks.com #[WebBug.eluminate]
@@ -5299,7 +5453,6 @@
 0.0.0.0 sslwidget.criteo.com
 # [Criteo][AS19750][74.119.116.0 - 74.119.119.255]
 0.0.0.0 cas.criteo.com
-0.0.0.0 dap.criteo.com #[server down?]
 0.0.0.0 dis.criteo.com
 0.0.0.0 dis.eu.criteo.com
 0.0.0.0 dis.ny.us.criteo.com
@@ -5313,37 +5466,6 @@
 0.0.0.0 static.eu.criteo.net
 0.0.0.0 widget.criteo.com
 0.0.0.0 www.criteo.com
-# [CWIE / Secured Servers][AS19181][174.138.160.0 - 174.138.175.255]
-0.0.0.0 redirects.coldhardcash.com
-# [CWIE][AS13647][208.79.80.0 - 208.79.83.255]
-0.0.0.0 piwik.datawrapper.de #[Piwik.Analytics]
-# [CWIE / Secured Servers][AS19181][209.188.0.0 - 209.188.31.255]
-0.0.0.0 banners.lativio.com
-0.0.0.0 banners.moreniche.com #[banners.lativio.com]
-0.0.0.0 track.moreniche.com
-0.0.0.0 reseller.sexyads.com
-0.0.0.0 www.sexyads.net
-# [CWIE][64.154.4.0 - 64.154.7.255]
-0.0.0.0 join4free.com
-0.0.0.0 asians.join4free.com
-0.0.0.0 clickthrough.wegcash.com
-0.0.0.0 free.wegcash.com
-0.0.0.0 programs.wegcash.com #[Tenebril.wegcash.com]
-0.0.0.0 promos.wegcash.com
-# [CWIE / iGlobal][AS19181][64.38.237.0 - 64.38.237.255]
-0.0.0.0 promo.lonelywifehookup.com
-0.0.0.0 promo.ulust.com
-0.0.0.0 ads.xprofiles.com
-# [CWIE][64.38.192.0 - 64.38.255.255]
-0.0.0.0 bill.ccbill.com
-0.0.0.0 images.ccbill.com
-0.0.0.0 refer.ccbill.com #[Tracking.Cookie][Google.Diagnostic]
-0.0.0.0 www.ccbill.com
-0.0.0.0 www.ccbillcs.com
-0.0.0.0 www.ccbilleu.com
-0.0.0.0 serve.ads.chaturbate.com
-0.0.0.0 bill.ecsuite.com
-0.0.0.0 www.trafficcashgold.com
 # [Cable & Wireless][AS1273][63.130.0.0 - 63.130.255.255]
 0.0.0.0 cdn.adnxs.com
 0.0.0.0 search.ipromote.com
@@ -5412,7 +5534,7 @@
 # [Dako Systems][AS40824][193.169.40.0 - 193.169.41.255]
 # [Data Centers / AdOn Network][AS12025][69.71.57.0 - 69.71.57.255]
 0.0.0.0 tags.adcde.com
-0.0.0.0 banner.addlvr.com
+0.0.0.0 banner.addlvr.com #[server down?]
 0.0.0.0 rmedia.adonnetwork.com
 0.0.0.0 tags.bannercde.com
 0.0.0.0 media2.mediafileshost.com
@@ -5453,6 +5575,7 @@
 0.0.0.0 www.loggerx.com
 0.0.0.0 www.myaffiliateprogram.com
 0.0.0.0 www.spywarespy.com #[Rogue/Suspect]
+0.0.0.0 tracking.validclick.com
 # [Data-xata][AS8870][91.197.128.0 - 91.197.131.255]
 # [Dedicated Server Range][AS5413][212.241.250.0 - 212.241.251.255]
 0.0.0.0 www.almondnetworks.com
@@ -5473,7 +5596,7 @@
 0.0.0.0 bluehparking.com
 # [DemandMedia / Enom][AS21740][69.64.144.0 - 69.64.159.255]
 0.0.0.0 extended.dmtracker.com
-0.0.0.0 pod.dmtracker.com
+0.0.0.0 pod.dmtracker.com #[server down?]
 0.0.0.0 video.dmtracker.com
 0.0.0.0 vs.dmtracker.com
 0.0.0.0 beacon.ehow.com
@@ -5483,6 +5606,7 @@
 0.0.0.0 external.dmtracker.com
 0.0.0.0 parking.dmtracker.com
 0.0.0.0 search.dmtracker.com
+0.0.0.0 rte-img.nuseek.com
 # [Denit / Cust-denit-id][AS25542][62.148.179.128 - 62.148.179.255]
 # [Denit / Cust-denit-id][AS25542][81.93.57.128 - 81.93.57.255]
 0.0.0.0 rotator.tradetracker.net
@@ -5499,6 +5623,8 @@
 0.0.0.0 newopenx.detik.com
 0.0.0.0 detik.serving-sys.com
 # [Deutsche Telekom / Starweb][AS3320][193.159.183.0 - 193.159.183.255]
+# [Deutsche Telekom][AS3320][80.156.84.0 - 80.156.87.255]
+0.0.0.0 geolocation.t-online.de
 # [Digital Network/ Cjsc][AS12695][213.248.36.0 - 213.248.36.255]
 0.0.0.0 hit32.hotlog.ru
 0.0.0.0 hit33.hotlog.ru
@@ -5509,6 +5635,7 @@
 0.0.0.0 oneund.ru
 0.0.0.0 go.oneund.ru
 # [Digital Network/ Cjsc][AS12695][95.163.0.0 - 95.163.255.255]
+0.0.0.0 hit39.hotlog.ru
 0.0.0.0 hit41.hotlog.ru
 # [Digital River][AS32081][174.46.0.0 - 174.47.255.255]
 0.0.0.0 ads.glispa.com
@@ -5522,7 +5649,6 @@
 0.0.0.0 media.cashcownetworks.com
 0.0.0.0 partners.clear-link.com
 0.0.0.0 clickauditor.net
-0.0.0.0 directcoupons.com
 0.0.0.0 directleads.com #[Whois.Blacklisted]
 0.0.0.0 directtrack.com
 0.0.0.0 adultadworld.directtrack.com
@@ -5558,7 +5684,6 @@
 0.0.0.0 keywordmax.com
 0.0.0.0 www.keywordmax.com
 0.0.0.0 show.onenetworkdirect.net
-0.0.0.0 ourfreestuff.net
 0.0.0.0 login.tracking101.com #[Tracking.Cookie]
 # [Direct Information Group][Parking Service]
 0.0.0.0 images.bmnq.com
@@ -5584,7 +5709,6 @@
 # [Disney Worldwide][199.181.129.0 - 199.181.135.255]
 0.0.0.0 ngads.go.com
 0.0.0.0 ad.infoseek.com
-0.0.0.0 adsintl.starwave.com
 # [Disney Online][68.71.208.0 - 68.71.223.255]
 0.0.0.0 ad.go.com
 0.0.0.0 adimages.go.com
@@ -5595,10 +5719,12 @@
 0.0.0.0 rtb3.doubleverify.com
 # [DreamHost][208.113.128.0 - 208.113.255.255]
 0.0.0.0 oxen.hillcountrytexas.com
+# [DreamHost][AS26347][64.111.96.0 - 64.111.127.255]
+0.0.0.0 linkjumps.com
 # [DreamHost][66.33.192.0 - 66.33.223.255]
 0.0.0.0 counter.dreamhost.com
 # [DreamHost][AS26347][69.163.128.0 - 69.163.191.255]
-0.0.0.0 augustads.com
+0.0.0.0 augustads.com #[server down?]
 0.0.0.0 ads.dkelseymedia.com
 0.0.0.0 openx.shinyads.com
 0.0.0.0 www.superbanner.org
@@ -5648,6 +5774,8 @@
 0.0.0.0 cdn2.ads.datinggold.com
 0.0.0.0 cdn.mb.datingadzone.com
 0.0.0.0 resources.infolinks.com
+0.0.0.0 e.invodo.com
+0.0.0.0 sec.levexis.com
 0.0.0.0 media.livepromotools.com
 0.0.0.0 img.ads.mocean.mobi
 0.0.0.0 cdn.nprove.com
@@ -5659,6 +5787,7 @@
 0.0.0.0 img.ads.sanomamobileads.nl
 0.0.0.0 rome.specificclick.net
 0.0.0.0 www.synovite-scripts.com
+0.0.0.0 loader.topadvert.ru
 0.0.0.0 tcr.tynt.com
 0.0.0.0 images.webads.it
 0.0.0.0 images.webads.nl
@@ -5676,6 +5805,7 @@
 0.0.0.0 cv.bsvideos.com
 # 0.0.0.0 livepassdl.conviva.com #[affects videos]
 0.0.0.0 banners.crakcash.com
+0.0.0.0 herezera.com
 0.0.0.0 pixel.indieclick.com
 0.0.0.0 staticd.cdn.industrybrains.com
 0.0.0.0 cdn.ads.ookla.com
@@ -5683,29 +5813,11 @@
 0.0.0.0 c.supert.ag
 0.0.0.0 tags.tiqcdn.com
 # [Electronic Group Interactive][AS42816][195.10.6.0 - 195.10.6.255]
-0.0.0.0 www.123ticket.com
-0.0.0.0 www.dvd-explorer.com
-0.0.0.0 www.egisupport.com #[server down?]
-0.0.0.0 help.rapid-pass.net
-0.0.0.0 media.rapid-pass.net
-0.0.0.0 www.rapid-pass.net #[Dialer.InstantAccess][DIAL_NSTANTXS.A]
-0.0.0.0 cc.sex-explorer.com
-0.0.0.0 contents.sex-explorer.com
-0.0.0.0 freecc.sex-explorer.com
-0.0.0.0 instant-access.sex-explorer.com
-0.0.0.0 live.sex-explorer.com #[Adware.EGroup]
-0.0.0.0 lives.sex-explorer.com
-0.0.0.0 ncc.sex-explorer.com
-0.0.0.0 static.sex-explorer.com
-0.0.0.0 static.contents.sex-explorer.com
-0.0.0.0 trial.sex-explorer.com
-0.0.0.0 www.sex-explorer.com
 # [Elite Internet][AS36643][208.65.200.0 - 208.65.203.255]
 0.0.0.0 ads.amdmb.com
 0.0.0.0 dynamic1.anandtech.com
 0.0.0.0 dynamic2.anandtech.com
 0.0.0.0 dynamic1.dailytech.com
-0.0.0.0 www.techlinks100.com
 # [Eloqua / Oracle][AS54253][209.167.0.0 - 209.167.255.255]
 0.0.0.0 now.eloqua.com #[WebBug][Tracking.Cookie]
 0.0.0.0 s323.t.eloqua.com
@@ -5790,10 +5902,10 @@
 # [Express Technologies][AS4378][216.74.0.0 - 216.74.63.255]
 0.0.0.0 gamevance.com #[Trojan-Downloader.Win32.Small.gkk]
 0.0.0.0 www.gamevance.com
-0.0.0.0 data.resultlinks.com
 # [Extended Host][AS42598][194.110.160.0 - 194.110.163.255]
 # [Ezzi.net][AS15149][216.150.64.0 - 216.150.95.255]
 0.0.0.0 ad7.literotica.com
+0.0.0.0 r1.literotica.com
 # [Ezzi.net][AS15149][72.9.96.0 - 72.9.111.255]
 # [Facebook]
 0.0.0.0 ads.ak.facebook.com
@@ -5850,32 +5962,18 @@
 # [Fox Interactive Media / News Corp]
 0.0.0.0 ads.americanidol.com
 0.0.0.0 ads.ign.com #[Tracking.Cookie]
-0.0.0.0 de.ign.com
-0.0.0.0 dartimg.intermix.com
 0.0.0.0 nb.myspace.com #[WebBug]
 0.0.0.0 adserver.snowball.com
 0.0.0.0 t.snowball.com
 # [Fox Interactive / MySpace][216.178.32.0 - 216.178.47.255]
 0.0.0.0 fimserve.askmen.com
 0.0.0.0 fimserve.ign.com #[fimserve.myspace.com]
-0.0.0.0 cache.opt.fimserve.com
-0.0.0.0 debr.opt.fimserve.com
-0.0.0.0 deeb.opt.fimserve.com
-0.0.0.0 dehp.opt.fimserve.com
-0.0.0.0 delb.opt.fimserve.com
-0.0.0.0 demr.opt.fimserve.com
-0.0.0.0 desb.opt.fimserve.com
-0.0.0.0 desk.opt.fimserve.com
-0.0.0.0 dewb.opt.fimserve.com
-0.0.0.0 p.opt.fimserve.com
 0.0.0.0 delb.myspace.com #[ad.yieldmanager.com]
 0.0.0.0 delb2.myspace.com #[media.fimnetwork.com]
 0.0.0.0 demr.myspace.com #[media.fimnetwork.com]
 0.0.0.0 fimserve.myspace.com
 0.0.0.0 fimserve.rottentomatoes.com
 # [Fox Interactive / MySpace][AS33739][63.135.80.0 - 63.135.95.255]
-0.0.0.0 trgc.opt.fimserve.com
-0.0.0.0 trgj.opt.fimserve.com
 0.0.0.0 mpp.specificclick.net
 # [Fox Interactive / Ign Entertainment][207.38.8.0 - 207.38.15.255]
 0.0.0.0 adcontent.gamespy.com
@@ -5899,20 +5997,18 @@
 0.0.0.0 aujourdhui.refr.adgtw.orangeads.fr
 0.0.0.0 all.orfr.adgtw.orangeads.fr
 0.0.0.0 ap.read.mediation.pns.ap.orangeads.fr
-0.0.0.0 rc.production.orangeads.fr
-0.0.0.0 tr.production.orangeads.fr
 # [Freenet Ag][AS5430][194.97.45.0 - 194.97.45.127]
 # [Freenet Ag][AS5430][62.104.23.64 - 62.104.23.127]
 0.0.0.0 ad.cashdorado.de
 0.0.0.0 adserver.freenet.de
 0.0.0.0 adview.ppro.de
+0.0.0.0 cdn.stroeerdigitalmedia.de
 # [Freewheel Media][AS26558][63.251.0.0 - 63.251.255.255]
 0.0.0.0 2822.v.fwmrm.net
 0.0.0.0 2945.v.fwmrm.net
 0.0.0.0 5be16.v.fwmrm.net
 0.0.0.0 bd0dc.v.fwmrm.net
 # [Freewheel Media][AS26558][74.217.66.0 - 74.217.66.255]
-0.0.0.0 adm.fwmrm.net
 0.0.0.0 1c6e2.v.fwmrm.net
 0.0.0.0 2a86.v.fwmrm.net
 0.0.0.0 2df7d.v.fwmrm.net
@@ -5929,6 +6025,7 @@
 0.0.0.0 bea4.v.fwmrm.net
 0.0.0.0 m.v.fwmrm.net
 # [Freewheel Media][AS26558][75.98.70.0 - 75.98.70.255]
+0.0.0.0 140cc.v.fwmrm.net
 0.0.0.0 2ab7f.v.fwmrm.net
 0.0.0.0 9cf9.v.fwmrm.net
 # [FriendFinder Inc]
@@ -5995,6 +6092,7 @@
 0.0.0.0 geobanner.passion.com
 0.0.0.0 adserver.penthouse.com #[banners.friendfinder.com]
 0.0.0.0 banners.penthouse.com
+0.0.0.0 glean.pop6.com
 0.0.0.0 adserver.seniorfriendfinder.com
 0.0.0.0 banners.seniorfriendfinder.com
 0.0.0.0 geobanner.seniorfriendfinder.com
@@ -6032,6 +6130,7 @@
 0.0.0.0 ads.sxx.com
 0.0.0.0 ads.vipcams.com
 # [GeMius]
+0.0.0.0 15minadlt.hit.gemius.pl
 0.0.0.0 hit.gemius.pl #[Tracking.Cookie]
 0.0.0.0 activeby.hit.gemius.pl
 0.0.0.0 ad.hit.gemius.pl
@@ -6040,6 +6139,7 @@
 0.0.0.0 adclick.hit.gemius.pl
 0.0.0.0 adcz.hit.gemius.pl
 0.0.0.0 adee.hit.gemius.pl
+0.0.0.0 adhr.hit.gemius.pl
 0.0.0.0 adlt.hit.gemius.pl
 0.0.0.0 adlv.hit.gemius.pl
 0.0.0.0 adnet.hit.gemius.pl
@@ -6047,11 +6147,14 @@
 0.0.0.0 adocean-by.hit.gemius.pl
 0.0.0.0 adocean-cz.hit.gemius.pl
 0.0.0.0 adocean-ee.hit.gemius.pl
+0.0.0.0 adocean-hr.hit.gemius.pl
 0.0.0.0 adocean-lt.hit.gemius.pl
 0.0.0.0 adocean-lv.hit.gemius.pl
 0.0.0.0 adocean-pl.hit.gemius.pl
+0.0.0.0 adocean-ro.hit.gemius.pl
 0.0.0.0 adocean-si.hit.gemius.pl
 0.0.0.0 adocean-ua.hit.gemius.pl
+0.0.0.0 adro.hit.gemius.pl
 0.0.0.0 adrs.hit.gemius.pl
 0.0.0.0 advice.hit.gemius.pl
 0.0.0.0 advicead.hit.gemius.pl
@@ -6087,6 +6190,7 @@
 0.0.0.0 gaae.hit.gemius.pl
 0.0.0.0 gaat.hit.gemius.pl
 0.0.0.0 gaba.hit.gemius.pl
+0.0.0.0 gabe.hit.gemius.pl
 0.0.0.0 gabg.hit.gemius.pl
 0.0.0.0 gaby.hit.gemius.pl
 0.0.0.0 gacz.hit.gemius.pl
@@ -6108,6 +6212,7 @@
 0.0.0.0 gask.hit.gemius.pl
 0.0.0.0 gatr.hit.gemius.pl
 0.0.0.0 gazeta.hit.gemius.pl
+0.0.0.0 gdebg.hit.gemius.pl
 0.0.0.0 gdecz.hit.gemius.pl
 0.0.0.0 gdelv.hit.gemius.pl
 0.0.0.0 gders.hit.gemius.pl
@@ -6115,8 +6220,11 @@
 0.0.0.0 generalmediaadhu.hit.gemius.pl
 0.0.0.0 gg.hit.gemius.pl
 0.0.0.0 gde-default.hit.gemius.pl
+0.0.0.0 ghmme.hit.gemius.pl
 0.0.0.0 ghmbg.hit.gemius.pl
+0.0.0.0 ghmpl.hit.gemius.pl
 0.0.0.0 ghmrs.hit.gemius.pl
+0.0.0.0 goldbach.hit.gemius.pl
 0.0.0.0 gspro.hit.gemius.pl
 0.0.0.0 gtlt.hit.gemius.pl
 0.0.0.0 gtlv.hit.gemius.pl
@@ -6134,6 +6242,7 @@
 0.0.0.0 ls.hit.gemius.pl
 0.0.0.0 lt.hit.gemius.pl
 0.0.0.0 lv.hit.gemius.pl
+0.0.0.0 mbank.hit.gemius.pl
 0.0.0.0 mediaregad.hit.gemius.pl
 0.0.0.0 metagaua.hit.gemius.pl
 0.0.0.0 mreg.hit.gemius.pl
@@ -6168,12 +6277,15 @@
 0.0.0.0 st.hit.gemius.pl
 0.0.0.0 st1.hit.gemius.pl
 0.0.0.0 std1.hit.gemius.pl #[WebBug]
+0.0.0.0 str.hit.gemius.pl
 0.0.0.0 stua.hit.gemius.pl
+0.0.0.0 tr.hit.gemius.pl
 0.0.0.0 tvn.hit.gemius.pl
 0.0.0.0 ua.hit.gemius.pl
 0.0.0.0 vbadbg.hit.gemius.pl
 0.0.0.0 webgroundadbg.hit.gemius.pl
 0.0.0.0 wp.hit.gemius.pl
+0.0.0.0 wykop.hit.gemius.pl
 0.0.0.0 home.hit.stat.pl
 0.0.0.0 onet.hit.stat.pl
 0.0.0.0 s1.hit.stat.pl
@@ -6183,9 +6295,6 @@
 0.0.0.0 sisco.hit.stat.pl
 0.0.0.0 www.stat.pl
 # [Ghnet][AS34275][91.150.192.0 - 91.150.223.255]
-0.0.0.0 r.ranking.erotyka.zy.pl
-0.0.0.0 sex-toplista.zy.pl
-0.0.0.0 r.sex-toplista.zy.pl
 # [Gigacodes][AS44949][195.160.200.0 - 195.160.203.255]
 # [Giga-hosting][AS51167][178.238.233.0 - 178.238.233.255]
 0.0.0.0 baner.energy-torrent.com
@@ -6311,6 +6420,7 @@
 # [Godaddy.com][AS26496][184.168.0.0 - 184.168.255.255]
 0.0.0.0 ads.admnx.com
 0.0.0.0 www.digiaquascr.com #[AdWare.Win32.iBryte.jda]
+0.0.0.0 soft68.org #[Win32/InstallCore.OU]
 # [Godaddy.com Netherlands][AS26496][188.121.32.0 - 188.121.63.255]
 0.0.0.0 wms-tools.com
 # [Godaddy.com][208.109.0.0 - 208.109.255.255]
@@ -6483,7 +6593,6 @@
 0.0.0.0 ads.bloodhorse.com
 0.0.0.0 st.magnify.net #[WebBug]
 0.0.0.0 stats.magnify.net
-0.0.0.0 serving.rpowermedia.com #[AdvertPro]
 0.0.0.0 ads.thehorse.com
 # [Grafix Internet][AS16131][84.243.192.0 - 84.243.255.255]
 # [GTS Nextra / Etargetsh-ba][AS5578][195.168.10.128 - 195.168.10.255]
@@ -6512,26 +6621,28 @@
 0.0.0.0 www.adylalahb.ru
 0.0.0.0 c.am11.ru
 0.0.0.0 ad.media-locator.com
+0.0.0.0 splitter.ndsplitter.com
 0.0.0.0 s62.research.de.com
+0.0.0.0 show.smartcontext.pl
 # [Hetzner][AS24940][176.9.0.0 - 176.9.255.255]
-0.0.0.0 www.beencounter.com
+0.0.0.0 www.beencounter.com #[server down?]
 0.0.0.0 adsfeed3.brabys.co.za
 0.0.0.0 traffic.brand-wall.net
 0.0.0.0 advertising.fussball-liveticker.eu
 0.0.0.0 adv.medicine.bg
 0.0.0.0 e.mouseflow.com
 0.0.0.0 mp.pianomedia.eu
+0.0.0.0 click.plista.com
+0.0.0.0 farm.plista.com
 0.0.0.0 app3.rutarget.ru
 0.0.0.0 us-sonar.sociomantic.com
 0.0.0.0 adserver.spritmonitor.de
-0.0.0.0 trafficconverter.in
 0.0.0.0 xblasterads1.com
 0.0.0.0 yieldads.com
 # [Hetzner][AS24940][178.63.0.0 - 178.63.255.255]
 0.0.0.0 imp.adzonk.com
 0.0.0.0 scambiobanner.altervista.org
 0.0.0.0 avazudsp.net
-0.0.0.0 adv.ftv.com
 0.0.0.0 data.inskinmedia.com
 0.0.0.0 test.wiredminds.de
 0.0.0.0 wm.wiredminds.de
@@ -6547,6 +6658,7 @@
 # [Hetzner][213.133.96.0 - 213.133.111.255]
 0.0.0.0 sonar.sociomantic.com
 # [Hetzner][213.239.202.128 - 213.239.202.255]
+0.0.0.0 api.7segments.com
 0.0.0.0 a.mobile.toboads.com
 0.0.0.0 relay.mobile.toboads.com
 0.0.0.0 count.yandeg.ru
@@ -6560,8 +6672,8 @@
 0.0.0.0 ads3.moitepari.bg
 0.0.0.0 ad.propellerads.com
 0.0.0.0 img.propellerads.com
-0.0.0.0 scdn.synovite.nl
-0.0.0.0 trck.synovite.nl
+0.0.0.0 scdn.synovite.nl #[server down?]
+0.0.0.0 trck.synovite.nl #[server down?]
 0.0.0.0 stats.warenform.de #[Piwik.Analytics]
 # [Hetzner][AS24940][5.9.144.56 - 5.9.90.95]
 0.0.0.0 adserver.4bitsmedia.com
@@ -6569,14 +6681,17 @@
 0.0.0.0 media.adcarousel.pl
 0.0.0.0 www.adcarousel.pl
 0.0.0.0 www.adtraff.ru
+0.0.0.0 advombat.ru
 0.0.0.0 am15.net
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 baypops.com
 0.0.0.0 js.e-generator.com
 0.0.0.0 target.e-generator.com
 0.0.0.0 target.net.finam.ru
+0.0.0.0 track.idtargeting.com
 0.0.0.0 jadcenter.com
 0.0.0.0 s300.meetrics.net
+0.0.0.0 wh.motorpresse-statistik.de
 0.0.0.0 js.smi2.ru
 0.0.0.0 target.smi2.net
 0.0.0.0 stats.virtuemart.net #[Piwik.Analytics]
@@ -6585,8 +6700,6 @@
 0.0.0.0 adcentre.it-advanced.com
 0.0.0.0 dc61.s290.meetrics.net
 0.0.0.0 partnerearning.com
-0.0.0.0 www.rank-guru.com #[server down?]
-0.0.0.0 www.rank-power.com #[server down?]
 0.0.0.0 eu-sonar.sociomantic.com
 0.0.0.0 www2.stats4free.de
 0.0.0.0 www.stats4free.de
@@ -6628,9 +6741,7 @@
 # [Hong Kong Limited][202.83.192.0 - 202.83.223.255]
 # [Hopone][AS14361][209.160.0.0 - 209.160.79.255]
 0.0.0.0 bestsites.net.ru
-0.0.0.0 cekuh.info
 0.0.0.0 ad.db3nf.com
-0.0.0.0 hyperku.info
 0.0.0.0 go.jetswap.com
 0.0.0.0 tracksy.com
 # [Hopone][209.61.192.0 - 209.61.255.255]
@@ -6651,10 +6762,12 @@
 0.0.0.0 admention.adspirit.de
 0.0.0.0 adx.adspirit.de
 0.0.0.0 lidlretargeting.adspirit.de
+0.0.0.0 ruemedia.adspirit.net
 0.0.0.0 sgmedia.adspirit.net
 0.0.0.0 ja.revolvermaps.com
 0.0.0.0 jc.revolvermaps.com
 0.0.0.0 jd.revolvermaps.com
+0.0.0.0 je.revolvermaps.com
 0.0.0.0 jf.revolvermaps.com
 0.0.0.0 jg.revolvermaps.com
 0.0.0.0 jh.revolvermaps.com
@@ -6662,6 +6775,7 @@
 0.0.0.0 jk.revolvermaps.com
 0.0.0.0 rc.revolvermaps.com
 0.0.0.0 rd.revolvermaps.com
+0.0.0.0 re.revolvermaps.com
 0.0.0.0 rg.revolvermaps.com
 0.0.0.0 rh.revolvermaps.com
 0.0.0.0 ri.revolvermaps.com
@@ -6674,6 +6788,7 @@
 # [Hosteurope][AS20773][92.51.184.0 - 92.51.187.255]
 0.0.0.0 ad4mat.de
 # [Hosting Consulting][AS30502][199.88.56.0 - 199.88.63.255]
+0.0.0.0 serve.oxcluster.com
 0.0.0.0 seekbang.com
 0.0.0.0 www.seekbang.com
 # [Hosting Consulting / RK Netmedia][AS40539][208.78.92.0 - 208.78.95.255]
@@ -6737,11 +6852,16 @@
 # [Hostoffice][AS47885][195.228.74.0 - 195.228.74.255]
 0.0.0.0 ads.adhall.com
 # [Hosting Solutions][AS30083][209.239.112.0 - 209.239.127.255]
+# [Hosting Solutions][AS30083][50.30.32.0 - 50.30.47.255]
+0.0.0.0 px.adhigh.net
 # [Hosting Solutions][69.64.32.0 - 69.64.63.255]
+0.0.0.0 tracker.databrain.com
 0.0.0.0 www.iperbanner.com
 0.0.0.0 mgjmp.com
 # [Hostit][AS9166][212.113.80.0 - 212.113.95.255]
+0.0.0.0 abs.beweb.com
 0.0.0.0 bps.beweb.com
+0.0.0.0 abs.proxistore.com
 0.0.0.0 bps.tesial-tech.be
 # [Hostpro Hosting][AS15497][62.149.18.0 - 62.149.19.255]
 # [Host-system-net][AS43355][78.108.185.0 - 78.108.185.255]
@@ -6757,13 +6877,17 @@
 # [Hostway][AS7097][216.139.208.0 - 216.139.255.255]
 0.0.0.0 hits.convergetrack.com
 # [Hostway][AS20401][216.36.192.0 - 216.36.255.255]
-# [Hostway][AS20401][64.26.0.0 - 64.26.63.255]
+0.0.0.0 ck.ads.affinity.com
+0.0.0.0 imtx.ph.affinity.com
+0.0.0.0 tbn.ph.affinity.com
+0.0.0.0 clicks.findplex.com
+# [Hostway][AS20401][64.26.0.0 - 64.66.191.255]
+0.0.0.0 clicks.searchconscious.com
 # [Hostway][AS20401][66.113.128.0 - 66.113.255.255]
 0.0.0.0 zde-affinity.edgecaching.net
 # [Hostworks][AS9667][202.58.32.0 - 202.58.63.255]
 0.0.0.0 ads.ninemsn.com.au
 0.0.0.0 advertising.ninemsn.com.au
-0.0.0.0 direct.ninemsn.com.au
 # [HOTLOG]
 0.0.0.0 click.hotlog.ru
 0.0.0.0 hit.hotlog.ru #[WebBug]
@@ -6801,6 +6925,7 @@
 0.0.0.0 relay-ba.ads.httpool.com
 0.0.0.0 relay-bg.ads.httpool.com
 0.0.0.0 relay-cz.ads.httpool.com
+0.0.0.0 relay-ks.ads.httpool.com
 0.0.0.0 relay-mk.ads.httpool.com
 0.0.0.0 relay-rs.ads.httpool.com
 0.0.0.0 static.httpool.com.mk
@@ -6813,6 +6938,7 @@
 0.0.0.0 tas-bg.toboads.com
 0.0.0.0 tas-cz.toboads.com
 0.0.0.0 tas-hr.toboads.com
+0.0.0.0 tas-ks.toboads.com
 0.0.0.0 tas-mk.toboads.com
 0.0.0.0 tas-rs.toboads.com
 0.0.0.0 tas-si.toboads.com
@@ -6853,6 +6979,7 @@
 # [Hunt Brothers / Parked.com][AS32592][74.117.112.0 - 74.117.119.255]
 0.0.0.0 www.buycheapadvertising.com
 # [Hurricane Electric][AS6939][173.255.192.0 - 173.255.255.255]
+0.0.0.0 stats.pusher.com
 # [Hurricane Electric][AS6939][184.104.0.0 - 184.105.255.255]
 # [Hurricane Electric / 800 Pound][216.218.206.32 - 216.218.206.63]
 0.0.0.0 ads.artsopolis.com
@@ -6876,7 +7003,7 @@
 # [Hurricane Electric / Clickman][64.89.16.0 - 64.89.31.255]
 0.0.0.0 arsconsole.global-intermedia.com
 0.0.0.0 feeds.global-intermedia.com
-0.0.0.0 www.mdexitconsole.com
+0.0.0.0 www.mdexitconsole.com #[server down?]
 0.0.0.0 error.pimproll.com
 0.0.0.0 promo.pimproll.com
 # [Hurricane Electric / Dreams of Babylon][65.49.55.0 - 65.49.55.255]
@@ -6952,7 +7079,6 @@
 0.0.0.0 adserve.doteasy.com
 0.0.0.0 pbg2cs01.doteasy.com
 0.0.0.0 hitcounter01.xspp.com
-# [In2net][67.159.208.0 - 67.159.223.255]
 # [Ines][AS12310][80.86.106.0 - 80.86.106.255]
 0.0.0.0 9am.count.brat-online.ro
 0.0.0.0 24fun.count.brat-online.ro
@@ -6971,6 +7097,7 @@
 0.0.0.0 qds.count.brat-online.ro
 0.0.0.0 realitatea.count.brat-online.ro
 0.0.0.0 viva.count.brat-online.ro
+0.0.0.0 wall-streetro.count.brat-online.ro
 # [Ines][AS12310][83.166.201.160 - 83.166.201.175]
 0.0.0.0 admon1.count.brat-online.ro
 # [INET / Securenetz-de][212.162.12.0 - 212.162.15.255]
@@ -6992,6 +7119,12 @@
 0.0.0.0 www.erotikcounter.org
 # [INET / Fliks Gmbh][AS25074][213.203.216.0 - 213.203.216.127]
 0.0.0.0 show.communiad.com
+# [Inet][AS3313][213.92.16.0 - 213.92.19.255]
+0.0.0.0 data.kataweb.it
+0.0.0.0 oasjs.kataweb.it
+0.0.0.0 adagiof3.repubblica.it
+# [INET][AS25074][78.138.104.0 - 78.138.107.255]
+0.0.0.0 www.down1oads.com
 # [INET / 3u Telecom][AS25074][87.119.194.0 - 87.119.194.31]
 0.0.0.0 dialxs.nl #[DialXS]
 0.0.0.0 dialxs.com #[DIAL_DIALXS.A]
@@ -7030,7 +7163,7 @@
 0.0.0.0 test.coremetrics.com
 0.0.0.0 twci.coremetrics.com #[Tracking.Cookie]
 # [Inflow / myGeek.com][AS19292][66.45.56.96 - 66.45.56.127]
-0.0.0.0 roitrack.addlvr.com
+0.0.0.0 roitrack.addlvr.com #[server down?]
 0.0.0.0 redirect.ad-feeds.net
 0.0.0.0 roitrack.adtrgt.com
 0.0.0.0 redirect.ad-feeds.com
@@ -7119,8 +7252,8 @@
 0.0.0.0 myglobalsearch.com
 0.0.0.0 cfg.myglobalsearch.com
 0.0.0.0 www.myglobalsearch.com #[Ewido.Spyware.MyWebSearch.MyGlobalSearch]
-0.0.0.0 mn.myquicksearch.com
-0.0.0.0 mr.myquicksearch.com
+0.0.0.0 mn.myquicksearch.com #[server down?]
+0.0.0.0 mr.myquicksearch.com #[server down?]
 0.0.0.0 www.myquicksearch.com
 0.0.0.0 help.mysearch.com #[Ewido.Spyware.MySearch]
 0.0.0.0 msalt.mysearch.com
@@ -7170,6 +7303,8 @@
 # [Internap / Customer Acquisition][AS12180][216.52.167.64 - 216.52.167.95]
 0.0.0.0 control.adap.tv
 0.0.0.0 ads.shopstyle.com
+# [Internap][AS10912][216.52.234.128 - 216.52.234.255]
+0.0.0.0 elv3-tslogging.touchcommerce.com
 # [Internap][AS13789][63.251.0.0 - 63.251.255.255]
 0.0.0.0 ad.batanga.net
 0.0.0.0 tracking.batanga.com
@@ -7177,6 +7312,7 @@
 0.0.0.0 cdn.viglink.com
 0.0.0.0 s.webtrends.com
 # [Internap / Gomez][AS14742][63.251.134.0 - 63.251.134.255]
+0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
 0.0.0.0 0d7292.r.axf8.net
 0.0.0.0 0f36f3.r.axf8.net
@@ -7203,6 +7339,7 @@
 0.0.0.0 c2c738.r.axf8.net
 0.0.0.0 caea4e.r.axf8.net
 0.0.0.0 caea4e.t.axf8.net
+0.0.0.0 c6530e.r.axf8.net
 0.0.0.0 d077aa.r.axf8.net
 0.0.0.0 d3fd89.r.axf8.net
 0.0.0.0 d9d0e0.r.axf8.net
@@ -7210,7 +7347,7 @@
 0.0.0.0 fdff44.r.axf8.net
 0.0.0.0 fdff44.t.axf8.net
 # [Internap / ClickSpring][AS14742][63.251.135.0 - 63.251.135.63]
-0.0.0.0 www.adparatus.com
+0.0.0.0 connexity.net
 # [Internap][AS12180][64.187.110.8 - 64.187.110.15]
 # [Internap][AS12182][64.7.192.0 - 64.7.223.255]
 0.0.0.0 cti.w55c.net
@@ -7261,13 +7398,13 @@
 0.0.0.0 www.adadvisor.net
 0.0.0.0 click.cheapstuff.com
 0.0.0.0 click.cheaperforyou.com
+0.0.0.0 delivery.first-impression.com
 0.0.0.0 click.mrrage.com
 0.0.0.0 click.rateit.com
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 click.top10sites.com
 0.0.0.0 analytics.vast.com
 # [Internap / Howstuffworks][AS10913][70.42.150.0 - 70.42.150.255]
-0.0.0.0 ad.howstuffworks.com #[Tracking.Cookie][server down?]
 # [Internap / Turn][AS12182][70.42.138.0 - 70.42.138.255]
 0.0.0.0 ad.turn.com #[affects megogo.net]
 0.0.0.0 r.turn.com #[ad.turn.com]
@@ -7285,6 +7422,7 @@
 0.0.0.0 ads.adap.tv
 0.0.0.0 t-ads.adap.tv
 # [Internap][AS19024][74.217.0.0 - 74.217.255.255]
+0.0.0.0 media1.ancestry.com
 0.0.0.0 media.gsimedia.net #[gsimedia.adlegend.com]
 0.0.0.0 ads.revsci.net #[Tracking.Cookie]
 0.0.0.0 js.revsci.net
@@ -7293,7 +7431,6 @@
 0.0.0.0 pix03.revsci.net
 0.0.0.0 pix04.revsci.net
 0.0.0.0 revsci.tvguide.com
-0.0.0.0 rsi.tvguide.com
 # [Internap / Adify][74.217.212.0 - 74.217.212.255]
 0.0.0.0 ad.afy11.net
 0.0.0.0 beacon.afy11.net
@@ -7308,6 +7445,8 @@
 0.0.0.0 tu.connect.wunderloop.net
 # [Internet4you][AS29014][93.92.128.0 - 93.92.135.255]
 0.0.0.0 adserver-live.yoc.mobi
+# [Internet Billboard][AS5588][194.213.62.32 - 194.213.62.47]
+0.0.0.0 go.goldbachpoland.bbelements.com
 # [Internet Billboard][AS2819][62.168.44.112 - 62.168.44.127]
 0.0.0.0 bbcdn.go.adevolution.bbelements.com
 0.0.0.0 go.adevolution.bbelements.com
@@ -7403,6 +7542,7 @@
 0.0.0.0 trendmicroeuropa01.webtrekk.net
 0.0.0.0 triboo01.webtrekk.net
 0.0.0.0 vnumedia01.webtrekk.net
+0.0.0.0 weltonline01.webtrekk.net
 0.0.0.0 zeit01.webtrekk.net
 # [Ipx Server][AS24900][80.190.246.0 - 80.190.246.255]
 0.0.0.0 www.counti.de
@@ -7420,14 +7560,11 @@
 0.0.0.0 peakclick.com
 0.0.0.0 feed.peakclick.com
 0.0.0.0 www.peakclick.com #[AdWare.SideSearch.g][FindFmToolbar]
-0.0.0.0 results-today.com
-0.0.0.0 www.results-today.com
 0.0.0.0 www.stats.net
 # [Isprime][AS23393][64.188.48.0 - 64.188.63.255]
 0.0.0.0 countingstacks.com
 0.0.0.0 g.promosrv.com
 0.0.0.0 www.singlesadnetwork.com
-0.0.0.0 cbcpc.sitescout.com
 0.0.0.0 mf.sitescout.com
 0.0.0.0 reboot.sitescout.com
 0.0.0.0 revcontent.sitescout.com #[Ads by RevContent]
@@ -7476,7 +7613,6 @@
 0.0.0.0 newads.bangbros.com
 0.0.0.0 tck.bangbros.com
 0.0.0.0 tracking.craktraffic.com
-0.0.0.0 www.elitedollars.com
 0.0.0.0 free.fuckbook.cm
 0.0.0.0 webmasters.h2porn.com
 0.0.0.0 ads.nudereviews.com
@@ -7484,12 +7620,11 @@
 0.0.0.0 premium.pervnetwork.com
 0.0.0.0 iframes.prettyincash.com
 0.0.0.0 stepnation.com
-0.0.0.0 www.topdaofinder.com
 0.0.0.0 sss828.welovecpa.com
 0.0.0.0 ads.whaleads.com
 0.0.0.0 images.ads.whaleads.com
-0.0.0.0 www.youfindmore.com
 # [ISPrime / Reality Check][AS46652][141.0.172.0 - 141.0.175.255]
+0.0.0.0 banners.advidi.com
 0.0.0.0 www.loading-delivery1.com
 0.0.0.0 banners.meccahoo.com
 0.0.0.0 cdn.banners.scubl.com
@@ -7512,7 +7647,6 @@
 0.0.0.0 ads.crakmedia.com
 0.0.0.0 corporate.crakmedia.com
 0.0.0.0 www.crakmedia.com
-0.0.0.0 404.elitedollars.com
 0.0.0.0 ftvcash.com
 0.0.0.0 404.fuckyoucash.com
 0.0.0.0 bloggers.fuckyoucash.com
@@ -7611,6 +7745,7 @@
 # [Jupiter Hosting / ICS Entertainment][AS29814][64.255.160.0 - 64.255.191.255]
 0.0.0.0 ads.gofuckyourself.com
 # [Keyweb Ag][AS31103][217.114.208.0 - 217.114.208.255]
+0.0.0.0 analytics.unister-gmbh.de
 0.0.0.0 analytics-static.unister-gmbh.de
 0.0.0.0 static.unister-adservices.com
 # [Keyweb Ag][AS31103][84.19.176.0 - 84.19.191.255]
@@ -7666,7 +7801,6 @@
 0.0.0.0 www.easycounter.com
 0.0.0.0 www.fastusersonline.com
 0.0.0.0 adsnew.gsmarena.com
-0.0.0.0 www.nicheads.com
 0.0.0.0 url.nossopark.com.br #[Parking Service]
 0.0.0.0 pingomatic.com
 0.0.0.0 ads.phonearena.com
@@ -7715,12 +7849,13 @@
 # [Leaseweb][AS16265][62.212.66.0 - 62.212.84.255]
 0.0.0.0 ads.adhood.com
 0.0.0.0 www.ad-skills.nl
+0.0.0.0 www.hubtraffic.com
+0.0.0.0 hubxt.pornhub.com
 # [Leaseweb][82.192.69.0 - 82.192.88.127]
 0.0.0.0 img.clicksagent.com
 0.0.0.0 rubanners.com #[clicksagent.com]
 0.0.0.0 2.rubanners.com
 0.0.0.0 img.ruclicks.com
-0.0.0.0 trackingmode.com
 0.0.0.0 zhirok.com #[Spamdexing]
 # [Leaseweb][83.149.105.0 - 83.149.105.255]
 # [Leaseweb][83.149.110.0 - 83.149.110.255]
@@ -7773,11 +7908,9 @@
 0.0.0.0 wu.adonweb.ru
 0.0.0.0 n.pcads.ru
 # [Leaseweb][AS28753][89.149.194.0 - 89.149.255.255]
-0.0.0.0 allstarclick.com
 0.0.0.0 www.ipcounter.de
 0.0.0.0 counter.xeanon.com
 # [Leaseweb / Kolido.net][91.184.48.0 - 91.184.55.191]
-0.0.0.0 www.porncash.de
 0.0.0.0 www.porncash.tv
 # [Leaseweb][91.191.160.0 - 91.191.167.255]
 # [Leaseweb][94.75.198.0 - 94.75.198.255]
@@ -7787,9 +7920,6 @@
 0.0.0.0 zoosextv.com
 # [Leaseweb][94.75.227.0 - 94.75.229.255]
 # [Leaseweb / Clanservers][94.75.230.0 - 94.75.230.255]
-0.0.0.0 www.adult-profit-files.com
-0.0.0.0 www.adult-profit-files2.com
-0.0.0.0 banners.babylon-x.com
 # [Leaseweb][94.75.232.0 - 94.75.235.255]
 0.0.0.0 adv.protraffic.com
 # [Nl-leaseweb][94.75.192.0 - 94.75.255.255]
@@ -7800,6 +7930,7 @@
 0.0.0.0 free-lesbian-pic.in
 0.0.0.0 www.turkeyrank.com
 # [Leaseweb][AS16265][95.211.0.0 - 95.211.255.255]
+0.0.0.0 ads.ad4max.com
 0.0.0.0 router.adlure.net
 0.0.0.0 furious.adman.gr
 0.0.0.0 static.adman.gr
@@ -7920,7 +8051,7 @@
 0.0.0.0 2183.jsjmlejl.clickshield.net
 0.0.0.0 redirect.clickshield.net
 0.0.0.0 www.find-fast-answers.com
-0.0.0.0 www.find-quick-results.com
+0.0.0.0 www.find-quick-results.com #[server down?]
 0.0.0.0 www.icityfind.com
 0.0.0.0 7588.91456.local-search-pages.com
 0.0.0.0 primosearch.com
@@ -7930,14 +8061,15 @@
 0.0.0.0 5486.winxp.primosearch.com
 0.0.0.0 6266.570204.primosearch.com
 0.0.0.0 www.primosearch.com
-0.0.0.0 www.top100search.com
+0.0.0.0 www.top100search.com #[server down?]
 0.0.0.0 whatseek.com
 # [Level 3 / Extra Security][AS12129][67.29.152.0 - 67.29.155.255]
-# [Level3][AS3356][8.0.0.0 - 8.255.255.255]
+# [Level3][AS3356][AS11946][8.0.0.0 - 8.255.255.255]
 0.0.0.0 ad.71i.de
 0.0.0.0 cdn.adstatic.com
 0.0.0.0 www.advconversion.com
 0.0.0.0 exityield.advertise.com
+0.0.0.0 network.advertise.com
 0.0.0.0 www.advertise.com
 0.0.0.0 d.aggregateknowledge.com
 0.0.0.0 d.agkn.com #[WebBug]
@@ -7946,9 +8078,11 @@
 0.0.0.0 cdn1.ads.brazzers.com
 0.0.0.0 www.cashmoneycpa.com
 0.0.0.0 i.cdnpark.com
+0.0.0.0 coreclickhoo.com
 0.0.0.0 ads.cracked.com
 0.0.0.0 track.cracked.com
 0.0.0.0 ping.crowdscience.com
+0.0.0.0 click.dealshark.com
 0.0.0.0 ads.deviantart.com
 0.0.0.0 adsvr.deviantart.com
 0.0.0.0 ads.exoclick.com
@@ -7976,16 +8110,19 @@
 0.0.0.0 banners.securedataimages.com
 0.0.0.0 e.sexad.net
 0.0.0.0 pod.sexsearch.com
+0.0.0.0 api.solvemedia.com
+0.0.0.0 pixel.solvemedia.com
 0.0.0.0 fms2.pointroll.speedera.net
 0.0.0.0 click.sureonlinefind.com
 0.0.0.0 ad-cdn.technoratimedia.com
+0.0.0.0 tiktrk.com
 0.0.0.0 demoq.use-trade.com
 0.0.0.0 cache.static.userplane.com
 0.0.0.0 ads2.vortexmediagroup.com #[AdvertPro]
 0.0.0.0 richmedia.yimg.com
 0.0.0.0 sync.adtech.zenoviaexchange.com
 # [Level3 / Joyent][8.17.168.0 - 8.17.171.255]
-0.0.0.0 www.adwhirl.com
+0.0.0.0 www.adwhirl.com #[server down?]
 # [Lightningcast][AS32288][216.52.117.0 - 216.52.117.255]
 0.0.0.0 stats.lightningcast.net
 0.0.0.0 stats2.lightningcast.net
@@ -8039,6 +8176,7 @@
 # [Limelight][69.28.128.0 - 69.28.191.255]
 0.0.0.0 im.afy11.net
 # 0.0.0.0  libs.coremetrics.com #[affects tMobile/EverBank]
+0.0.0.0 cdn.content.exoticads.com
 0.0.0.0 munchkin.marketo.net
 # [Limestone][AS46475][69.162.64.0 - 69.162.127.255]
 0.0.0.0 ox.fashion.bg
@@ -8055,6 +8193,7 @@
 # [Liquid Web][AS32244][50.28.0.0 - 50.28.127.255]
 0.0.0.0 filter.eclickz.com
 0.0.0.0 ads.localyokelmedia.com
+0.0.0.0 attribution.webmarketing123.com
 # [Liquid Web][67.225.128.0 - 67.225.255.255]
 0.0.0.0 www.adimpact.com
 0.0.0.0 my.affiliateforme.com
@@ -8066,14 +8205,17 @@
 # [Liquid Web][67.227.128.0 - 67.227.255.255]
 0.0.0.0 www.adworkmedia.com
 0.0.0.0 www.bannerflux.com
+0.0.0.0 www.multihdcodec.com
 0.0.0.0 www.onlineuserscounter.com
-0.0.0.0 www.shareware4web.com
+0.0.0.0 uptodatecontent.net
 # [Liquid Web][69.16.192.0 - 69.16.255.255]
 0.0.0.0 search.eclickz.com
 0.0.0.0 www.freeusersonline.com
 0.0.0.0 www.linkcounter.com
 # [Liquid Web][72.52.128.0 - 72.52.255.255]
 0.0.0.0 www.adcash.com
+0.0.0.0 s.adonly.com
+0.0.0.0 adspserving.com
 0.0.0.0 www.adversal.com
 0.0.0.0 adv.blogupp.com
 0.0.0.0 www.chrumedia.com
@@ -8081,7 +8223,9 @@
 0.0.0.0 www.validview.com
 0.0.0.0 ads.peoplespharmacy.com
 0.0.0.0 www.yieldtraffic.com
-0.0.0.0 yuzt.com
+# [Lirex][AS8262][164.138.220.0 - 164.138.221.255]
+0.0.0.0 ads.3e-news.net
+0.0.0.0 openx.stand.bg
 # [Lirex][AS8262][193.107.68.0 - 193.107.71.255]
 0.0.0.0 opx.economymagazine.bg
 # [Lirex][AS8262][194.12.240.128 - 194.12.240.159]
@@ -8089,7 +8233,10 @@
 0.0.0.0 ads.start.bg
 # [Lirex][AS8262][195.191.148.0 - 195.191.149.255]
 0.0.0.0 www.banners.bgcatalog.net
+0.0.0.0 ads.temadaily.bg
 # [Lirex][AS8262][82.119.84.0 - 82.119.84.255]
+0.0.0.0 ads.assistance.bg
+0.0.0.0 delivery.ads.assistance.bg
 0.0.0.0 ads.pik.bg
 # [Lirex][AS8262][85.14.21.0 - 85.14.22.255]
 0.0.0.0 o.ibg.bg
@@ -8101,7 +8248,6 @@
 0.0.0.0 www.cpmfun.com
 0.0.0.0 ex-traffic.com
 0.0.0.0 stat.ganbox.com
-0.0.0.0 ads.identa.bg
 0.0.0.0 ads.ka6tata.com
 0.0.0.0 ads.lifesport.bg
 0.0.0.0 adds.misiamoiatdom.com
@@ -8110,6 +8256,7 @@
 0.0.0.0 ad.onmedia.bg
 0.0.0.0 top100.pcbet.info
 0.0.0.0 banner.sedem.bg
+0.0.0.0 openx.vizzia.bg
 0.0.0.0 ads.webcafe.bg
 # [LL Limelight / Sobonito][AS31958][66.6.16.0 - 66.6.31.255]
 0.0.0.0 analytic.gatewayinterface.com
@@ -8237,6 +8384,8 @@
 0.0.0.0 nbimg.dt00.net
 0.0.0.0 counter.hitmir.ru
 0.0.0.0 marketgid.com
+0.0.0.0 aa-gb.marketgid.com
+0.0.0.0 ai-gb.marketgid.com
 0.0.0.0 counter.marketgid.com
 0.0.0.0 parking.reg.ru
 0.0.0.0 com.adv.vz.ru
@@ -8263,7 +8412,7 @@
 0.0.0.0 advert.rare.ru
 # [Mecuriuz / Mc Host.ru][AS6854][83.229.252.0 - 83.229.253.255]
 # [Mecuriuz / McHost.Ru][AS48172][94.198.53.0 - 94.198.53.255]
-0.0.0.0 nahuja.ru
+0.0.0.0 nahuja.ru #[server down?]
 # [Media Breakaway / OptinRealBig.com][AS32311][69.6.27.0 - 69.6.27.255]
 0.0.0.0 aboutyouquestionsurvey.com
 0.0.0.0 asamplequestionsonasurvey.com
@@ -8314,6 +8463,8 @@
 # [Microsoft][AS8075][131.253.12.0 - 131.253.18.255]
 0.0.0.0 c.atdmt.com
 0.0.0.0 flex.atdmt.com
+# [Microsoft][AS8075][137.135.0.0 - 137.135.255.255]
+0.0.0.0 my.trackjs.com
 # [Microsoft][AS8075][157.54.0.0 - 157.60.255.255]
 0.0.0.0 image.atdmt.com
 0.0.0.0 img.atdmt.com
@@ -8334,6 +8485,8 @@
 0.0.0.0 c.no.msn.com
 0.0.0.0 log.newsvine.com #[WebBug]
 0.0.0.0 c.ninemsn.com.au
+# [Microsoft][AS8075][23.96.0.0 - 23.103.255.255]
+0.0.0.0 mt.adquality.ch
 # [Microsoft][AS8075][65.52.0.0 - 65.55.255.255]
 0.0.0.0 aidps.atdmt.com
 0.0.0.0 analytics.atdmt.com
@@ -8371,7 +8524,7 @@
 0.0.0.0 analytics.msnbc.com
 0.0.0.0 msn.serving-sys.com
 # [Microsoft][AS8075][70.37.0.0 - 70.37.191.255]
-0.0.0.0 analytics.thuzi.com
+0.0.0.0 analytics.thuzi.com #[server down?]
 # [Microsoft][AS8075][94.245.64.0 - 94.245.127.255]
 0.0.0.0 click.atdmt.com #[Tracking.Cookie]
 # 0.0.0.0  clk.atdmt.com #[affects MS downloads]
@@ -8409,7 +8562,6 @@
 0.0.0.0 one.cam4ads.com
 0.0.0.0 ads.yvmads.com
 # [MojoHost][AS13477][199.19.200.0 - 199.19.207.255]
-0.0.0.0 www.imctraffic.com
 # [MojoHost / Easy Online Solutions][208.122.192.0 - 208.122.223.255]
 0.0.0.0 adserver.gallerytrafficservice.com
 0.0.0.0 www.gallerytrafficservice.com
@@ -8420,7 +8572,6 @@
 0.0.0.0 status.adrewards.com
 0.0.0.0 popit.mediumpimpin.com
 # [MojoHost / Aw Telecom][AS27589][64.59.82.128 - 64.59.82.159]
-0.0.0.0 ads.jerk2it.com
 0.0.0.0 promo.sensationalcash.com
 # [MojoHost / Easy Online Solutions][AS27589][74.206.160.0 - 74.206.191.255]
 0.0.0.0 ads.gtsads.com
@@ -8433,7 +8584,7 @@
 0.0.0.0 creative.nscash.com
 0.0.0.0 www.sinsads.com
 0.0.0.0 www.spunkycash.com
-0.0.0.0 hitx.xxxstatistics.com
+0.0.0.0 hitx.xxxstatistics.com #[server down?]
 # [MojoHost / Webquest][AS27589][99.192.140.32 - 99.192.140.47]
 0.0.0.0 as.ad-411.com
 0.0.0.0 www.advertx.net
@@ -8473,6 +8624,7 @@
 0.0.0.0 s.adklik.com.tr
 0.0.0.0 ads2.mynet.com
 # [Nationalnet][AS22384][173.0.64.0 - 173.0.79.255]
+0.0.0.0 redirects.coldhardcash.com
 0.0.0.0 gen2server.com
 0.0.0.0 peelads.hustler.com
 # [Nationalnet][AS22384][173.45.172.0 - 173.45.172.255]
@@ -8491,19 +8643,15 @@
 0.0.0.0 static.99widgets.com
 0.0.0.0 banners.animeerotico.com
 0.0.0.0 banners.colegialasdesvirgadas.com
-0.0.0.0 banners.deseoasiatico.com
 0.0.0.0 banners.espiasadictos.com
 0.0.0.0 advertising.justusboys.net
-0.0.0.0 banners.lesbianascerdas.com
 0.0.0.0 ocxxx.com
 0.0.0.0 ads.oxymoronent.com
-0.0.0.0 banners.paixaogay.com
-0.0.0.0 banners.paixaoasiatica.com
-0.0.0.0 banners.prazerlesbico.com
+0.0.0.0 banners.paixaogay.com #[server down?]
+0.0.0.0 banners.paixaoasiatica.com #[server down?]
 0.0.0.0 advertising.rockettube.net
 0.0.0.0 banners.sandralatina.com
-0.0.0.0 banners.sotransexuais.com
-0.0.0.0 banners.taxindecente.com
+0.0.0.0 banners.taxindecente.com #[server down?]
 0.0.0.0 stats.xxxrewards.com
 0.0.0.0 www.cleanbrowser.com
 0.0.0.0 rewards.macandbumble.com
@@ -8547,10 +8695,6 @@
 0.0.0.0 broadspring.com
 0.0.0.0 www.broadspring.com
 0.0.0.0 api.content.ad
-0.0.0.0 www.flashgamejunkie.com
-0.0.0.0 instafinder.com #[Adware.InstaFinder]
-0.0.0.0 ww2.instafinder.com #[MegaSearch]
-0.0.0.0 www.instafinder.com #[ADW_INSTAFIND.B]
 0.0.0.0 xml.intelligenttrafficsystem.com
 0.0.0.0 adserver.matchcraft.com
 # [Net2ez / Privatesystems][AS558][67.222.0.0 - 67.222.31.255]
@@ -8576,7 +8720,6 @@
 # [Net Access / Cdnetworks][AS8001][66.114.48.0 - 66.114.63.255]
 0.0.0.0 img.linkstorm.net
 # [Net Access][AS8001][66.175.208.0 - 66.175.223.255]
-0.0.0.0 204st.us #[server down?]
 # [Net Access][AS8001][66.228.32.0 - 66.228.63.255]
 0.0.0.0 tracking.onespot.com
 # [Net Access][AS8001][66.29.0.0 - 66.29.127.255]
@@ -8591,13 +8734,12 @@
 0.0.0.0 ads.dijitalvarliklar.com
 0.0.0.0 ads-rouge.haber7.com
 0.0.0.0 banner-img.haber7.com
-0.0.0.0 adfarm.noktamedya.com.tr #[server down?]
 # [Netelligent][AS10929][192.154.136.0 - 192.154.143.255]
-0.0.0.0 adtrk.pw
+0.0.0.0 adtrk.pw #[server down?]
 # [Netelligent][AS10929][205.204.64.0 - 205.204.95.255]
 0.0.0.0 a.kickass.to
 # [Netelligent][AS10929][209.44.96.0 - 209.44.127.255]
-0.0.0.0 media.commissionking.com
+0.0.0.0 media.commissionking.com #[server down?]
 0.0.0.0 record.commissionking.com
 # [Netelligent / SearchAnyway][64.15.72.0 - 64.15.72.127]
 0.0.0.0 www.coolfreehost.com
@@ -8614,6 +8756,7 @@
 0.0.0.0 www.adwise.bg
 0.0.0.0 ads.jenite.bg
 # [Netinfo][AS13147][217.174.144.0 - 217.174.159.255]
+0.0.0.0 adserver.economic.bg
 0.0.0.0 adv.starozagorci.com
 0.0.0.0 openx.vsekiden.com
 # [Netinfo][AS13147][78.128.0.0 - 78.128.63.255]
@@ -8622,6 +8765,7 @@
 0.0.0.0 ads.webccm.net
 # [Netinfo][AS13147][79.124.64.0 - 79.124.95.255]
 0.0.0.0 adsys.insert.bg
+0.0.0.0 reklama.topnovini.bg
 # [Netinfo][AS13147][87.120.40.0 - 87.120.41.255]
 0.0.0.0 adv.consadbg.com
 # [NetNation][AS14280][64.40.96.0 - 64.40.127.255]
@@ -8690,12 +8834,17 @@
 0.0.0.0 promotools.vpscash.nl
 # [Netrouting][AS47869][109.235.48.0 - 109.235.48.255]
 # [Netrouting][AS47869][178.239.58.0 - 178.239.58.127]
-0.0.0.0 adtransfer.net
 # [Netrouting][AS47869][94.228.209.128 - 94.228.210.255]
 0.0.0.0 www.xxx-hitz.org
 # [Neterra][AS34224][212.73.143.48 - 212.73.143.63]
 0.0.0.0 sms-ads.com
+# [Neterra][AS34224][31.13.222.80 - 31.13.222.95]
+0.0.0.0 affiliate.bfashion.com
+# [Neterra][AS34224][87.120.176.0 - 87.121.59.255]
+0.0.0.0 ads2.nextmedia.bg
+0.0.0.0 vbox7.com
 # [Neterra][AS34224][94.156.102.0 - 94.156.102.255]
+0.0.0.0 ads.bg-mamma.com
 0.0.0.0 adx.darikweb.com
 0.0.0.0 stats.darikweb.com #[Piwik.Analytics]
 # [Netvertising][][84.2.34.0 - 84.2.34.63]
@@ -8752,7 +8901,6 @@
 0.0.0.0 ads.kyalon.net
 # [Network Operations][AS21788][64.120.128.0 - 64.120.255.255]
 # [Network Operations][AS21788][64.191.0.0 - 64.191.127.255]
-0.0.0.0 partern.hotptp.com
 # [Network Solutions][AS6245][205.178.128.0 - 205.178.191.255]
 0.0.0.0 www.antarasystems.com
 0.0.0.0 ads.netsol.com
@@ -8791,7 +8939,6 @@
 0.0.0.0 www.adquest3d.com #[WebTrends]
 0.0.0.0 ads.albawaba.com
 0.0.0.0 ads.angop.ao
-0.0.0.0 ads.anm.co.uk #[Tracking.Cookie]
 0.0.0.0 ads.mm.ap.org
 0.0.0.0 adnet.asahi.com
 0.0.0.0 ads.bangkokpost.co.th
@@ -8812,7 +8959,6 @@
 0.0.0.0 realaudio.cimedia.net
 0.0.0.0 fr.classic.clickintext.net
 0.0.0.0 fr.64.clickintext.net
-0.0.0.0 fr.64.classic.clickintext.net
 0.0.0.0 ads.clubplanet.com
 0.0.0.0 ads3.condenast.co.uk
 0.0.0.0 clips.coolerads.com
@@ -8875,7 +9021,6 @@
 0.0.0.0 tracking.military.com
 0.0.0.0 ad.mirror.co.uk #[ad.3ad.doubleclick.net]
 0.0.0.0 ads1.moneycontrol.com
-0.0.0.0 adserver.monstersandcritics.com
 0.0.0.0 ad.moscowtimes.ru
 0.0.0.0 partners.cfl.mybrighthouse.com #[AdvertPro]
 0.0.0.0 mouads.com
@@ -8884,7 +9029,7 @@
 0.0.0.0 html.nbc10.com #[Omniture]
 0.0.0.0 adserver.news.com.au
 0.0.0.0 promos.newsok.com
-0.0.0.0 adserver2.news-journalonline.com
+0.0.0.0 adserver2.news-journalonline.com #[server down?]
 0.0.0.0 collector.newsx.cc
 0.0.0.0 ads.northjersey.com #[RealMedia]
 0.0.0.0 adserver.nydailynews.com #[RealMedia]
@@ -8909,7 +9054,7 @@
 0.0.0.0 ads.signonsandiego.com
 0.0.0.0 ads.space.com #[RealMedia]
 0.0.0.0 ads.sportingnews.com #[RealMedia]
-0.0.0.0 adlinks.startribune.com
+0.0.0.0 adlinks.startribune.com #[server down?]
 0.0.0.0 ads.stephensmedia.com
 0.0.0.0 adzone.stltoday.com
 0.0.0.0 applets.sulekha.com #[ICICI Text Ads]
@@ -8967,10 +9112,8 @@
 0.0.0.0 ads1.ami-admin.com
 0.0.0.0 cms1.ami-admin.com
 0.0.0.0 ads.fitpregnancy.com
-0.0.0.0 ads.flexonline.com #[server down?]
 0.0.0.0 ads.muscleandfitness.com
 0.0.0.0 ads.muscleandfitnesshers.com
-0.0.0.0 ads.nationalenquirer.com #[server down?]
 0.0.0.0 ads.starmagazine.com #[ads.ami-admin.com]
 # [Misc News via Belo Interactive]
 0.0.0.0 ads.belointeractive.com #[RealMedia][Tracking.Cookie]
@@ -9052,19 +9195,24 @@
 0.0.0.0 nv3.ad.naver.com
 # [Nine Internet Solutions][AS29691][217.150.247.0 - 217.150.247.63]
 0.0.0.0 ad.amiadogroup.com
-0.0.0.0 master.ad.amiadogroup.com
-0.0.0.0 images.master.ad.amiadogroup.com
+0.0.0.0 master.ad.amiadogroup.com #[server down?]
+0.0.0.0 images.master.ad.amiadogroup.com #[server down?]
 # [nLayer][AS4436][108.161.176.0 - 108.161.191.255]
 0.0.0.0 vistabet-affiliate.host.bannerflow.com
 0.0.0.0 cdn.beaconads.com
 0.0.0.0 assets.customer.io
+0.0.0.0 cdn.app.exitmonitor.com
 0.0.0.0 pixels.mentad.com
 0.0.0.0 cdn.ndparking.com #[Parking.Service]
 0.0.0.0 cdn.popcash.net
+0.0.0.0 tags.api.umbel.com
 0.0.0.0 ads-by.vemba.com
 0.0.0.0 cdn.vemba.com
 # [nLayer][AS4436][198.232.112.0 - 198.232.127.255]
+0.0.0.0 backfill.ph.affinity.com
+0.0.0.0 inm.affinitymatrix.com
 0.0.0.0 cdn.chitika.net
+0.0.0.0 cdn.petametrics.com
 # [Noc4hosts][AS29802][206.51.224.0 - 206.51.239.255]
 0.0.0.0 ad.reachppc.com
 # [Noc4Hosts / Intensive][74.50.104.0 - 74.50.111.255]
@@ -9108,7 +9256,6 @@
 0.0.0.0 www.zipitfast.com
 # [Ntt America][198.63.0.0 - 198.66.255.255]
 0.0.0.0 ads.drugs.com
-0.0.0.0 ads.egloomedia.com
 0.0.0.0 www.spyarsenal.com #[Spyware.DesktopSpy][Spyware.FamilyKeylog]
 # [Ntt America][199.236.0.0 - 199.239.255.255]
 0.0.0.0 www.tsgonline.com
@@ -9141,7 +9288,6 @@
 0.0.0.0 adt.m7z.net
 0.0.0.0 download.realtimegaming.com
 0.0.0.0 tap-cdn.rubiconproject.com
-0.0.0.0 as1.suitesmart.com
 0.0.0.0 bridgetrack.speedera.r3h.net
 0.0.0.0 media-1.vpptechnologies.com
 0.0.0.0 media-2.vpptechnologies.com
@@ -9165,7 +9311,6 @@
 0.0.0.0 stats.homestead.com
 0.0.0.0 track.homestead.com
 0.0.0.0 track2.homestead.com
-0.0.0.0 trf.intuitwebsites.com
 # [Ntt America][209.207.128.0 - 209.207.255.255]
 0.0.0.0 www.shareasale.com
 # [Ntt America][83.231.216.128 - 83.231.216.255]
@@ -9177,14 +9322,18 @@
 0.0.0.0 dol.nuggad.net
 0.0.0.0 ebayit-dp.nuggad.net
 0.0.0.0 jip.nuggad.net
+0.0.0.0 lokalavisendk.nuggad.net
 0.0.0.0 lpm-francetv.nuggad.net
 0.0.0.0 lpm-lagardere.nuggad.net
 0.0.0.0 lpm-tf1.nuggad.net
 0.0.0.0 mobilede-dp.nuggad.net
+0.0.0.0 n24se.nuggad.net
 0.0.0.0 naftemporiki.nuggad.net
+0.0.0.0 om.nuggad.net
 0.0.0.0 pegasus.nuggad.net
 0.0.0.0 pressbox.nuggad.net
 0.0.0.0 prime.nuggad.net
+0.0.0.0 ri.nuggad.net
 0.0.0.0 teletypos.nuggad.net
 # [Nugg-ad-net][AS48173][94.198.59.128 - 94.198.59.143]
 0.0.0.0 3w.nuggad.net
@@ -9234,7 +9383,6 @@
 0.0.0.0 survey.nuggad.net
 0.0.0.0 yahoo.nuggad.net
 # [NuVox][AS11456][65.23.0.0 - 65.23.63.255]
-0.0.0.0 www.ibis.com
 # [NuVox][AS11456][70.43.0.0 - 70.43.255.255]
 0.0.0.0 ads.adgenta.com
 0.0.0.0 www.retrostats.com
@@ -10026,6 +10174,7 @@
 0.0.0.0 restoredchurchofgod.112.2o7.net
 0.0.0.0 reunioncom.112.2o7.net
 0.0.0.0 ringcentral.112.2o7.net
+0.0.0.0 ringierag.112.2o7.net
 0.0.0.0 riptownmedia.122.2o7.net
 0.0.0.0 riverdeep.112.2o7.net
 0.0.0.0 rmgparcelforcecom.112.2o7.net
@@ -10098,6 +10247,7 @@
 0.0.0.0 stpetersburgtimes.122.2o7.net
 0.0.0.0 stubhub.122.2o7.net
 0.0.0.0 stylincom.112.2o7.net
+0.0.0.0 subaruofamerica.112.2o7.net
 0.0.0.0 summitbusinessmedia.112.2o7.net
 0.0.0.0 sunglobal.112.2o7.net
 0.0.0.0 superpages.122.2o7.net
@@ -10323,6 +10473,7 @@
 0.0.0.0 metrics.carbonite.com
 0.0.0.0 metrics.carphonewarehouse.com
 0.0.0.0 stats.cartoonnetwork.com
+0.0.0.0 omni.cash.ch
 0.0.0.0 metrics.cbc.ca
 0.0.0.0 om.cbsi.com
 0.0.0.0 mtrics.cdc.gov
@@ -10391,7 +10542,7 @@
 0.0.0.0 sc-forbes.forbes.com
 0.0.0.0 a.fox.com
 0.0.0.0 stats.ft.com
-0.0.0.0 a.fuel.tv
+0.0.0.0 a.fuel.tv #[server down?]
 0.0.0.0 track.futureshop.ca
 0.0.0.0 metrics.gamestop.com
 0.0.0.0 metrics.gcimetrics.com
@@ -10503,6 +10654,7 @@
 0.0.0.0 metrics.solarwinds.com
 0.0.0.0 metrics.sony.com
 0.0.0.0 omn.sonypictures.com
+0.0.0.0 metrics.southwest.com
 # 0.0.0.0  metrics.sprint.com #[affects login]
 0.0.0.0 metrics.starwoodhotels.com
 0.0.0.0 omniture.stuff.co.nz
@@ -10523,7 +10675,7 @@
 0.0.0.0 metrics.three.co.uk
 0.0.0.0 metrics.ticketmaster.com
 0.0.0.0 tgd.timesonline.co.uk
-0.0.0.0 metric.timewarnercable.com
+# 0.0.0.0 metric.timewarnercable.com #[affects billing?]
 0.0.0.0 metrics.tlc.com
 0.0.0.0 metrics.toptenreviews.com
 0.0.0.0 metrics.totalbeauty.com
@@ -10538,6 +10690,7 @@
 0.0.0.0 metrics.uol.com.br
 0.0.0.0 stats2.vanityfair.com
 0.0.0.0 sleep.vermontteddybear.com
+0.0.0.0 metrics.vividseats.com
 0.0.0.0 sc.vmware.com
 0.0.0.0 metrics.vodafone.co.uk
 0.0.0.0 metric.volkswagen.com
@@ -10558,12 +10711,14 @@
 0.0.0.0 metric.wtop.com
 0.0.0.0 s.xbox.com
 0.0.0.0 smetrics.yellowbook.com
+0.0.0.0 metric.yellowpages.com
 0.0.0.0 track.www.zazzle.com
 # [Omniture / Offermatica][66.150.139.0 - 66.150.139.63]
 0.0.0.0 mbox.offermatica.intuit.com
 0.0.0.0 mbox12.offermatica.com
 # [Omniture][AS15224][66.235.128.0 - 66.235.159.255]
 0.0.0.0 crain.d1.sc.omtrdc.net
+0.0.0.0 newjobs.d1.sc.omtrdc.net
 0.0.0.0 rodale.d1.sc.omtrdc.net
 0.0.0.0 siemens.d1.sc.omtrdc.net
 0.0.0.0 truevalue.d2.sc.omtrdc.net
@@ -10629,9 +10784,25 @@
 0.0.0.0 a.venetian.com
 0.0.0.0 a.vonage.com
 0.0.0.0 ws.yellowpages.ca
+# [Online S.a.s][AS12876][212.129.0.0 - 212.129.21.255]
+0.0.0.0 geoip.edagames.com
+# [Online S.a.s][AS12876][62.210.128.0 - 62.210.255.255]
+0.0.0.0 admediacpm.com
+0.0.0.0 ads-cpm.com
+0.0.0.0 adserver.ads-cpm.com
+0.0.0.0 s42.cpmaffiliation.com
+0.0.0.0 www.cpmaffiliation.com
+0.0.0.0 regiepublicitairecpm.com
 # [Openminds][AS30961][188.93.102.23 - 188.93.103.255]
-0.0.0.0 pool.persgroep.adhese.com
+0.0.0.0 ads-nrc.adhese.com
+0.0.0.0 pool-nrc.adhese.com
+0.0.0.0 ads.pebblemedia.adhese.com
+0.0.0.0 pool.pebblemedia.adhese.com
 0.0.0.0 ads.persgroep.adhese.com
+0.0.0.0 pool.persgroep.adhese.com
+0.0.0.0 ads.roularta.adhese.com
+0.0.0.0 pool.roularta.adhese.com
+0.0.0.0 pebble-adhese.gva.be
 # [Openx][AS36089][173.241.240.0 - 173.241.255.255]
 0.0.0.0 ox-d.buddytv.com
 0.0.0.0 ox-d.cloud9-media.net
@@ -10651,6 +10822,7 @@
 0.0.0.0 ox-d.majorgeeks.com
 0.0.0.0 ox-d.makerstudios.com
 0.0.0.0 ox-d.mm1x.nl
+0.0.0.0 ox-d.mmaadnet.com
 0.0.0.0 ox-d.motogp.com
 0.0.0.0 ox-d.officer.com
 0.0.0.0 bid.openx.net
@@ -10667,6 +10839,7 @@
 0.0.0.0 ox-d.restaurant.com
 0.0.0.0 ox-d.ads.revnm.com
 0.0.0.0 ox-d.sbnation.com
+0.0.0.0 ox-d.publisherdesk.servedbyopenx.com
 0.0.0.0 ox-d.ranker.servedbyopenx.com
 0.0.0.0 ox-d.sidereel.com
 0.0.0.0 adserv.bulletinmarketing.com
@@ -10677,6 +10850,7 @@
 0.0.0.0 a.unanimis.co.uk
 0.0.0.0 ox-d.w00tmedia.net
 0.0.0.0 ads.webcamclub.com
+0.0.0.0 ox-d.whalerockengineering.com
 0.0.0.0 ox-d.zam.com
 # [Opsource][AS19461][209.34.64.0 - 209.34.95.255]
 0.0.0.0 www.avnads.com
@@ -10757,7 +10931,7 @@
 0.0.0.0 www.dsnextgen.com #[Parking Service]
 # [Oversee.net / Seevast][Moniker][Kanoodle]
 0.0.0.0 banners.kanoodle.com
-0.0.0.0 clickthrough.kanoodle.com
+0.0.0.0 clickthrough.kanoodle.com #[server down.all]
 0.0.0.0 context1.kanoodle.com
 0.0.0.0 context2.kanoodle.com
 0.0.0.0 context3.kanoodle.com
@@ -10767,6 +10941,7 @@
 0.0.0.0 content.pulse360.com
 # [Ovh Sas][AS16276][176.31.145.136 - 176.31.145.139]
 0.0.0.0 data110.adlooxtracking.com
+0.0.0.0 geoloc4.geovisite.com
 0.0.0.0 ibannerx.com
 0.0.0.0 adyoulike.omnitagjs.com
 # [Ovh Sas][AS16276][178.32.18.128 - 178.33.18.191]
@@ -10774,12 +10949,13 @@
 0.0.0.0 www.efficienttraffic.com
 0.0.0.0 adserver.magazyn.pl
 0.0.0.0 banners.oxiads.fr
-0.0.0.0 kat-ads.torrenticity.com
 # [Ovh Sas][AS16276][188.165.192.0 - 188.165.255.255]
+0.0.0.0 hub.adlpartner.com
 # [Ovh Sas][AS16276][192.95.0.0 - 192.95.63.255]
 0.0.0.0 ad.asntown.net
-0.0.0.0 i.vemba.com
+0.0.0.0 freshcpm.eu
 0.0.0.0 marketingenhanced.com
+0.0.0.0 i.vemba.com
 0.0.0.0 www2.yidsense.com
 0.0.0.0 sre.zemanta.com
 0.0.0.0 t.zemanta.com
@@ -10791,6 +10967,7 @@
 0.0.0.0 find-me-now.com
 # [Ovh Sas][213.186.33.0 - 213.186.33.255]
 0.0.0.0 static.canalstat.com
+0.0.0.0 www.geoworldonline.com
 0.0.0.0 metriweb.be
 0.0.0.0 www.pubpremium3.com
 # [Ovh Sas / Eurobarre][213.186.49.64 - 213.186.49.79]
@@ -10806,11 +10983,13 @@
 # [Ovh Sas][213.251.176.0 - 213.251.183.255]
 # [Ovh Sas][37.59.0.0 - 37.59.63.255]
 0.0.0.0 www.frameptp.com
+0.0.0.0 geoloc16.geovisite.com
 0.0.0.0 onlineadserv.com
 0.0.0.0 ad.onlineadserv.com
 # [Ovh Sas][46.105.96.0 - 46.105.127.255]
 0.0.0.0 c.ad6media.fr
 0.0.0.0 fwg0b0sfig.s.ad6media.fr
+0.0.0.0 www.adverteasy.fr
 0.0.0.0 dlp.cloudsvr307.com
 0.0.0.0 ads.databrainz.com
 0.0.0.0 geoloc2.geovisite.com
@@ -10850,14 +11029,14 @@
 0.0.0.0 hit.reference-sexe.com
 0.0.0.0 tracker.squidanalytics.com
 0.0.0.0 ads.stickyadstv.com
-0.0.0.0 stats.wootcade.com
+0.0.0.0 stats.wootcade.com #[server down?]
+0.0.0.0 script.yeb.biz
 # [Ovh Sas][AS16276][94.23.0.0 - 94.23.63.255]
 0.0.0.0 fr.1sponsor.com
 0.0.0.0 adv.440network.com
 0.0.0.0 fr.cim.clickintext.net
 0.0.0.0 fr.slidein.clickintext.net
 0.0.0.0 fr.85.clickintext.net
-0.0.0.0 fr.85.slidein.clickintext.net
 0.0.0.0 top.c-stat.eu
 0.0.0.0 exgfsbucks.com
 0.0.0.0 geoloc17.geovisite.com
@@ -10871,7 +11050,6 @@
 0.0.0.0 zbiornik.com
 # [Panther Express][AS36408][66.114.48.0 - 66.114.63.255]
 0.0.0.0 adbard.net
-0.0.0.0 media2.adshuffle.com
 0.0.0.0 cache.adviva.net
 0.0.0.0 cdn.amgdgt.com #[WebBug]
 0.0.0.0 media.baventures.com
@@ -10880,7 +11058,7 @@
 0.0.0.0 s.clicktale.net
 0.0.0.0 images.ddc.com #[Parking Service]
 0.0.0.0 cdn.firstlook.com
-# 127.0.0.1  adm.fwmrm.net #[affects nhl.com]
+# 0.0.0.0  adm.fwmrm.net #[affects nhl.com]
 0.0.0.0 m2.fwmrm.net
 0.0.0.0 cache.gfrevenge.com
 0.0.0.0 campaigns.interclick.com #[campaigns.interclick.r3h.net]
@@ -10900,13 +11078,15 @@
 0.0.0.0 wp.vizu.com
 # [Peer 1][AS13768][107.6.0.0 - 107.6.63.255]
 0.0.0.0 cm.eyereturn.com
-0.0.0.0 piwik.hostland.com #[Piwik.Analytics]
+0.0.0.0 piwik.hostland.com #[Piwik.Analytics][server down?]
 # [Peer 1][AS13768][176.74.176.160 - 176.74.176.191]
 0.0.0.0 return.uk.domainnamesales.com #[Parking.Service]
 # [Peer 1][AS13768][207.198.64.0 - 207.198.127.255]
 0.0.0.0 pixel.sitescout.com
 # [Peer 1][AS13768][209.15.0.0 - 209.15.255.255]
 0.0.0.0 www.adultmoda.com
+0.0.0.0 btprmnav.com
+0.0.0.0 bttrack.com
 0.0.0.0 pixel.crosspixel.net
 # [Peer 1][209.25.128.0 - 209.25.255.255]
 0.0.0.0 tracking.aimediagroup.com
@@ -10914,6 +11094,8 @@
 0.0.0.0 www.mb01.com
 # [Peer 1][216.122.0.0 - 216.122.255.255]
 0.0.0.0 as1.mistupid.com
+# [Peer 1][AS13768][216.151.208.0 - 216.151.223.255]
+0.0.0.0 delta.rspcdn.com
 # [Peer 1][216.157.0.0 - 216.157.111.255]
 0.0.0.0 pixel.adbuyer.com
 0.0.0.0 m.millennialmedia.com
@@ -10975,6 +11157,7 @@
 0.0.0.0 ab163949.adbutler-kaon.com
 0.0.0.0 ads.d-msquared.com
 0.0.0.0 1.ofsnetwork.com
+0.0.0.0 ads.sportsblog.com
 # [Peer 1 / Canadawebhosting][AS13768][65.39.128.0 - 65.39.255.255]
 0.0.0.0 pub17.bravenet.com
 0.0.0.0 www.countmypage.com
@@ -10985,6 +11168,7 @@
 0.0.0.0 map.media6degrees.com #[WebBug]
 0.0.0.0 d6y5.ads.pof.com
 0.0.0.0 t.ads.pof.com
+0.0.0.0 clickserv.sitescout.com
 0.0.0.0 www4search.net
 # [Peer 1][AS13601][66.132.128.0 - 66.132.255.255]
 0.0.0.0 archive.coolerads.com
@@ -10992,6 +11176,10 @@
 0.0.0.0 hitmodel.net
 # [Peer 1 / Serverbeach][66.135.32.0 - 66.135.63.255]
 0.0.0.0 openads.hiphopsite.com
+# [Peer 1][AS13768][66.155.16.0 - 66.155.97.255]
+0.0.0.0 delivery.serve.bluelinkmarketing.com
+0.0.0.0 geo.crtracklink.com
+0.0.0.0 delivery.myswitchads.com
 # [Peer 1][66.199.128.0 - 66.199.191.255]
 0.0.0.0 banner.titanpoker.com #[Adware.Casino]
 0.0.0.0 banner.vegasred.com #[Tracking.Cookie]
@@ -11022,7 +11210,6 @@
 0.0.0.0 bb.o2.eyereturn.com
 0.0.0.0 www.full-edition.info
 0.0.0.0 musicmembersarea.com
-0.0.0.0 www.muzic-share.com
 0.0.0.0 www.pdf-platinum.info
 0.0.0.0 www.trackingindahouse.com
 # [Peer 1][AS13768][72.51.0.0 - 72.51.63.255]
@@ -11131,7 +11318,7 @@
 0.0.0.0 ad.inmatads.info
 0.0.0.0 ad.inpizdads.info
 0.0.0.0 ad.inpulds.info
-0.0.0.0 ad.jadssrv.info
+0.0.0.0 ad.jadssrv.info #[server down?]
 0.0.0.0 ad.ladssrv.info
 0.0.0.0 ad.madssrv.info
 0.0.0.0 ad.mads2srv.info
@@ -11165,14 +11352,13 @@
 0.0.0.0 viewcount.v1.de.euserv.adaos-ads.net
 0.0.0.0 evania.adspirit.de
 # [PlusServer / Server4you][AS8972][80.86.83.0 - 80.86.83.255]
-0.0.0.0 vote4me.de
 # [PlusServer / Bsb-service][85.25.120.0 - 85.25.127.255]
 0.0.0.0 www.counter4all.de
 # [PlusServer][AS8972][85.25.129.0 - 85.25.251.255]
 0.0.0.0 ad.ad24.ru
 0.0.0.0 bdgadv.ru
-0.0.0.0 www.clubstat.com
 0.0.0.0 ads.dailystar.com.lb
+0.0.0.0 openads.flagman.bg
 0.0.0.0 dev.inskinmedia.com
 0.0.0.0 www.klamm-counter.de
 0.0.0.0 promoserver.net
@@ -11252,7 +11438,6 @@
 0.0.0.0 referral.vod.topbucks.com
 0.0.0.0 webmaster.topbucks.com
 # [Priority Colo][AS30176][204.11.48.0 - 204.11.55.255]
-0.0.0.0 adserver.fmpub.net
 0.0.0.0 dynamic.fmpub.net
 0.0.0.0 keywords.fmpub.net
 0.0.0.0 tenzing.fmpub.net
@@ -11269,11 +11454,18 @@
 0.0.0.0 hypertracker.com
 # [Prolexic / Confluence][AS40034][208.91.196.0 - 208.91.199.255]
 0.0.0.0 www.bnmq.com
+0.0.0.0 www.cpmprofit.com
 0.0.0.0 cnomy.com
 0.0.0.0 pics.cnomy.com
 0.0.0.0 pics.kolmic.com #[Parking Service]
+0.0.0.0 mysearch-engine.com
 0.0.0.0 www.searchacross.com #[Parking.Service.kolmic]
+0.0.0.0 searchdiscovered.com
+0.0.0.0 searchfwding.com
 0.0.0.0 searchignited.com #[Parking.Service]
+0.0.0.0 searchtoexplore.com
+0.0.0.0 taffr.com
+0.0.0.0 tamprc.com
 0.0.0.0 www.theuniquesearch.com
 # [Prolexic / Crown Solution][AS32787][209.200.162.192 - 209.200.162.223]
 0.0.0.0 banner.ambercoastcasino.com
@@ -11323,6 +11515,8 @@
 # [Qwest / Commercial Media][AS11288][63.146.2.0 - 63.146.2.255]
 # [Qwest / Web Metro][63.147.18.0 - 63.147.18.255]
 0.0.0.0 client.roiadtracker.com
+# [Qwest][AS209][63.151.44.11]
+0.0.0.0 ds-aksb-a.akamaihd.net
 # [Qwest][AS209][63.232.0.0 - 63.235.255.255]
 0.0.0.0 cdn.atdmt.com
 # [Qwest][AS209][63.236.0.0 - 63.236.127.255]
@@ -11371,7 +11565,7 @@
 # [Qwest / Akamai][AS209][69.192.0.0 - 69.192.255.255]
 0.0.0.0 an.secure.tacoda.net
 # [Qwest / Tarrob][69.8.202.0 - 69.8.202.127]
-0.0.0.0 ads.tarrobads.com
+0.0.0.0 ads.tarrobads.com #[server down?]
 # [Qwest][70.56.0.0 - 70.59.255.255]
 0.0.0.0 hu.2.cqcounter.com
 # [Qwest / Akamai][AS209][96.6.0.0 - 96.7.255.255]
@@ -11387,31 +11581,30 @@
 0.0.0.0 c4tracking01.com
 # [Rackforce Hosting][AS19875][64.46.32.0 - 64.46.63.255]
 # [Rackhosting][AS31590][77.247.64.0 - 77.247.79.255]
+0.0.0.0 stats.sbstv.dk
 # [Rackmy.com / Xiolink][AS27467][63.246.0.0 - 63.246.31.255 ]
 0.0.0.0 go.webrewardstream.com
 # [Rackmy.com / Xiolink][AS27467][67.221.224.0 - 67.221.239.255]
 0.0.0.0 analytics.juggle.com
 0.0.0.0 web1.webrewardstream.com
+# [Rackspace.com][AS19994][162.209.0.0 - 162.209.127.255]
+0.0.0.0 interyield.jmp9.com
+# [Rackspace.com][AS27357][162.242.128.0 - 162.242.255.255]
+0.0.0.0 track.blogmeetsbrand.com
 # [Rackspace.com][AS15395][164.177.147.0 - 164.177.147.255]
 0.0.0.0 admarket.entireweb.com
 # [Rackspace.com][AS33070][166.78.40.0 - 166.78.41.255]
 0.0.0.0 ad.download.cnet.com
-# [Rackspace.com][AS33070][173.203.0.0 - 173.203.255.255]
+0.0.0.0 ml314.com
+# [Rackspace.com][AS33070][AS19994][173.203.0.0 - 173.203.255.255]
+0.0.0.0 api.adsnative.com
+0.0.0.0 offers.affiliatetraction.com
 0.0.0.0 stats.articlesbase.com
 0.0.0.0 track.ionicmedia.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 live.monitus.net
 0.0.0.0 log.olark.com
 0.0.0.0 thesearchagency.net
-# [Rackspace.com][AS15395][212.100.244.244 - 212.100.244.245]
-0.0.0.0 www.smartlinks.dianomi.com
-# [Rackspace.com][AS15395][5.79.32.232 - 5.79.32.239]
-0.0.0.0 www.powerlinks.com
-# [Rackspace.com / Slicehost][AS12200][67.23.0.0 - 67.23.47.255]
-0.0.0.0 ads.gomonews.com
-# [Rackspace.com][AS19994][173.203.0.0 - 173.203.255.255]
-0.0.0.0 api.adsnative.com
-0.0.0.0 offers.affiliatetraction.com
 # [Rackspace.com][AS33070][174.143.0.0 - 174.143.255.255]
 0.0.0.0 adx.bixee.com
 0.0.0.0 banners.brinkin.com
@@ -11424,13 +11617,13 @@
 0.0.0.0 analytics.sonymusic.com
 0.0.0.0 px.steelhousemedia.com
 0.0.0.0 tag.tlvmedia.com
-0.0.0.0 www.trctrc.com
 0.0.0.0 winknewsads.com
 0.0.0.0 ads.yuppads.com
 # [Rackspace.com][AS19994][184.106.0.0 - 184.106.255.255]
 0.0.0.0 sb1.analoganalytics.com
 0.0.0.0 iluv.clickbooth.com
 0.0.0.0 cpatraffictracker.com
+0.0.0.0 immanalytics.com
 0.0.0.0 tracking.intermundomedia.com
 0.0.0.0 cdnt.meteorsolutions.com
 0.0.0.0 naughtyadserve.com
@@ -11441,8 +11634,11 @@
 # [Rackspace.com][AS19994][198.254.64.0 - 198.254.79.255]
 0.0.0.0 t.afftrackr.com
 0.0.0.0 ahtrk.com
+0.0.0.0 tcgtrkr.com
 # [Rackspace.com][AS19994][198.61.128.0 - 198.61.255.255]
 0.0.0.0 www.clear-request.com
+0.0.0.0 dcs.netbiscuits.net
+0.0.0.0 lb.web-stat.com
 0.0.0.0 server2.web-stat.com
 # [Rackspace.com][AS27357][204.232.128.0 - 204.232.255.255]
 0.0.0.0 api.opencandy.com #[Adware.OpenCandy]
@@ -11451,17 +11647,21 @@
 # [Rackspace.com][AS33070][209.61.179.88 - 209.61.179.95]
 0.0.0.0 www.trackingstatalytics.com
 # [Rackspace.com][AS15395][212.100.244.244 - 212.100.244.245]
+0.0.0.0 www.smartlinks.dianomi.com
 0.0.0.0 www.dianomioffers.co.uk
+# [Rackspace.com][AS19994][23.253.0.0 - 23.253.255.255]
+0.0.0.0 n.ad-back.net
 # [Rackspace.com][AS15395][31.222.175.0 - 31.222.175.255]
 0.0.0.0 s.svtrd.com
 # [Rackspace.com][AS15395][46.38.178.0 - 46.38.179.255]
 0.0.0.0 www.ist-track.com
 0.0.0.0 www.ycctrk.co.uk
+# [Rackspace.com][AS15395][5.79.32.232 - 5.79.32.239]
+0.0.0.0 www.powerlinks.com
 # [Rackspace.com][AS19994][50.56.4.216 - 50.57.4.223]
 0.0.0.0 accutrk.com
 0.0.0.0 comcluster.cxense.com
 0.0.0.0 lfscpttracking.com
-0.0.0.0 c3.newwebb.com
 0.0.0.0 ads.referlocal.com
 0.0.0.0 www.trkr1.com
 0.0.0.0 trustedtrack.com
@@ -11494,8 +11694,9 @@
 0.0.0.0 ads.sexinyourcity.com
 0.0.0.0 www.sexinyourcity.com
 0.0.0.0 www1.sexinyourcity.com
-# [Rackspace.com / Slicehost][67.23.0.0 - 67.23.47.255]
+# [Rackspace.com / Slicehost][AS12200][67.23.0.0 - 67.23.47.255]
 0.0.0.0 ads.designtaxi.com
+0.0.0.0 ads.gomonews.com
 0.0.0.0 cdn.linksmart.com
 0.0.0.0 secure.wonderfullinks.info
 0.0.0.0 trk.wonderfullinks.info
@@ -11504,8 +11705,6 @@
 0.0.0.0 www.getnoadware.com
 0.0.0.0 www.pconpoint.com
 0.0.0.0 www.registryfix.com
-# [Rackspace.com][69.20.0.0 - 69.20.127.255]
-0.0.0.0 followerscounter.com
 # [Rackspace.com / Acez Software][72.3.128.0 - 72.3.255.255]
 0.0.0.0 www.acez.com #[AdWare.BHO.MegaSearch.b]
 0.0.0.0 www.acezsoftware.com
@@ -11516,12 +11715,11 @@
 # [Rackspace.com][AS33070][72.32.0.0 - 72.32.255.255]
 0.0.0.0 aephop.com
 0.0.0.0 aetrk.com
-0.0.0.0 antiadwarepro.com #[Rogue.Antispyware]
-0.0.0.0 www.antiadwarepro.com
 0.0.0.0 members.commissionmonster.com
 0.0.0.0 www.contextuads.com
 0.0.0.0 www.couponsandoffers.com #[Adware.TopMoxie]
 0.0.0.0 track.dmipartners.com
+0.0.0.0 ecdtrk.com
 0.0.0.0 f5mtrack.com
 0.0.0.0 www.free-counter.com
 0.0.0.0 gd.geobytes.com
@@ -11546,6 +11744,7 @@
 0.0.0.0 centertrk.com
 0.0.0.0 firetrck.com
 0.0.0.0 livetrck.com
+0.0.0.0 sinettrk.com
 0.0.0.0 traktum.com
 0.0.0.0 vtgtrk.com
 # [Rackspace.com][AS15395][83.138.128.0 - 83.138.191.255]
@@ -11641,6 +11840,7 @@
 # [Reflected Networks][AS29789][209.239.160.0 - 209.239.175.255]
 0.0.0.0 balanced.gtsadsdistributed.com
 0.0.0.0 ads.playboy.com
+0.0.0.0 a.submityourflicks.com
 0.0.0.0 delivery.trafficforce.com
 0.0.0.0 ads.traffichaus.com
 0.0.0.0 syndication.traffichaus.com
@@ -11651,18 +11851,19 @@
 0.0.0.0 ads.amaland.com
 0.0.0.0 ads.bigrebelads.com
 0.0.0.0 adserver2.exgfnetwork.com
-0.0.0.0 track.gridlockparadise.com
 0.0.0.0 ads.jo-games.com
 0.0.0.0 ads.myjizztube.com
 0.0.0.0 ads.premiumaccounts.com
+0.0.0.0 www.tubehits.com
 0.0.0.0 ads.watchmygf.net
-0.0.0.0 adimages.watchmygf.net
 0.0.0.0 openx.watchmygf.net
 0.0.0.0 stats.watchmygf.com
 # [Reflected Networks][AS29789][64.210.128.0 - 64.210.159.255]
 0.0.0.0 aylarl.com
 # [Reflected Networks][AS29789][66.254.96.0 - 66.254.127.255]
+0.0.0.0 www.etahub.com
 0.0.0.0 ads.mail3x.com
+0.0.0.0 ctrack.trafficjunky.net
 0.0.0.0 static.trafficjunky.net
 # [Register.it][AS39729][81.88.48.64 - 81.88.48.127]
 0.0.0.0 xads.100links.com
@@ -11678,7 +11879,7 @@
 0.0.0.0 www.spy-kill.com
 # [Righthosting.com][AS14576][66.78.16.0 - 66.78.31.255]
 # [Righthosting.com][67.220.139.0 - 67.220.139.255]
-0.0.0.0 stats.bigclicks.com
+0.0.0.0 stats.bigclicks.com #[server down?]
 # [Righthosting.com / ZMac][AS14576][67.220.139.64 - 67.220.139.127]
 0.0.0.0 ads.host.camz.com
 # [Righthosting.com][AS14576][67.220.140.0 - 67.220.141.255]
@@ -11725,11 +11926,10 @@
 0.0.0.0 www.goaltraffic.com
 0.0.0.0 www.targetvisit.com
 # [Sago][65.110.32.0 - 65.110.63.255]
-0.0.0.0 www.addaim.com
 0.0.0.0 www.hobwelt.com
 0.0.0.0 www.validwin.com
 # [Sago / United Colocation][AS21840][66.111.32.0 - 66.111.63.255]
-0.0.0.0 www.pagealizer.com
+0.0.0.0 www.pagealizer.com #[server down?]
 # [Sago][66.118.128.0 - 66.118.191.255]
 0.0.0.0 addfreestats.com #[WebBug]
 0.0.0.0 top.addfreestats.com
@@ -11764,11 +11964,11 @@
 0.0.0.0 nedstat.tripod.com
 0.0.0.0 cm8.lycos.com
 # [Savvis][AS3561][209.225.16.144 - 209.225.16.159]
-0.0.0.0 pulse-analytics-beacon.reutersmedia.net
-# [Savvis / SourceForge][216.34.181.0 - 216.34.181.255]
+# [Savvis][AS3561][216.34.181.0 - 216.35.255.255]
 0.0.0.0 images-aud.freshmeat.net
 0.0.0.0 images-aud.slashdot.org
 0.0.0.0 images-aud.sourceforge.net
+0.0.0.0 events.webflowmetrics.com
 # [Savvis / Nextpoint][216.69.224.0 - 216.69.239.255]
 0.0.0.0 track1.breakmedia.com
 # [Savvis / Creative Media][216.74.128.0 - 216.74.191.255]
@@ -11840,6 +12040,28 @@
 0.0.0.0 img.xratedbucks.com
 0.0.0.0 bigtits.xxxallaccesspass.com
 0.0.0.0 nm.xxxeuropean.com
+# [Secured Servers][AS20454][108.170.0.0 - 108.170.63.255]
+0.0.0.0 t.adonly.com
+# [Secured Servers][AS20454][184.171.160.0 - 184.171.175.255]
+0.0.0.0 tags.adonly.com
+# [Secured Servers][AS20454][198.15.64.0 - 198.15.127.255]
+0.0.0.0 www.ccbilleu.com
+# [Secured Servers][AS20454][209.188.14.0 - 209.188.14.255]
+0.0.0.0 banners.lativio.com
+# [Secured Servers][AS20454][64.152.0.0 - 64.159.255.255]
+0.0.0.0 join4free.com
+0.0.0.0 asians.join4free.com
+0.0.0.0 clickthrough.wegcash.com
+0.0.0.0 free.wegcash.com
+0.0.0.0 programs.wegcash.com
+0.0.0.0 promos.wegcash.com
+# [Secured Servers][AS20454][64.38.192.0 - 64.38.255.255]
+0.0.0.0 serve.ads.chaturbate.com
+0.0.0.0 bill.ecsuite.com
+0.0.0.0 promo.lonelywifehookup.com
+0.0.0.0 www.trafficcashgold.com
+0.0.0.0 promo.ulust.com
+0.0.0.0 ads.xprofiles.com
 # [Sedo LLC Group]
 0.0.0.0 www.adsedo.com
 0.0.0.0 imgs.request.net
@@ -11847,7 +12069,6 @@
 0.0.0.0 www.sedotracker.de
 # [Sedo / Cachenetworks][AS23352][AS30081][205.234.175.0 - 205.234.175.255]
 0.0.0.0 static.crowdscience.com
-0.0.0.0 static-cf.fmpub.net
 0.0.0.0 static.parkingpanel.com
 0.0.0.0 img.sedoparking.com
 # [Sedo][74.55.100.0 - 74.55.100.255]
@@ -11901,7 +12122,6 @@
 0.0.0.0 beacon-6.newrelic.com
 0.0.0.0 www.skassets.com
 # [Server Central Network][AS23352][205.234.128.0 - 205.234.255.255]
-0.0.0.0 download.centralserver.net #[Adware.BkdSpace]
 0.0.0.0 www.holika.com
 # [Server Central / Hostforweb][205.234.134.0 - 205.234.134.255]
 # [Server Central Network][216.246.0.0 - 216.246.127.255]
@@ -11923,7 +12143,6 @@
 # [Server Central / Hostforweb][64.202.107.0 - 64.202.107.255]
 # [Server Central / Hostforweb][64.202.123.0 - 64.202.124.255]
 # [Server Central Network][66.225.192.0 - 66.225.255.255]
-0.0.0.0 playteen.centralserver.net
 # [Serverconnect][AS29518][83.233.165.0 - 83.233.165.255]
 # [Serverconnect][AS29518][83.233.30.0 - 83.233.30.255]
 # [Serverconnect][AS49770][95.143.192.1 - 95.143.194.224]
@@ -11961,7 +12180,6 @@
 0.0.0.0 banners.popads.net
 0.0.0.0 popadscdn.net
 # [Singlehop][AS32475][184.154.0.0 - 184.154.255.255]
-0.0.0.0 ads.bloovue.com
 0.0.0.0 affiliates.date-connected.com
 0.0.0.0 www.liveadclicks.com
 0.0.0.0 www.pixelpmm.info
@@ -11999,7 +12217,6 @@
 0.0.0.0 s4.shinystat.it
 0.0.0.0 www.shinystat.it
 # [Sia Css Group][AS48662][94.142.128.0 - 94.142.129.127]
-0.0.0.0 vipmeds.biz
 # [Sia Nano It][AS43513][91.203.68.0 - 91.203.71.255]
 # [Sia Nano It / Baltconn-net][AS43513][193.138.172.0 - 193.138.175.255]
 # [Sia Teron][AS35695][195.88.80.0 - 195.88.81.255]
@@ -12082,6 +12299,7 @@
 0.0.0.0 ad.yadro.ru #[Tracking.Cookie]
 0.0.0.0 ads.yadro.ru
 0.0.0.0 counter.yadro.ru
+0.0.0.0 upstats.yadro.ru
 # [Sky-Media / Ooo Medialand][AS39134][88.212.200.0 - 88.212.200.127]
 0.0.0.0 100-100.ru
 0.0.0.0 www.100-100.ru
@@ -12097,8 +12315,6 @@
 0.0.0.0 content.medialand.ru
 0.0.0.0 flymedia-mladnet.medialand.ru
 0.0.0.0 popunder-mladnet.medialand.ru
-# [Sky-Media / Mediasoft][AS39134][88.212.201.0 - 88.212.201.127]
-# [Sky-Media / Net-madgroup][88.212.222.144 - 88.212.222.159]
 # [Smartlogic Ltd][AS35118][80.90.112.0 - 80.90.115.255]
 # [Smart][AS44553][87.119.79.0 - 87.119.79.255]
 0.0.0.0 www.europerank.com
@@ -12111,8 +12327,10 @@
 0.0.0.0 www.adforgames.com
 0.0.0.0 clkmon.com
 0.0.0.0 clkrev.com
+0.0.0.0 device.maxmind.com
 0.0.0.0 www.rightmedia.com
 0.0.0.0 www.securepaths.com
+0.0.0.0 srvpub.com
 0.0.0.0 dx.steelhousemedia.com
 # [Softlayer][AS36351][119.81.0.0 - 119.81.255.255]
 0.0.0.0 adr.adplus.co.id
@@ -12121,6 +12339,7 @@
 0.0.0.0 www.admixxer.com
 0.0.0.0 bigbrandrewards.com
 0.0.0.0 analytics.bluekai.com
+0.0.0.0 stags.bluekai.com
 0.0.0.0 c.chango.com
 0.0.0.0 d.chango.com
 0.0.0.0 dnetshelter3.d.chango.com
@@ -12136,6 +12355,7 @@
 0.0.0.0 h.verticalscope.com
 0.0.0.0 w55c.net
 0.0.0.0 tags.w55c.net
+0.0.0.0 ads.wellsmedia.com
 # [Softlayer / Hosting Services][AS36351][173.244.192.0 - 173.244.223.255]
 0.0.0.0 ad.looktraffic.com
 # [Softlayer][174.36.0.0 - 174.37.255.255]
@@ -12156,7 +12376,6 @@
 0.0.0.0 download.kazaa.com
 0.0.0.0 images.kazaa.com
 0.0.0.0 ad.leadbolt.net
-0.0.0.0 www.liveforsearch.com
 0.0.0.0 optimum-hits.com
 0.0.0.0 www.optimum-hits.com
 0.0.0.0 www.ptp123.com
@@ -12195,6 +12414,7 @@
 0.0.0.0 monster.gostats.com
 0.0.0.0 gostats.ir
 0.0.0.0 c3.gostats.ir
+0.0.0.0 gostats.pl
 0.0.0.0 gostats.ro
 0.0.0.0 gostats.ru
 0.0.0.0 c4.gostats.ru
@@ -12210,9 +12430,7 @@
 0.0.0.0 ad1.netshelter.net
 0.0.0.0 ad2.netshelter.net #[a.collective-media.net]
 0.0.0.0 ad4.netshelter.net
-0.0.0.0 nuxepras.info
 0.0.0.0 peerfly.com
-0.0.0.0 www.pornmail.com #[CrackedEarth]
 0.0.0.0 i.simpli.fi
 0.0.0.0 ads.somd.com
 0.0.0.0 ads.soush.com
@@ -12229,9 +12447,13 @@
 # [Softlayer][AS36351][5.153.20.24 - 5.153.20.27]
 0.0.0.0 ox-d.bannersbroker.com
 # [Softlayer][50.116.64.0 - 50.97.255.255]
+0.0.0.0 probes.cedexis.com
 0.0.0.0 www.klixmedia.com
 0.0.0.0 ads.lancenet.com.br
 0.0.0.0 static.realmediadigital.com
+0.0.0.0 reseller.sexyads.com
+0.0.0.0 www.sexyads.net
+0.0.0.0 servedby.studads.com
 0.0.0.0 a.thoughtleadr.com
 # [Softlayer][66.228.112.0 - 66.228.127.255]
 0.0.0.0 ad01.advertise.com
@@ -12321,6 +12543,8 @@
 0.0.0.0 host13.list.ru
 0.0.0.0 host14.list.ru
 0.0.0.0 stat.stars.ru #[WebBug]
+# [Sovintel][AS3216][195.239.111.0 - 195.239.111.255]
+0.0.0.0 engine.rbc.medialand.ru
 # [Sovintel][AS3216][195.68.160.0 - 195.68.160.255]
 0.0.0.0 click.readme.ru
 0.0.0.0 img.readme.ru
@@ -12338,7 +12562,7 @@
 0.0.0.0 ads.tv7.sporta.bg
 # [Srvg-net-fl1-h][AS29671][77.232.66.0 - 77.232.73.255]
 0.0.0.0 w3.followsite.com
-0.0.0.0 www.followsite.com
+0.0.0.0 www.followsite.com #[server down?]
 0.0.0.0 www.islamic-banners.com
 # [SSERV / Adlink][AS24679][91.209.81.0 - 91.209.81.255]
 0.0.0.0 js.adlink.net
@@ -12419,7 +12643,6 @@
 # [Suavemente / IzoWeb][AS14572][66.11.113.0 - 66.11.114.255]
 0.0.0.0 freakads.com
 # [Suavemente / Chat Radio][AS14572][66.11.119.0 - 66.11.119.255]
-0.0.0.0 secure.ivirtualcard.com
 # [SuperHost.pl][AS41079][193.218.152.0 - 193.218.155.255]
 0.0.0.0 poponclick.com
 # [SuperNetwork][AS39392][88.86.96.0 - 88.86.127.255]
@@ -12531,8 +12754,6 @@
 0.0.0.0 tracker.technorati.com
 0.0.0.0 triad.technorati.com
 0.0.0.0 widgetd.technorati.com
-0.0.0.0 ads.technoratimedia.com #[server down?]
-0.0.0.0 stats.technoratimedia.com #[server down?]
 # [TekChannel][AS36700][98.124.128.0 - 98.124.191.255]
 0.0.0.0 au.effectivemeasure.net
 0.0.0.0 id-cdn.effectivemeasure.net
@@ -12607,7 +12828,6 @@
 0.0.0.0 a37.korrelate.net
 0.0.0.0 a68.korrelate.net
 # [Telia / Trade Doubler][AS1299][217.212.240.160 - 217.212.240.191]
-0.0.0.0 tradedoubler.com #[Tracking.Cookie]
 0.0.0.0 anet.tradedoubler.com
 0.0.0.0 anetch.tradedoubler.com
 0.0.0.0 anetdk.tradedoubler.com
@@ -12687,15 +12907,13 @@
 0.0.0.0 www.adult-banner-ads.com
 0.0.0.0 ads.betternetworker.com
 0.0.0.0 xyz.freeweblogger.com
-0.0.0.0 www.girlgamesbanner.com
 0.0.0.0 www.htmate2.com #[Cursor.MySpace]
-0.0.0.0 static.marketfly.net
+0.0.0.0 static.marketfly.net #[server down?]
 0.0.0.0 secure.mymedcenter.net #[ScamFraudAlert.Pharmacy]
 0.0.0.0 www.pantanalvip.com.br
 0.0.0.0 www.persianstat.com
 0.0.0.0 ads.tritonmedia.com
 # [Theplanet.com][205.251.128.0 - 205.251.159.255]
-0.0.0.0 clicks.312search.com
 # [Theplanet.com][207.44.128.0 - 207.44.255.255]
 0.0.0.0 mmaadnet.ad-control-panel.com
 0.0.0.0 as.gostats.com
@@ -12734,7 +12952,6 @@
 0.0.0.0 j.maxmind.com
 # [Theplanet.com][66.98.128.0 - 66.98.255.255]
 0.0.0.0 007.free-counter.co.uk
-0.0.0.0 vote4warez.com
 # [ThePlanet.com][67.15.0.0 - 67.15.255.255]
 0.0.0.0 ads.adhostingsolutions.com #[Tracking.Cookie]
 0.0.0.0 ads.asexstories.com
@@ -12823,8 +13040,6 @@
 0.0.0.0 www.adultads.biz
 0.0.0.0 www.adultblogtoplist.com
 0.0.0.0 www.adultlinkexchange.com
-0.0.0.0 antispywerepro.com
-0.0.0.0 www.antispywerepro.com
 0.0.0.0 www.blogtoplist.com
 0.0.0.0 www.commissionempire.com
 0.0.0.0 server.cpmstar.com #[ads.shizmoo.com]
@@ -12861,6 +13076,7 @@
 0.0.0.0 ads2.radiocompanion.com
 0.0.0.0 regrecall.com
 0.0.0.0 www.regrecall.com
+0.0.0.0 ads.retirementjobs.com
 0.0.0.0 silveragesoftware.com
 0.0.0.0 www.silveragesoftware.com
 0.0.0.0 spywarebot.com
@@ -12878,12 +13094,12 @@
 # [Theplanet.com][74.54.156.234]
 # [Theplanet.com][75.125.0.0 - 75.125.255.255]
 0.0.0.0 2squared.com
-0.0.0.0 www.2squared.com
+0.0.0.0 www.2squared.com #[server down?]
 0.0.0.0 www.3bsoftware.com #[Spyware Protection Pro]
 0.0.0.0 adwarealert.com
 0.0.0.0 www.adwarealert.com
 0.0.0.0 antispywarebot.com
-0.0.0.0 www.antispywarebot.com #[FraudTool.Win32.Antispyware.c]
+0.0.0.0 www.antispywarebot.com #[FraudTool.Win32.Antispyware.c][server down?]
 0.0.0.0 antispyware.com
 0.0.0.0 www.antispyware.com #[FraudTool.Win32.AntiSpyware.d]
 0.0.0.0 www.blowadvertising.com
@@ -12895,7 +13111,7 @@
 0.0.0.0 www.errorkiller.com
 0.0.0.0 errorrepairtool.com
 0.0.0.0 www.errorrepairtool.com
-0.0.0.0 errorsweeper.com #[Adware.Win32.ErrorSweeper]
+0.0.0.0 errorsweeper.com #[Adware.Win32.ErrorSweeper][server down?]
 0.0.0.0 www.errorsweeper.com
 0.0.0.0 www.errorupdatetool.com
 0.0.0.0 evidenceeraser.com
@@ -12905,7 +13121,7 @@
 0.0.0.0 www.handyarchive.com
 0.0.0.0 www.mysearch-finder.com
 0.0.0.0 www.pc-test.net
-0.0.0.0 privacycontrol.com #[Adware.Win32.PrivacyControl]
+0.0.0.0 privacycontrol.com #[Adware.Win32.PrivacyControl][server down.all]
 0.0.0.0 database.privacycontrol.com
 0.0.0.0 www.privacycontrol.com
 0.0.0.0 pulsix.com #[maxalbums.com]
@@ -12985,6 +13201,9 @@
 0.0.0.0 fast.fairfax.demdex.net
 0.0.0.0 4qinvite.4q.iperceptions.com
 0.0.0.0 tiads.timeinc.net
+# [Tinet SpA][AS3257][77.67.53.192 - 77.67.53.223]
+0.0.0.0 front.adproved.net
+0.0.0.0 ads.msvp.net
 # [Todayhost][AS47143][178.214.96.0 - 178.214.127.255]
 0.0.0.0 piwik.iriscorp.co.uk #[Piwik.Analytics]
 # [Todayhost / Bogal Ab][195.42.102.0 - 195.42.103.255]
@@ -13004,6 +13223,8 @@
 0.0.0.0 topdesktop.ezthemes.com
 0.0.0.0 www.ezthemes.com
 0.0.0.0 www.themexp.org #[StopBadware.Warning]
+# [Tranquil][AS13647][208.79.80.0 - 208.79.83.255]
+0.0.0.0 piwik.datawrapper.de #[Piwik.Analytics]
 # [Transquality C.v][AS44259][91.205.232.0 - 91.205.235.255]
 # [Trans World][AS26972][216.25.240.0 - 216.25.255.255]
 # [Tribal Fusion][Dilip DaSilva][AS33419][204.11.108.0 - 204.11.111.255]
@@ -13185,9 +13406,7 @@
 0.0.0.0 www.clickagents.com
 0.0.0.0 mediaplex.com #[Tracking.Cookie]
 0.0.0.0 adfarm.mediaplex.com #[Adware.Meplex][Adware-DesktopMedia.dr]
-0.0.0.0 ad.snv.mediaplex.com
 0.0.0.0 img-cdn.mediaplex.com
-0.0.0.0 img-snv.mediaplex.com
 0.0.0.0 www.mediaplex.com
 0.0.0.0 valueclick.com #[Tracking.Cookie]
 0.0.0.0 ads.aco.valueclick.net
@@ -13244,6 +13463,8 @@
 0.0.0.0 n.mplxtms.com
 0.0.0.0 t.mplxtms.com
 0.0.0.0 krs.ymxpb.com
+# [Valueclick / Conversant][AS25751][8.18.45.0 - 8.18.45.255]
+0.0.0.0 cj.dotomi.com
 # [Vanoppen.biz / Accretive Technology][AS11404][216.243.0.0 - 216.243.63.255]
 0.0.0.0 imgserv.adbutler.com #[Tracking.Cookie]
 0.0.0.0 servedbyadbutler.com
@@ -13275,7 +13496,7 @@
 # [VeriCenter / Coremetrics][66.179.0.0 - 66.179.255.255]
 0.0.0.0 www2.kiehls.com
 0.0.0.0 www62.menshealth.com
-0.0.0.0 www62.womenshealthmag.com
+0.0.0.0 www62.womenshealthmag.com #[server down?]
 # [VeriCenter / Coremetrics][66.179.217.0 - 66.179.217.255]
 0.0.0.0 www62.bicycling.com
 # [VeriCenter / Coremetrics][69.48.237.0 - 69.48.237.255]
@@ -13304,9 +13525,7 @@
 0.0.0.0 www.securitymetrics.com
 # [ViaWest][AS13649][216.24.128.0 - 216.24.159.255]
 0.0.0.0 ap.lijit.com
-0.0.0.0 bap.lijit.com
 0.0.0.0 beacon.lijit.com
-0.0.0.0 vap1iad1.lijit.com
 0.0.0.0 www.lijit.com
 # [ViaWest][AS13649][216.38.192.0 - 216.38.223.255]
 0.0.0.0 www.hugedomains.com #[Parking Service]
@@ -13316,6 +13535,15 @@
 0.0.0.0 server3.103092804.com
 0.0.0.0 server4.103092804.com #[server2.adsrve.com]
 0.0.0.0 www.103092804.com #[Adware.IEHost]
+# [ViaWest][AS14825][67.208.128.0 - 67.208.143.255]
+0.0.0.0 www.dicarlotrack.com
+0.0.0.0 tracking.gajmp.com
+0.0.0.0 www.jmpads.com
+0.0.0.0 www.leadtrackgo.com
+0.0.0.0 www.rsptrack.com
+0.0.0.0 www.sq2trk2.com
+0.0.0.0 www.xy7track.com
+0.0.0.0 affiliates.yourapprovaltracker.com
 # [ViaWest][AS13649][74.63.128.0 - 74.63.191.255]
 0.0.0.0 ssl.clickbank.net
 0.0.0.0 stats.engineseeker.com
@@ -13349,6 +13577,7 @@
 0.0.0.0 loady.de.intellitxt.com
 0.0.0.0 macwelt.de.intellitxt.com
 0.0.0.0 msmobiles.de.intellitxt.com
+0.0.0.0 news.de.intellitxt.com
 0.0.0.0 pcwelt.de.intellitxt.com
 0.0.0.0 php-mag.de.intellitxt.com
 0.0.0.0 php-magnet.de.intellitxt.com
@@ -13358,6 +13587,7 @@
 0.0.0.0 tecchannel.de.intellitxt.com
 0.0.0.0 winfuture.de.intellitxt.com
 0.0.0.0 wg-gesucht.de.intellitxt.com
+0.0.0.0 womenshealth.de.intellitxt.com
 0.0.0.0 actualite-de-stars.fr.intellitxt.com
 0.0.0.0 telefonica.es.intellitxt.com
 0.0.0.0 cowcotland.fr.intellitxt.com
@@ -13777,6 +14007,7 @@
 0.0.0.0 jakeludington.us.intellitxt.com
 0.0.0.0 jkontherun.us.intellitxt.com
 0.0.0.0 joblo.us.intellitxt.com
+0.0.0.0 juicyceleb.us.intellitxt.com
 0.0.0.0 juicy-news.blogspot.us.intellitxt.com
 0.0.0.0 jupiter.us.intellitxt.com
 0.0.0.0 justjared.us.intellitxt.com
@@ -14117,7 +14348,6 @@
 0.0.0.0 www.exactseek.com #[MVPS.Criteria]
 0.0.0.0 adms.physorg.com
 # [Voxel][72.251.192.0 - 72.251.255.255]
-0.0.0.0 adverta.us #[server down?]
 0.0.0.0 loadeu.exelator.com
 0.0.0.0 loadm.exelator.com
 0.0.0.0 ads.imgur.com
@@ -14146,8 +14376,6 @@
 0.0.0.0 www.freezemedia.com
 0.0.0.0 off.music-oasis.com
 0.0.0.0 register.music-oasis.com
-0.0.0.0 ringtone.com #[StopBadware.Report]
-0.0.0.0 www.ringtone.com
 0.0.0.0 off.screensaver.com
 0.0.0.0 register.screensaver.com #[StopBadware.Report]
 0.0.0.0 rdt.screensaver.com
@@ -14173,8 +14401,6 @@
 # [Wahome / Fatal.ru][77.91.229.64 - 77.91.229.79]
 0.0.0.0 neorsoft.xost.ru #[Javascript.Exploit]
 # [Wahome / 2x4.ru][AS41947][92.241.168.0 - 92.241.169.254]
-0.0.0.0 ads.2x4.ru #[server down?]
-0.0.0.0 hot-porn-clips.com
 # [Wahome / Heihachi][AS41947][92.241.190.0 - 92.241.190.255]
 # [WAN Worldcom / Live Technology][AS11486][206.65.169.128 - 206.65.169.191]
 0.0.0.0 14713804a.l2m.net #[Tracking.Cookie]
@@ -14185,8 +14411,6 @@
 # [WAN Worldcom / LinkShare][63.123.248.0 - 63.123.248.63]
 0.0.0.0 analytics.clickpathmedia.com
 0.0.0.0 ad.linksynergy.com #[Tracking.Cookie]
-0.0.0.0 adnetwork.linksynergy.com
-0.0.0.0 adunit.linksynergy.com
 0.0.0.0 click.linksynergy.com
 0.0.0.0 ssl.linksynergy.com #[WebBug]
 0.0.0.0 m.www.linksynergy.com
@@ -14210,10 +14434,14 @@
 0.0.0.0 xml.ecpvads.com
 0.0.0.0 xml.plusfind.net
 0.0.0.0 cpv.popxml.com
+0.0.0.0 app.super-links.net
+0.0.0.0 cpm.super-links.net
 0.0.0.0 cpm.tz4.com
 # [Webair Internet][AS36057][174.137.128.0 - 174.137.191.255]
 0.0.0.0 adx.adosx.com
 0.0.0.0 cdn.adosx.com
+0.0.0.0 filter.adsparkmedia.net
+0.0.0.0 xml.adsparkmedia.net
 0.0.0.0 affiliates.hookup.com
 0.0.0.0 xml.mxsads.com
 0.0.0.0 ads.sexforums.com
@@ -14242,11 +14470,15 @@
 0.0.0.0 affiliate.a4dtracker.com
 0.0.0.0 affiliate.adgtracker.com
 # [WebaZilla][AS35415][178.208.83.0 - 178.208.83.255]
-0.0.0.0 w3orgstats.us
+# [WebaZilla][AS35415][185.49.144.0 - 185.49.147.255]
+0.0.0.0 padsdel.cdnads.com
+0.0.0.0 go.padsdelivery.com
+0.0.0.0 go.padstm.com
 # [WebaZilla][AS35415][188.164.249.128 - 188.164.249.255]
 0.0.0.0 a2pub.com
 # [WebaZilla / Nl-webazilla][AS35415][78.140.128.0 - 78.140.191.255]
 0.0.0.0 1phads.com
+0.0.0.0 www2.acint.net
 0.0.0.0 serve.adhance.com
 0.0.0.0 aa.goodsblock.adskeeper.co.uk
 0.0.0.0 jsc.adskeeper.co.uk
@@ -14267,13 +14499,17 @@
 0.0.0.0 www.ilovecheating.com
 0.0.0.0 lustler.com
 0.0.0.0 www.lustler.com
+0.0.0.0 go.mobytrks.com
+0.0.0.0 go.oclasrv.com
 0.0.0.0 go.oclaserver.com
 0.0.0.0 go.onclasrv.com
 0.0.0.0 onclickads.net
 0.0.0.0 otherprofit.com
 0.0.0.0 popander.mobi
 0.0.0.0 popunder.net
+0.0.0.0 www.postads24.com
 0.0.0.0 propellerpops.com
+0.0.0.0 go.pub2srv.com
 0.0.0.0 xml.seekandsee.com
 0.0.0.0 www.scoreadate.com
 0.0.0.0 c1.smartclick.net
@@ -14458,6 +14694,7 @@
 0.0.0.0 n24.ivwbox.de
 0.0.0.0 netzeitu.ivwbox.de
 0.0.0.0 newsclic.ivwbox.de
+0.0.0.0 newsde.ivwbox.de
 0.0.0.0 ntv.ivwbox.de
 0.0.0.0 offpost.ivwbox.de
 0.0.0.0 pcgames.ivwbox.de
@@ -14513,6 +14750,7 @@
 0.0.0.0 zeitonl.ivwbox.de
 # [Worldstream][AS49981][109.236.81.0 - 109.236.81.255]
 # [Worldstream][AS15435][93.190.139.0 - 93.190.142.255]
+0.0.0.0 go.aceadsys.net
 # [Worldstream][AS49981][94.100.26.0 - 94.100.27.255]
 # [WPP Group via various]
 0.0.0.0 adcontent.videoegg.com
@@ -14606,7 +14844,6 @@
 0.0.0.0 network.realmedia.com
 0.0.0.0 oad.realmedia.com
 0.0.0.0 oas-central.realmedia.com
-0.0.0.0 pub.realmedia.fr
 0.0.0.0 ad.realmedia.co.kr
 0.0.0.0 tech.realmedia.co.kr
 0.0.0.0 tracking.247search.com
@@ -14626,10 +14863,12 @@
 0.0.0.0 ads.bloomberg.com
 0.0.0.0 ad.directrev.com
 0.0.0.0 a.diximedia.es
+0.0.0.0 oascentral.dominionenterprises.com
 0.0.0.0 ads.epi.es
 0.0.0.0 oascentral.fiercemarkets.com
 0.0.0.0 ads.fora.tv
 0.0.0.0 sifomedia.idg.se
+0.0.0.0 ads.itzdigital.com
 0.0.0.0 ops.investopedia.com
 0.0.0.0 oascentral.litbreaker.com
 0.0.0.0 ads.miniclip.com
@@ -14639,7 +14878,6 @@
 0.0.0.0 ads.mrtones.com
 0.0.0.0 mig.nexac.com
 0.0.0.0 ads.nwsource.com
-0.0.0.0 oas.pe.com
 0.0.0.0 oas.providencejournal.com
 0.0.0.0 ads.seattletimes.com
 0.0.0.0 a3.suntimes.com
@@ -14663,11 +14901,10 @@
 0.0.0.0 oas.ad-vice.biz
 0.0.0.0 oascentral.alladultchannel.com
 0.0.0.0 oascentral.hosted.ap.org
-0.0.0.0 oascentral.appssavvy.com
+0.0.0.0 oascentral.appssavvy.com #[server down?]
 0.0.0.0 oascentral.artistdirect.com
 0.0.0.0 oascentral.autoweek.com
 0.0.0.0 oascentral.aviationweek.com
-0.0.0.0 oascentral.babble.com
 0.0.0.0 oascentral.blackenterprise.com
 0.0.0.0 oascentral.blogher.org
 0.0.0.0 oascentral.btobonline.com
@@ -14713,8 +14950,6 @@
 0.0.0.0 oas.five.tv
 0.0.0.0 oascentral.fosters.com
 0.0.0.0 oascentral.freedom.com
-0.0.0.0 oascentral.ggl.com
-0.0.0.0 oascentral.globalpost.com #[server down?]
 0.0.0.0 oascentral.goerie.com
 0.0.0.0 oascentral.gotriad.com
 0.0.0.0 oascentral.grandparents.com
@@ -14747,7 +14982,6 @@
 0.0.0.0 oascentral.minnpost.com
 0.0.0.0 oascentral.mochila.com
 0.0.0.0 oascentral.modernhealthcare.com
-0.0.0.0 oascentral.motherjones.com #[server down?]
 0.0.0.0 oascentral.movietickets.com
 0.0.0.0 oascentral.nationalunderwriter.com
 0.0.0.0 oascentral.necn.com
@@ -14859,6 +15093,7 @@
 0.0.0.0 oas.northernandshell.co.uk
 0.0.0.0 ads.onlineathens.com
 0.0.0.0 ads.pennnet.com
+0.0.0.0 oas.populisengage.com
 0.0.0.0 oas.rcsadv.it
 0.0.0.0 panel2.research-int.se
 0.0.0.0 oascentral.riverfronttimes.com
@@ -14874,11 +15109,9 @@
 0.0.0.0 ads.h2porn.com
 0.0.0.0 adv.h2porn.com
 0.0.0.0 mpmcash.com
-0.0.0.0 server25.shrimpi.com
 0.0.0.0 hits.twittweb.com
 # [Wz Communications / Soft-Com.biz][AS40824][208.94.235.0 - 208.94.235.255]
 0.0.0.0 jsfeedadsget.com
-0.0.0.0 ads2.tuccus.com
 0.0.0.0 www.xvika.net
 0.0.0.0 www.xvika.org
 # [Wz Communications][AS40824][74.117.176.0 - 74.117.183.255]
@@ -14911,7 +15144,7 @@
 0.0.0.0 advert.funimation.com
 0.0.0.0 webiq005.webiqonline.com
 # [XO Communications][AS2828][65.104.0.0 - 65.107.255.255]
-0.0.0.0 ads.websponsors.com
+0.0.0.0 ads.websponsors.com #[server down?]
 # [XO Communications][AS2828][66.104.0.0 - 66.107.255.255]
 0.0.0.0 advertising.finditt.com
 # [XO Communications][AS2828][67.104.0.0 - 67.111.255.255]
@@ -14939,7 +15172,6 @@
 0.0.0.0 free1.usa.realtracker.com
 0.0.0.0 www.realtracker.com
 # [Xs4all Internet][AS3265][82.94.228.112 - 82.94.228.127]
-0.0.0.0 www.coolconcepts.nl
 # [Xs4all Internet][AS3265][83.68.16.0 - 83.68.16.255]
 0.0.0.0 ntkrnlpa.info
 # [Xtraordinary][AS30827][82.113.144.0 - 82.113.151.255]
@@ -14981,7 +15213,7 @@
 0.0.0.0 adjax.flickr.yahoo.com
 # [Yahoo / Altavista][AS14779][216.39.48.0 - 216.39.63.255]
 0.0.0.0 www.armor2net.com #[Rogue/Suspect]
-0.0.0.0 bigclicks.com
+0.0.0.0 bigclicks.com #[server down?]
 0.0.0.0 www.bigclicks.com
 0.0.0.0 www.lockthemdown.com
 # [Yahoo Europe][AS15635][217.12.3.0 - 217.12.4.255]
@@ -15014,6 +15246,8 @@
 # [Yahoo][AS36752][68.180.128.0 - 68.180.255.255]
 0.0.0.0 ts.richmedia.yahoo.com
 0.0.0.0 visit.webhosting.yahoo.com #[WebBug]
+# [Yahoo][AS26101][69.147.64.0 - 69.147.127.255]
+0.0.0.0 syndication.streamads.yahoo.com
 # [Yahoo / Inktomi][AS14778][72.30.0.0 - 72.30.255.255]
 0.0.0.0 rc.us-west.srv.overture.com
 0.0.0.0 srv1.wa.marketingsolutions.yahoo.com
@@ -15086,11 +15320,9 @@
 0.0.0.0 xml.weather.overture.com
 0.0.0.0 ypn-js.overture.com #[Yahoo Contextual Ads]
 # [Yahoo / Right Media - clones][AS14778][76.13.0.0 - 76.13.255.255]
-0.0.0.0 adserver.00web.com
 0.0.0.0 ad.103092804.com
 0.0.0.0 ad.adconsole.com
 0.0.0.0 ad.adfunky.com
-0.0.0.0 ad.admediaprovider.com
 0.0.0.0 ad.adnetinteractive.com
 0.0.0.0 ad2.adnetinteractive.com
 0.0.0.0 ad.adnetwork.net
@@ -15177,8 +15409,6 @@
 0.0.0.0 www.adinterax.com
 0.0.0.0 ad.coupons.com
 0.0.0.0 ads.creafi-online-media.com
-0.0.0.0 pic.geocities.com
-0.0.0.0 visit.geocities.com
 0.0.0.0 ad.marsmediachannels.com
 0.0.0.0 ad.reachlocal.com
 0.0.0.0 ad.xertive.com
@@ -15215,9 +15445,12 @@
 0.0.0.0 ybinst9.ec.yimg.com
 # [Yandex][AS13238][87.250.250.0 - 87.250.250.255]
 0.0.0.0 advertising.yandex.ru
+0.0.0.0 bs.yandex.ru
+0.0.0.0 bs-meta.yandex.ru
 # 0.0.0.0 clck.yandex.ru
 0.0.0.0 grade.market.yandex.ru
 0.0.0.0 mc.yandex.ru
+0.0.0.0 yandexadexchange.net
 # [Yaris Industries][AS40824][91.210.56.0 - 91.210.59.255]
 # [Yesup][AS22923][199.21.148.0 - 199.21.151.255]
 0.0.0.0 serw.myroitracking.com
